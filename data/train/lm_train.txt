@@ -1,0 +1,3000 @@
+<s> Temperature 97.4 Discharge Red Temperature 38.8 </s>
+<s> FHR 127 Drug Tablet Misoprostol FHR 140 </s>
+<s> BP 116 / 82 Drug Tablet Misoprostol Pulse 115 </s>
+<s> Discharge Red Temperature 96.9 Temperature 36.7 </s>
+<s> Temperature 97.1 Temperature 99.5 Effacement Patla </s>
+<s> Temperature 38.3 BP 109 / 48 FHR 149 </s>
+<s> Pulse 87 BP 100 / 72 BP 110 / 107 </s>
+<s> Dilatation 5 cm Drug Antibiotic Dilatation 6 cm </s>
+<s> Temperature 36.7 Discharge Green Dilatation 1 cm </s>
+<s> Effacement Mota BP 124 / 58 Temperature 38.3 </s>
+<s> FHR 105 Temperature 37.5 BP 81 / 43 </s>
+<s> Effacement Patla Pulse 89 Drug Injection Oxytocin </s>
+<s> Discharge Red Pulse 104 Temperature 97.2 </s>
+<s> Temperature 35.9 Temperature 96.3 BP 82 / 73 </s>
+<s> Temperature 36.7 Dilatation 7 cm Effacement Mota </s>
+<s> BP 113 / 61 Temperature 37.1 Pulse 89 </s>
+<s> Temperature 97.5 Pulse 65 Dilatation 5 cm </s>
+<s> FHR 110 Dilatation 8 cm BP 109 / 69 </s>
+<s> Pulse 117 Drug Lignocaine Effacement Patla </s>
+<s> Temperature 99.3 Temperature 38.2 BP 87 / 68 </s>
+<s> BP 81 / 78 Effacement Patla Discharge Green </s>
+<s> Dilatation 6 cm Pulse 86 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown Pulse 96 </s>
+<s> BP 91 / 54 Dilatation 2 cm Discharge Green </s>
+<s> FHR 112 Temperature 37.1 Dilatation 6 cm </s>
+<s> Effacement Mota Discharge White BP 108 / 80 </s>
+<s> BP 146 / 86 Pulse 81 FHR 104 </s>
+<s> BP 87 / 86 Discharge Green FHR 120 </s>
+<s> BP 125 / 104 Discharge Clear Discharge Yellow </s>
+<s> Temperature 96.0 Dilatation 4 cm Drug Tablet Misoprostol </s>
+<s> Effacement Mota Drug Tablet Misoprostol FHR 133 </s>
+<s> Drug Tablet Misoprostol Pulse 79 Discharge Brown </s>
+<s> Drug Injection Oxytocin Temperature 99.7 Dilatation 2 cm </s>
+<s> BP 140 / 69 Pulse 113 BP 145 / 61 </s>
+<s> Effacement Mota FHR 136 Effacement Mota </s>
+<s> Pulse 64 Discharge Yellow Drug Lignocaine </s>
+<s> BP 93 / 57 BP 168 / 68 Dilatation 3 cm </s>
+<s> FHR 154 BP 123 / 72 Discharge Red </s>
+<s> Discharge Clear BP 100 / 44 FHR 125 </s>
+<s> Dilatation 3 cm Discharge Red Dilatation 7 cm </s>
+<s> Effacement Mota Temperature 95.7 Dilatation 9 cm </s>
+<s> BP 129 / 82 BP 142 / 105 FHR 127 </s>
+<s> Pulse 87 Discharge White FHR 145 </s>
+<s> Temperature 96.4 Discharge Clear Dilatation 5 cm </s>
+<s> Temperature 98.2 Drug Antibiotic Pulse 88 </s>
+<s> Dilatation 9 cm Dilatation 5 cm Temperature 35.9 </s>
+<s> Pulse 67 Effacement Mota Dilatation 7 cm </s>
+<s> Temperature 96.6 Temperature 37.5 Temperature 97.3 </s>
+<s> Pulse 81 BP 127 / 79 Temperature 36.4 </s>
+<s> FHR 129 Temperature 98.5 Effacement Patla </s>
+<s> Discharge Clear Pulse 62 Effacement Patla </s>
+<s> BP 89 / 60 FHR 111 Temperature 96.7 </s>
+<s> Drug Tablet Misoprostol BP 123 / 59 FHR 149 </s>
+<s> BP 108 / 95 Pulse 97 FHR 130 </s>
+<s> Temperature 36.4 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Pulse 101 BP 113 / 81 Temperature 36.3 </s>
+<s> Effacement Mota BP 102 / 80 Effacement Patla </s>
+<s> BP 147 / 72 Drug Lignocaine Dilatation 7 cm </s>
+<s> Temperature 38.1 Temperature 95.7 FHR 139 </s>
+<s> Drug Tablet Misoprostol Temperature 37.1 BP 83 / 100 </s>
+<s> BP 146 / 110 BP 148 / 121 Temperature 39.8 </s>
+<s> Dilatation 5 cm Effacement Patla Temperature 36.2 </s>
+<s> Temperature 95.7 FHR 120 Temperature 96.0 </s>
+<s> Effacement Mota Temperature 37.3 Temperature 38.0 </s>
+<s> Dilatation 6 cm Effacement Patla Discharge Green </s>
+<s> FHR 147 Effacement Patla FHR 131 </s>
+<s> BP 123 / 59 BP 127 / 98 Effacement Mota </s>
+<s> FHR 127 Effacement Patla BP 151 / 112 </s>
+<s> Drug Antibiotic Pulse 97 Dilatation 5 cm </s>
+<s> Temperature 97.9 BP 145 / 69 Temperature 95.8 </s>
+<s> BP 136 / 83 Pulse 102 FHR 135 </s>
+<s> Discharge Clear BP 142 / 89 Discharge Clear </s>
+<s> Dilatation 5 cm Temperature 97.6 FHR 139 </s>
+<s> Pulse 79 Drug Injection Oxytocin BP 90 / 112 </s>
+<s> Discharge White Temperature 96.4 FHR 134 </s>
+<s> Temperature 97.6 Discharge White Temperature 97.7 </s>
+<s> FHR 127 Temperature 97.1 Dilatation 1 cm </s>
+<s> Temperature 37.9 FHR 153 BP 81 / 81 </s>
+<s> FHR 160 Dilatation 4 cm Effacement Mota </s>
+<s> Temperature 36.7 FHR 139 Discharge Green </s>
+<s> Effacement Patla Discharge Red FHR 150 </s>
+<s> FHR 180 FHR 128 BP 101 / 84 </s>
+<s> Drug Tablet Misoprostol Discharge Green Effacement Patla </s>
+<s> Temperature 36.9 Effacement Patla Temperature 98.9 </s>
+<s> Discharge White Effacement Mota Pulse 51 </s>
+<s> Temperature 35.6 BP 118 / 81 Temperature 36.8 </s>
+<s> Discharge Red BP 124 / 56 Dilatation 7 cm </s>
+<s> BP 83 / 44 Effacement Mota Effacement Patla </s>
+<s> Pulse 65 Dilatation 2 cm Temperature 35.5 </s>
+<s> Temperature 36.5 FHR 116 Temperature 38.5 </s>
+<s> Dilatation 6 cm BP 100 / 60 FHR 142 </s>
+<s> FHR 134 Discharge Clear Temperature 98.5 </s>
+<s> Dilatation 3 cm BP 112 / 105 Discharge Yellow </s>
+<s> Temperature 37.6 Pulse 85 Discharge Green </s>
+<s> Drug Tablet Misoprostol Temperature 96.8 BP 129 / 91 </s>
+<s> BP 122 / 103 BP 119 / 83 Drug Injection Oxytocin </s>
+<s> FHR 96 Pulse 97 Pulse 74 </s>
+<s> Discharge Red Discharge Yellow BP 136 / 95 </s>
+<s> FHR 113 Discharge Yellow Discharge White </s>
+<s> BP 111 / 71 Dilatation 9 cm Pulse 92 </s>
+<s> BP 80 / 111 Discharge Clear Effacement Patla </s>
+<s> Dilatation 7 cm Effacement Mota Dilatation 7 cm </s>
+<s> FHR 170 Effacement Mota Temperature 39.5 </s>
+<s> Temperature 37.8 Discharge White BP 134 / 119 </s>
+<s> Discharge Clear BP 145 / 66 Effacement Mota </s>
+<s> Drug Lignocaine FHR 130 BP 130 / 41 </s>
+<s> Discharge Brown Discharge Clear FHR 91 </s>
+<s> Drug Injection Oxytocin Discharge Brown Pulse 109 </s>
+<s> Drug Injection Oxytocin BP 108 / 75 Temperature 95.6 </s>
+<s> BP 118 / 91 Effacement Patla FHR 84 </s>
+<s> FHR 137 Temperature 97.5 Effacement Mota </s>
+<s> Pulse 62 Drug Injection Oxytocin Drug Lignocaine </s>
+<s> Dilatation 9 cm FHR 131 BP 120 / 56 </s>
+<s> Effacement Patla BP 114 / 96 Temperature 97.1 </s>
+<s> BP 146 / 71 Effacement Mota Temperature 96.5 </s>
+<s> Pulse 117 Pulse 93 BP 135 / 46 </s>
+<s> Temperature 37.4 Effacement Mota Discharge Yellow </s>
+<s> BP 130 / 74 Dilatation 8 cm Temperature 38.3 </s>
+<s> Dilatation 3 cm Pulse 77 Temperature 98.5 </s>
+<s> Dilatation 4 cm Effacement Mota Pulse 128 </s>
+<s> FHR 174 Discharge Brown Discharge Green </s>
+<s> Temperature 97.6 Temperature 98.7 Drug Antibiotic </s>
+<s> Dilatation 8 cm BP 113 / 55 Drug Lignocaine </s>
+<s> Temperature 96.5 Discharge Clear BP 129 / 68 </s>
+<s> Discharge Green Effacement Patla Temperature 97.1 </s>
+<s> FHR 97 Temperature 37.1 Discharge Clear </s>
+<s> Pulse 117 Pulse 66 Drug Tablet Misoprostol </s>
+<s> Discharge White Dilatation 3 cm Effacement Mota </s>
+<s> BP 90 / 99 FHR 157 Effacement Mota </s>
+<s> BP 108 / 108 Temperature 36.7 Dilatation 2 cm </s>
+<s> Dilatation 1 cm Effacement Patla Discharge White </s>
+<s> BP 118 / 104 BP 138 / 54 BP 109 / 45 </s>
+<s> Effacement Patla Discharge Yellow Effacement Patla </s>
+<s> Temperature 36.7 Discharge Yellow BP 117 / 114 </s>
+<s> Effacement Mota BP 112 / 115 FHR 147 </s>
+<s> Discharge Red Effacement Patla Temperature 36.4 </s>
+<s> Pulse 104 BP 153 / 59 FHR 94 </s>
+<s> FHR 89 Temperature 96.2 Temperature 97.5 </s>
+<s> Temperature 98.1 Drug Injection Oxytocin Dilatation 6 cm </s>
+<s> Dilatation 5 cm Drug Injection Oxytocin Drug Antibiotic </s>
+<s> Temperature 36.8 Dilatation 5 cm Temperature 36.9 </s>
+<s> FHR 119 Temperature 38.7 Pulse 78 </s>
+<s> Discharge White Temperature 97.3 FHR 124 </s>
+<s> Discharge Red Temperature 96.2 Effacement Mota </s>
+<s> Temperature 38.2 Effacement Mota Temperature 99.0 </s>
+<s> Discharge Brown FHR 130 Drug Injection Oxytocin </s>
+<s> BP 94 / 84 BP 83 / 48 Drug Tablet Misoprostol </s>
+<s> FHR 140 FHR 149 FHR 149 </s>
+<s> Effacement Patla BP 93 / 84 Discharge White </s>
+<s> Temperature 36.0 Temperature 96.7 Dilatation 7 cm </s>
+<s> Temperature 97.8 Temperature 96.7 FHR 139 </s>
+<s> Temperature 97.6 Temperature 36.4 BP 101 / 99 </s>
+<s> Temperature 97.0 BP 145 / 97 Dilatation 5 cm </s>
+<s> Pulse 52 Temperature 98.9 BP 135 / 61 </s>
+<s> Discharge Clear Dilatation 10 cm BP 144 / 99 </s>
+<s> BP 142 / 63 Temperature 37.6 Temperature 97.5 </s>
+<s> Temperature 35.7 BP 112 / 131 BP 171 / 86 </s>
+<s> Dilatation 10 cm Drug Antibiotic BP 151 / 96 </s>
+<s> FHR 109 BP 120 / 53 Temperature 96.7 </s>
+<s> Temperature 36.4 Temperature 96.9 BP 114 / 57 </s>
+<s> BP 138 / 78 Pulse 88 Temperature 36.4 </s>
+<s> FHR 159 Temperature 37.6 BP 137 / 42 </s>
+<s> Temperature 96.2 Temperature 96.4 Effacement Mota </s>
+<s> FHR 147 Temperature 36.3 Effacement Mota </s>
+<s> FHR 180 BP 87 / 77 BP 128 / 46 </s>
+<s> Pulse 104 Discharge Green Pulse 76 </s>
+<s> Discharge Clear FHR 135 Discharge Green </s>
+<s> Effacement Patla BP 108 / 94 Temperature 97.0 </s>
+<s> Temperature 39.3 Temperature 96.4 Drug Lignocaine </s>
+<s> Discharge Green Dilatation 6 cm Temperature 37.9 </s>
+<s> Dilatation 7 cm Effacement Patla Temperature 97.7 </s>
+<s> Effacement Mota Pulse 92 BP 101 / 90 </s>
+<s> BP 126 / 106 Pulse 104 BP 109 / 73 </s>
+<s> BP 148 / 95 Drug Antibiotic Dilatation 5 cm </s>
+<s> Temperature 95.3 Temperature 95.6 Dilatation 4 cm </s>
+<s> Temperature 38.5 Discharge Clear FHR 133 </s>
+<s> Discharge Red Discharge Brown Drug Injection Oxytocin </s>
+<s> Drug Injection Oxytocin Dilatation 3 cm BP 167 / 57 </s>
+<s> FHR 140 Temperature 36.6 Temperature 36.6 </s>
+<s> Pulse 82 Temperature 35.6 Temperature 36.1 </s>
+<s> Temperature 38.2 Discharge Brown BP 131 / 96 </s>
+<s> BP 145 / 96 Dilatation 6 cm Temperature 96.5 </s>
+<s> Temperature 96.6 Temperature 37.4 Pulse 128 </s>
+<s> Temperature 97.6 Pulse 83 Pulse 78 </s>
+<s> Temperature 99.0 Temperature 97.4 Dilatation 2 cm </s>
+<s> Dilatation 6 cm Pulse 61 Temperature 36.2 </s>
+<s> Pulse 93 Discharge White Effacement Patla </s>
+<s> Dilatation 6 cm Drug Tablet Misoprostol Drug Antibiotic </s>
+<s> Drug Tablet Misoprostol FHR 124 Temperature 36.8 </s>
+<s> Drug Injection Oxytocin Effacement Mota BP 127 / 73 </s>
+<s> FHR 137 Pulse 62 FHR 115 </s>
+<s> Temperature 97.0 BP 139 / 60 Effacement Mota </s>
+<s> Discharge Green Dilatation 4 cm Temperature 96.3 </s>
+<s> Temperature 97.9 Temperature 35.4 Dilatation 6 cm </s>
+<s> Dilatation 7 cm BP 91 / 96 Temperature 36.4 </s>
+<s> Pulse 93 FHR 141 Dilatation 7 cm </s>
+<s> Temperature 98.2 Effacement Mota Dilatation 7 cm </s>
+<s> Discharge White BP 133 / 78 Drug Lignocaine </s>
+<s> Drug Injection Oxytocin Dilatation 4 cm Effacement Mota </s>
+<s> BP 173 / 67 Dilatation 6 cm FHR 156 </s>
+<s> Discharge White Temperature 97.2 Effacement Patla </s>
+<s> Pulse 56 Dilatation 5 cm Temperature 36.5 </s>
+<s> Drug Lignocaine Pulse 80 BP 140 / 67 </s>
+<s> FHR 134 FHR 138 Temperature 97.5 </s>
+<s> Temperature 97.5 Discharge Green Pulse 60 </s>
+<s> FHR 171 BP 90 / 64 Pulse 51 </s>
+<s> Pulse 107 Drug Tablet Misoprostol Effacement Patla </s>
+<s> Effacement Mota FHR 131 Pulse 92 </s>
+<s> Drug Injection Oxytocin FHR 150 BP 90 / 90 </s>
+<s> Effacement Patla Discharge White BP 150 / 101 </s>
+<s> Dilatation 7 cm Discharge Red Drug Injection Oxytocin </s>
+<s> BP 94 / 61 Dilatation 5 cm Effacement Mota </s>
+<s> Dilatation 4 cm Temperature 37.1 BP 107 / 70 </s>
+<s> FHR 179 Effacement Mota Discharge Green </s>
+<s> Effacement Patla Pulse 65 Dilatation 6 cm </s>
+<s> Pulse 70 BP 129 / 82 FHR 129 </s>
+<s> FHR 185 BP 111 / 68 BP 109 / 95 </s>
+<s> FHR 159 Effacement Patla Pulse 88 </s>
+<s> Drug Injection Oxytocin Discharge White Effacement Mota </s>
+<s> BP 124 / 49 Effacement Mota Discharge Clear </s>
+<s> BP 128 / 76 BP 118 / 60 Effacement Mota </s>
+<s> BP 107 / 93 Effacement Mota BP 95 / 106 </s>
+<s> Discharge White Discharge Red FHR 161 </s>
+<s> Effacement Mota BP 81 / 85 Drug Tablet Misoprostol </s>
+<s> Effacement Mota FHR 101 Effacement Mota </s>
+<s> BP 101 / 45 Drug Tablet Misoprostol BP 82 / 62 </s>
+<s> Pulse 54 Temperature 97.7 Effacement Patla </s>
+<s> BP 145 / 52 BP 103 / 73 BP 151 / 95 </s>
+<s> Pulse 54 Temperature 37.2 Temperature 99.1 </s>
+<s> Temperature 38.3 Drug Antibiotic Discharge Green </s>
+<s> Pulse 77 Drug Antibiotic Effacement Patla </s>
+<s> FHR 102 FHR 153 Temperature 97.5 </s>
+<s> BP 115 / 82 BP 110 / 89 Drug Injection Oxytocin </s>
+<s> BP 95 / 70 Dilatation 6 cm Temperature 38.3 </s>
+<s> FHR 103 BP 117 / 85 FHR 142 </s>
+<s> BP 82 / 69 Pulse 102 Drug Antibiotic </s>
+<s> Temperature 100.4 Discharge Red Effacement Mota </s>
+<s> Temperature 39.2 Temperature 97.3 Temperature 38.1 </s>
+<s> FHR 126 Effacement Mota Temperature 97.2 </s>
+<s> Effacement Mota BP 114 / 112 BP 109 / 48 </s>
+<s> Pulse 107 BP 155 / 107 Pulse 91 </s>
+<s> Effacement Patla BP 117 / 52 Effacement Mota </s>
+<s> BP 99 / 84 Pulse 101 Temperature 98.6 </s>
+<s> Effacement Mota Temperature 97.0 Dilatation 5 cm </s>
+<s> BP 129 / 105 Effacement Mota Drug Injection Oxytocin </s>
+<s> Discharge Brown Pulse 91 Drug Antibiotic </s>
+<s> Temperature 97.1 Temperature 96.3 Pulse 110 </s>
+<s> Temperature 35.8 FHR 103 Temperature 97.9 </s>
+<s> Dilatation 7 cm Pulse 63 BP 95 / 131 </s>
+<s> Dilatation 7 cm Effacement Patla Effacement Patla </s>
+<s> Temperature 36.8 FHR 144 FHR 115 </s>
+<s> Drug Tablet Misoprostol Temperature 38.6 Pulse 64 </s>
+<s> FHR 148 Temperature 98.8 Effacement Patla </s>
+<s> Effacement Mota BP 143 / 95 Drug Injection Oxytocin </s>
+<s> Discharge Yellow Pulse 58 Discharge Clear </s>
+<s> Temperature 35.5 FHR 84 BP 119 / 100 </s>
+<s> Temperature 36.5 Drug Tablet Misoprostol Temperature 36.2 </s>
+<s> Pulse 127 FHR 142 Drug Lignocaine </s>
+<s> Temperature 37.3 Pulse 54 BP 145 / 77 </s>
+<s> Discharge Yellow Effacement Mota BP 108 / 65 </s>
+<s> Effacement Mota Drug Injection Oxytocin Temperature 36.7 </s>
+<s> BP 135 / 80 FHR 134 BP 108 / 86 </s>
+<s> FHR 140 Drug Tablet Misoprostol Dilatation 3 cm </s>
+<s> Drug Injection Oxytocin Effacement Mota BP 132 / 85 </s>
+<s> BP 160 / 73 Discharge Clear Temperature 96.8 </s>
+<s> Discharge Clear Discharge Red Effacement Mota </s>
+<s> Pulse 57 Temperature 96.8 Effacement Mota </s>
+<s> BP 160 / 56 FHR 93 Drug Antibiotic </s>
+<s> Discharge Yellow Temperature 96.1 Discharge Green </s>
+<s> FHR 127 FHR 124 Effacement Mota </s>
+<s> BP 129 / 87 FHR 125 Discharge Yellow </s>
+<s> Discharge Green Temperature 36.6 Drug Injection Oxytocin </s>
+<s> Temperature 36.2 BP 128 / 63 Dilatation 4 cm </s>
+<s> Effacement Mota Pulse 78 Drug Injection Oxytocin </s>
+<s> Drug Antibiotic Effacement Mota Dilatation 4 cm </s>
+<s> BP 153 / 110 Discharge Clear Discharge White </s>
+<s> Temperature 38.0 Dilatation 5 cm Temperature 96.2 </s>
+<s> Discharge Yellow Pulse 53 Temperature 97.7 </s>
+<s> Effacement Patla Temperature 37.6 BP 107 / 73 </s>
+<s> Pulse 93 Temperature 36.8 Dilatation 5 cm </s>
+<s> Temperature 36.1 FHR 108 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol BP 135 / 68 Discharge Red </s>
+<s> BP 98 / 97 Temperature 97.4 BP 95 / 51 </s>
+<s> BP 103 / 81 Effacement Patla Drug Tablet Misoprostol </s>
+<s> Temperature 36.9 Pulse 81 Discharge Yellow </s>
+<s> Temperature 37.0 FHR 161 FHR 112 </s>
+<s> Effacement Mota Temperature 37.5 Pulse 60 </s>
+<s> Dilatation 6 cm Pulse 52 BP 99 / 69 </s>
+<s> Discharge Clear Pulse 53 Drug Tablet Misoprostol </s>
+<s> FHR 141 Pulse 67 Effacement Patla </s>
+<s> Pulse 77 BP 102 / 60 Temperature 36.3 </s>
+<s> Drug Tablet Misoprostol Temperature 37.8 Effacement Patla </s>
+<s> BP 141 / 76 BP 122 / 105 Pulse 88 </s>
+<s> Dilatation 5 cm Drug Tablet Misoprostol Dilatation 8 cm </s>
+<s> Temperature 36.0 FHR 133 Effacement Mota </s>
+<s> Temperature 98.8 Temperature 36.9 Effacement Patla </s>
+<s> Temperature 35.7 Dilatation 5 cm Dilatation 2 cm </s>
+<s> FHR 101 Pulse 92 Pulse 56 </s>
+<s> Drug Injection Oxytocin Discharge Red Pulse 92 </s>
+<s> Discharge Red Drug Antibiotic Effacement Patla </s>
+<s> Temperature 36.1 Temperature 36.3 Effacement Patla </s>
+<s> Effacement Patla FHR 162 Temperature 38.6 </s>
+<s> BP 146 / 84 Temperature 37.6 BP 83 / 78 </s>
+<s> Pulse 120 Pulse 75 Drug Injection Oxytocin </s>
+<s> Temperature 37.9 Drug Injection Oxytocin BP 158 / 91 </s>
+<s> Effacement Mota BP 107 / 69 Temperature 38.2 </s>
+<s> Effacement Mota Drug Injection Oxytocin Temperature 38.3 </s>
+<s> BP 134 / 42 Drug Antibiotic FHR 120 </s>
+<s> Dilatation 4 cm FHR 122 Discharge Red </s>
+<s> Temperature 96.4 BP 117 / 106 FHR 137 </s>
+<s> Discharge Red FHR 124 Pulse 99 </s>
+<s> BP 130 / 76 FHR 158 Temperature 38.5 </s>
+<s> Discharge White Discharge Brown BP 87 / 103 </s>
+<s> Discharge Brown Discharge Green BP 123 / 75 </s>
+<s> Pulse 64 BP 146 / 64 Temperature 37.0 </s>
+<s> Pulse 110 Temperature 36.5 Dilatation 7 cm </s>
+<s> BP 131 / 104 Discharge Yellow Effacement Mota </s>
+<s> BP 92 / 73 Effacement Mota FHR 108 </s>
+<s> Dilatation 6 cm Effacement Patla Discharge Green </s>
+<s> FHR 81 Temperature 36.2 BP 131 / 72 </s>
+<s> Temperature 36.3 BP 130 / 73 Dilatation 6 cm </s>
+<s> BP 94 / 118 Effacement Patla Discharge Brown </s>
+<s> FHR 152 Effacement Patla FHR 167 </s>
+<s> Pulse 74 Temperature 96.8 Pulse 98 </s>
+<s> Pulse 88 BP 145 / 92 BP 104 / 41 </s>
+<s> Temperature 97.7 FHR 137 BP 123 / 96 </s>
+<s> FHR 125 Effacement Mota Discharge Brown </s>
+<s> Pulse 85 Drug Antibiotic BP 90 / 140 </s>
+<s> Temperature 38.0 Temperature 39.9 Temperature 95.9 </s>
+<s> Dilatation 5 cm Effacement Patla BP 144 / 80 </s>
+<s> Temperature 96.9 Temperature 97.3 Drug Lignocaine </s>
+<s> FHR 119 Dilatation 7 cm Pulse 87 </s>
+<s> Discharge Clear Temperature 36.6 FHR 153 </s>
+<s> Dilatation 3 cm Effacement Patla Pulse 88 </s>
+<s> Dilatation 5 cm BP 126 / 57 Temperature 95.8 </s>
+<s> Drug Injection Oxytocin Dilatation 4 cm BP 111 / 56 </s>
+<s> Temperature 97.0 Pulse 102 Effacement Patla </s>
+<s> Pulse 108 Drug Tablet Misoprostol Pulse 102 </s>
+<s> Drug Tablet Misoprostol Temperature 36.2 BP 90 / 75 </s>
+<s> Temperature 37.4 BP 117 / 88 FHR 116 </s>
+<s> Dilatation 4 cm Dilatation 4 cm Dilatation 6 cm </s>
+<s> Pulse 93 Pulse 91 Effacement Mota </s>
+<s> Drug Lignocaine Discharge Yellow BP 202 / 82 </s>
+<s> Dilatation 6 cm BP 98 / 73 FHR 124 </s>
+<s> Pulse 113 Pulse 79 Temperature 39.8 </s>
+<s> Effacement Mota BP 163 / 84 BP 80 / 54 </s>
+<s> BP 108 / 69 Pulse 107 FHR 114 </s>
+<s> Discharge Brown Effacement Mota Pulse 75 </s>
+<s> Pulse 94 FHR 141 BP 117 / 93 </s>
+<s> BP 136 / 97 Dilatation 5 cm BP 125 / 53 </s>
+<s> Temperature 97.4 BP 136 / 45 Discharge White </s>
+<s> FHR 145 Discharge Yellow Drug Antibiotic </s>
+<s> Temperature 96.8 BP 100 / 74 BP 100 / 60 </s>
+<s> Pulse 109 BP 81 / 73 Drug Injection Oxytocin </s>
+<s> FHR 156 Dilatation 5 cm Temperature 36.4 </s>
+<s> Discharge Brown Discharge Clear Effacement Patla </s>
+<s> FHR 112 BP 132 / 83 Pulse 104 </s>
+<s> Pulse 108 BP 97 / 53 Temperature 36.9 </s>
+<s> BP 108 / 69 BP 92 / 56 Effacement Mota </s>
+<s> Pulse 102 Temperature 37.6 Temperature 37.4 </s>
+<s> Temperature 97.0 Temperature 36.7 Discharge Red </s>
+<s> Effacement Mota Effacement Mota BP 113 / 75 </s>
+<s> Pulse 51 Drug Lignocaine Temperature 98.0 </s>
+<s> Pulse 77 BP 107 / 57 Temperature 97.9 </s>
+<s> Discharge Green Drug Tablet Misoprostol Pulse 75 </s>
+<s> Effacement Mota Effacement Mota Drug Injection Oxytocin </s>
+<s> Effacement Mota BP 120 / 56 BP 124 / 97 </s>
+<s> BP 97 / 92 Temperature 39.6 Discharge Yellow </s>
+<s> BP 113 / 84 FHR 130 Dilatation 7 cm </s>
+<s> BP 142 / 73 Dilatation 5 cm Drug Lignocaine </s>
+<s> Drug Injection Oxytocin BP 125 / 57 Temperature 36.1 </s>
+<s> Effacement Mota Effacement Patla BP 91 / 73 </s>
+<s> BP 120 / 75 Effacement Mota Dilatation 4 cm </s>
+<s> Temperature 96.7 BP 131 / 109 Pulse 61 </s>
+<s> Effacement Patla FHR 97 Discharge Clear </s>
+<s> Temperature 37.4 Discharge Green FHR 108 </s>
+<s> BP 118 / 94 BP 125 / 64 Drug Lignocaine </s>
+<s> Pulse 85 Discharge Clear FHR 137 </s>
+<s> Pulse 110 Discharge Brown Temperature 97.1 </s>
+<s> FHR 152 Drug Tablet Misoprostol Drug Injection Oxytocin </s>
+<s> Temperature 97.0 Effacement Patla Discharge Green </s>
+<s> FHR 152 Pulse 68 Drug Tablet Misoprostol </s>
+<s> FHR 129 Effacement Mota Discharge Brown </s>
+<s> FHR 123 Temperature 96.8 BP 162 / 113 </s>
+<s> BP 109 / 82 Temperature 37.6 BP 122 / 90 </s>
+<s> Discharge Red Discharge Red Temperature 96.8 </s>
+<s> BP 104 / 61 Effacement Mota BP 115 / 66 </s>
+<s> Pulse 53 Effacement Patla BP 137 / 51 </s>
+<s> FHR 112 BP 131 / 106 Discharge Yellow </s>
+<s> Temperature 96.5 Effacement Mota FHR 100 </s>
+<s> Drug Tablet Misoprostol Drug Tablet Misoprostol Temperature 36.4 </s>
+<s> Effacement Mota Temperature 36.2 Effacement Patla </s>
+<s> Temperature 98.2 Temperature 36.3 BP 139 / 45 </s>
+<s> BP 118 / 102 Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 93 / 48 Discharge Green Temperature 97.3 </s>
+<s> BP 91 / 56 Discharge Red FHR 162 </s>
+<s> BP 93 / 85 FHR 148 Discharge White </s>
+<s> Temperature 96.8 Temperature 98.3 FHR 152 </s>
+<s> FHR 92 Dilatation 8 cm Drug Injection Oxytocin </s>
+<s> FHR 169 Drug Injection Oxytocin BP 104 / 61 </s>
+<s> Discharge Brown Temperature 98.4 Dilatation 7 cm </s>
+<s> Dilatation 6 cm FHR 158 Temperature 97.0 </s>
+<s> Effacement Mota Drug Lignocaine Discharge Yellow </s>
+<s> Discharge Brown Temperature 36.8 Temperature 36.9 </s>
+<s> Pulse 53 Temperature 96.5 BP 112 / 77 </s>
+<s> Dilatation 5 cm Discharge White Temperature 36.2 </s>
+<s> BP 146 / 51 Pulse 57 Drug Tablet Misoprostol </s>
+<s> Drug Injection Oxytocin Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 116 / 80 Drug Injection Oxytocin BP 140 / 85 </s>
+<s> Drug Tablet Misoprostol Temperature 96.1 Pulse 54 </s>
+<s> Temperature 96.1 Temperature 97.8 BP 137 / 43 </s>
+<s> Dilatation 2 cm Drug Lignocaine Temperature 38.9 </s>
+<s> FHR 126 Temperature 36.5 Drug Antibiotic </s>
+<s> Effacement Mota FHR 147 Pulse 77 </s>
+<s> FHR 162 FHR 105 Effacement Mota </s>
+<s> Temperature 99.5 Temperature 35.4 Temperature 96.4 </s>
+<s> Discharge Red Pulse 62 FHR 110 </s>
+<s> BP 98 / 111 FHR 136 BP 95 / 72 </s>
+<s> Temperature 37.1 Temperature 36.6 Dilatation 6 cm </s>
+<s> BP 142 / 85 BP 142 / 66 Effacement Patla </s>
+<s> BP 115 / 63 FHR 129 Temperature 97.7 </s>
+<s> FHR 133 Effacement Patla Drug Injection Oxytocin </s>
+<s> Temperature 35.4 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Drug Tablet Misoprostol Dilatation 8 cm Temperature 96.2 </s>
+<s> BP 126 / 46 Effacement Patla FHR 142 </s>
+<s> Temperature 98.6 Drug Injection Oxytocin Temperature 96.9 </s>
+<s> Dilatation 8 cm Temperature 37.2 Dilatation 9 cm </s>
+<s> Temperature 38.1 BP 123 / 50 BP 123 / 61 </s>
+<s> Effacement Patla BP 131 / 84 FHR 138 </s>
+<s> Pulse 86 BP 91 / 59 Pulse 84 </s>
+<s> Drug Tablet Misoprostol Discharge Red Dilatation 5 cm </s>
+<s> FHR 84 BP 109 / 108 Pulse 81 </s>
+<s> FHR 120 Discharge Clear BP 107 / 74 </s>
+<s> FHR 169 Temperature 38.5 Discharge Red </s>
+<s> Drug Tablet Misoprostol BP 120 / 121 FHR 96 </s>
+<s> Pulse 87 Discharge Green Drug Injection Oxytocin </s>
+<s> FHR 154 FHR 108 Dilatation 5 cm </s>
+<s> Drug Tablet Misoprostol Temperature 37.9 Drug Injection Oxytocin </s>
+<s> FHR 89 FHR 152 FHR 123 </s>
+<s> FHR 133 Temperature 98.0 Temperature 97.9 </s>
+<s> Temperature 98.3 Pulse 89 BP 112 / 74 </s>
+<s> Temperature 97.0 BP 167 / 72 BP 118 / 59 </s>
+<s> FHR 126 Effacement Mota Drug Tablet Misoprostol </s>
+<s> FHR 115 BP 166 / 85 BP 100 / 103 </s>
+<s> Discharge White Effacement Mota BP 129 / 116 </s>
+<s> Pulse 93 BP 95 / 68 Drug Tablet Misoprostol </s>
+<s> Temperature 37.2 BP 163 / 73 Discharge Clear </s>
+<s> Temperature 37.5 Dilatation 6 cm Dilatation 5 cm </s>
+<s> Effacement Mota Temperature 39.1 Temperature 36.1 </s>
+<s> Dilatation 6 cm FHR 179 BP 141 / 87 </s>
+<s> Drug Lignocaine BP 144 / 81 Drug Antibiotic </s>
+<s> Temperature 37.2 Temperature 35.9 Temperature 96.1 </s>
+<s> BP 82 / 130 BP 106 / 105 BP 130 / 114 </s>
+<s> Temperature 36.4 Pulse 102 BP 111 / 51 </s>
+<s> Temperature 98.1 Pulse 126 Pulse 68 </s>
+<s> Drug Injection Oxytocin Discharge White Discharge Red </s>
+<s> Drug Injection Oxytocin Discharge Red BP 132 / 59 </s>
+<s> Drug Tablet Misoprostol Pulse 88 Dilatation 5 cm </s>
+<s> FHR 94 Temperature 35.6 Pulse 84 </s>
+<s> FHR 147 BP 87 / 100 Temperature 96.7 </s>
+<s> Temperature 96.7 Discharge Red Drug Lignocaine </s>
+<s> FHR 135 Dilatation 6 cm BP 129 / 63 </s>
+<s> FHR 123 BP 137 / 52 Drug Lignocaine </s>
+<s> Drug Lignocaine FHR 141 Temperature 95.7 </s>
+<s> Pulse 64 Pulse 73 FHR 126 </s>
+<s> Temperature 95.8 BP 131 / 43 Pulse 98 </s>
+<s> Pulse 62 FHR 114 Temperature 99.8 </s>
+<s> Effacement Mota BP 126 / 92 FHR 87 </s>
+<s> Temperature 38.0 Effacement Patla BP 121 / 49 </s>
+<s> BP 130 / 93 Temperature 36.5 FHR 149 </s>
+<s> Drug Tablet Misoprostol BP 109 / 51 Drug Lignocaine </s>
+<s> Dilatation 4 cm Temperature 97.5 Dilatation 4 cm </s>
+<s> Temperature 99.5 BP 109 / 77 BP 111 / 127 </s>
+<s> Discharge Red Dilatation 3 cm BP 100 / 109 </s>
+<s> Drug Tablet Misoprostol BP 117 / 102 BP 117 / 86 </s>
+<s> Temperature 35.7 Temperature 37.5 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown Discharge Yellow </s>
+<s> Effacement Patla Effacement Mota FHR 133 </s>
+<s> Pulse 65 BP 122 / 61 Temperature 97.3 </s>
+<s> Temperature 96.9 BP 95 / 71 Pulse 110 </s>
+<s> Dilatation 5 cm Temperature 37.5 Pulse 65 </s>
+<s> Discharge Green Discharge Clear Pulse 62 </s>
+<s> Dilatation 6 cm FHR 134 FHR 129 </s>
+<s> Drug Injection Oxytocin Temperature 36.8 Temperature 98.3 </s>
+<s> Effacement Mota BP 103 / 132 Effacement Patla </s>
+<s> BP 117 / 76 Discharge Clear Temperature 36.5 </s>
+<s> Temperature 97.4 Effacement Patla Temperature 38.5 </s>
+<s> FHR 150 Effacement Mota BP 98 / 88 </s>
+<s> Pulse 98 BP 129 / 85 BP 144 / 46 </s>
+<s> Pulse 57 Dilatation 5 cm Temperature 37.1 </s>
+<s> Dilatation 5 cm Effacement Patla BP 120 / 111 </s>
+<s> Discharge Clear Temperature 96.6 Temperature 97.9 </s>
+<s> BP 129 / 71 Temperature 97.5 Effacement Mota </s>
+<s> Drug Tablet Misoprostol BP 142 / 85 Pulse 59 </s>
+<s> Pulse 70 Dilatation 2 cm Drug Injection Oxytocin </s>
+<s> Temperature 97.2 Discharge Yellow FHR 149 </s>
+<s> Dilatation 6 cm BP 110 / 91 Temperature 96.6 </s>
+<s> BP 120 / 55 Effacement Patla Temperature 35.7 </s>
+<s> Drug Injection Oxytocin Temperature 36.8 Drug Injection Oxytocin </s>
+<s> BP 133 / 82 FHR 160 BP 112 / 55 </s>
+<s> Temperature 35.8 Drug Lignocaine Pulse 83 </s>
+<s> Drug Lignocaine BP 159 / 102 Temperature 36.0 </s>
+<s> FHR 180 Temperature 96.9 Pulse 94 </s>
+<s> Effacement Mota Discharge Yellow Pulse 68 </s>
+<s> Pulse 99 Discharge Brown Pulse 96 </s>
+<s> Pulse 90 Temperature 37.6 Dilatation 5 cm </s>
+<s> Drug Lignocaine FHR 151 Effacement Mota </s>
+<s> FHR 110 FHR 102 BP 116 / 73 </s>
+<s> BP 144 / 66 Temperature 38.5 BP 165 / 63 </s>
+<s> Discharge Red BP 129 / 60 Drug Lignocaine </s>
+<s> FHR 140 Pulse 84 Discharge Green </s>
+<s> Effacement Patla BP 149 / 120 BP 109 / 92 </s>
+<s> BP 152 / 59 BP 128 / 109 Discharge White </s>
+<s> Effacement Patla Pulse 100 Pulse 100 </s>
+<s> Temperature 97.8 BP 97 / 52 Discharge Brown </s>
+<s> Effacement Mota Pulse 110 BP 156 / 79 </s>
+<s> Dilatation 9 cm Temperature 97.8 Drug Injection Oxytocin </s>
+<s> Discharge Brown BP 123 / 118 Effacement Patla </s>
+<s> Temperature 96.6 Dilatation 7 cm Effacement Patla </s>
+<s> BP 137 / 101 BP 85 / 56 Effacement Patla </s>
+<s> Discharge Yellow BP 135 / 84 Temperature 97.1 </s>
+<s> Temperature 39.1 FHR 132 Discharge Clear </s>
+<s> BP 90 / 114 Temperature 96.0 Temperature 37.6 </s>
+<s> Temperature 97.4 Discharge Red Drug Injection Oxytocin </s>
+<s> Pulse 99 Pulse 71 FHR 117 </s>
+<s> Temperature 100.8 Discharge Clear Drug Tablet Misoprostol </s>
+<s> FHR 118 Discharge Red Effacement Patla </s>
+<s> BP 113 / 104 BP 94 / 109 Drug Injection Oxytocin </s>
+<s> BP 125 / 86 FHR 83 BP 131 / 77 </s>
+<s> Drug Lignocaine BP 115 / 120 Pulse 97 </s>
+<s> FHR 133 BP 88 / 88 Temperature 98.4 </s>
+<s> BP 157 / 40 Drug Tablet Misoprostol Dilatation 5 cm </s>
+<s> Drug Injection Oxytocin Dilatation 6 cm BP 130 / 93 </s>
+<s> Discharge Yellow Temperature 97.9 Dilatation 4 cm </s>
+<s> Effacement Mota Temperature 96.3 Drug Tablet Misoprostol </s>
+<s> Temperature 98.3 Temperature 97.6 BP 117 / 95 </s>
+<s> Dilatation 5 cm BP 130 / 93 FHR 148 </s>
+<s> Dilatation 5 cm Pulse 68 Temperature 37.4 </s>
+<s> Temperature 38.5 Dilatation 3 cm BP 117 / 65 </s>
+<s> Dilatation 3 cm Effacement Patla Discharge Red </s>
+<s> FHR 112 FHR 167 Effacement Patla </s>
+<s> FHR 115 Temperature 98.0 Drug Tablet Misoprostol </s>
+<s> Dilatation 6 cm Temperature 96.4 Effacement Mota </s>
+<s> Temperature 98.4 Temperature 96.4 Temperature 96.3 </s>
+<s> BP 173 / 53 Discharge Yellow Pulse 57 </s>
+<s> Drug Lignocaine Temperature 37.8 Effacement Patla </s>
+<s> BP 148 / 130 FHR 124 Temperature 36.3 </s>
+<s> BP 118 / 48 Temperature 98.8 FHR 129 </s>
+<s> Temperature 96.7 BP 88 / 64 Drug Antibiotic </s>
+<s> Dilatation 4 cm Effacement Patla Drug Injection Oxytocin </s>
+<s> Effacement Patla Temperature 37.6 Pulse 91 </s>
+<s> BP 119 / 78 BP 138 / 115 Pulse 94 </s>
+<s> Dilatation 7 cm Temperature 38.4 Pulse 117 </s>
+<s> Discharge Red BP 135 / 58 Discharge Brown </s>
+<s> Discharge Yellow Drug Tablet Misoprostol BP 80 / 67 </s>
+<s> Effacement Patla Effacement Patla BP 165 / 83 </s>
+<s> FHR 149 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Temperature 37.0 Dilatation 4 cm Effacement Patla </s>
+<s> Dilatation 4 cm BP 111 / 94 Temperature 36.9 </s>
+<s> Dilatation 5 cm FHR 137 BP 108 / 62 </s>
+<s> BP 102 / 115 Drug Tablet Misoprostol Discharge Clear </s>
+<s> Pulse 94 Effacement Patla Effacement Mota </s>
+<s> Effacement Patla Temperature 36.5 BP 125 / 51 </s>
+<s> FHR 104 Discharge Yellow BP 83 / 94 </s>
+<s> Dilatation 5 cm Temperature 99.1 BP 141 / 78 </s>
+<s> BP 125 / 94 Temperature 35.5 Drug Injection Oxytocin </s>
+<s> Temperature 37.0 Temperature 36.4 BP 155 / 85 </s>
+<s> Effacement Patla BP 147 / 41 Discharge Clear </s>
+<s> Effacement Mota BP 129 / 96 Dilatation 4 cm </s>
+<s> BP 131 / 110 Effacement Patla BP 106 / 99 </s>
+<s> Temperature 96.4 Effacement Mota Temperature 38.6 </s>
+<s> BP 107 / 59 Discharge Yellow Pulse 92 </s>
+<s> BP 150 / 77 Dilatation 6 cm Pulse 78 </s>
+<s> Dilatation 4 cm Dilatation 7 cm Temperature 38.3 </s>
+<s> Discharge Green Temperature 36.5 Temperature 96.6 </s>
+<s> BP 102 / 102 Pulse 78 Pulse 115 </s>
+<s> BP 86 / 87 BP 148 / 55 Temperature 37.6 </s>
+<s> FHR 146 Drug Lignocaine Drug Lignocaine </s>
+<s> FHR 153 Temperature 37.3 Temperature 36.7 </s>
+<s> Temperature 35.7 BP 116 / 115 BP 135 / 78 </s>
+<s> Effacement Mota Discharge Red Temperature 97.1 </s>
+<s> Dilatation 6 cm BP 119 / 59 Dilatation 6 cm </s>
+<s> Discharge Red Dilatation 3 cm BP 154 / 85 </s>
+<s> FHR 126 Pulse 114 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Temperature 99.0 Dilatation 7 cm </s>
+<s> BP 137 / 102 Effacement Patla Effacement Mota </s>
+<s> BP 109 / 56 BP 95 / 57 Discharge Yellow </s>
+<s> BP 165 / 54 BP 135 / 56 Pulse 75 </s>
+<s> BP 115 / 79 Discharge Clear Temperature 96.7 </s>
+<s> Discharge White Temperature 37.5 FHR 144 </s>
+<s> Effacement Patla Effacement Patla Discharge Red </s>
+<s> Effacement Patla Temperature 37.2 BP 126 / 105 </s>
+<s> Pulse 90 Pulse 103 Discharge Brown </s>
+<s> Effacement Mota Pulse 88 Drug Injection Oxytocin </s>
+<s> Pulse 63 Discharge Green BP 118 / 58 </s>
+<s> FHR 127 Temperature 95.7 Temperature 98.3 </s>
+<s> BP 150 / 48 Effacement Mota BP 157 / 92 </s>
+<s> Drug Lignocaine Effacement Patla BP 100 / 65 </s>
+<s> Temperature 96.6 FHR 163 FHR 181 </s>
+<s> Effacement Patla BP 110 / 130 BP 122 / 56 </s>
+<s> Dilatation 5 cm FHR 129 Discharge Green </s>
+<s> Temperature 97.3 Discharge Clear Temperature 97.0 </s>
+<s> BP 172 / 59 Drug Lignocaine BP 103 / 74 </s>
+<s> FHR 165 Dilatation 4 cm Discharge Brown </s>
+<s> Effacement Mota BP 98 / 97 Discharge White </s>
+<s> Temperature 38.1 Effacement Patla Effacement Mota </s>
+<s> FHR 159 Temperature 36.4 Effacement Mota </s>
+<s> Pulse 94 Drug Injection Oxytocin Dilatation 5 cm </s>
+<s> FHR 127 Drug Lignocaine Pulse 58 </s>
+<s> FHR 122 Effacement Mota Effacement Patla </s>
+<s> BP 138 / 107 Effacement Patla Discharge White </s>
+<s> Temperature 98.2 Temperature 36.3 FHR 113 </s>
+<s> Temperature 37.2 Drug Injection Oxytocin Drug Tablet Misoprostol </s>
+<s> Temperature 96.8 BP 110 / 86 BP 127 / 46 </s>
+<s> BP 96 / 106 Temperature 98.2 Temperature 36.9 </s>
+<s> Temperature 99.0 Temperature 38.8 Temperature 96.9 </s>
+<s> Drug Tablet Misoprostol BP 122 / 107 Dilatation 6 cm </s>
+<s> Dilatation 5 cm FHR 127 Drug Antibiotic </s>
+<s> Drug Antibiotic Pulse 68 Pulse 57 </s>
+<s> FHR 138 Pulse 91 Effacement Patla </s>
+<s> Discharge Brown Temperature 96.7 Dilatation 5 cm </s>
+<s> Dilatation 7 cm Dilatation 4 cm Effacement Mota </s>
+<s> BP 128 / 96 Temperature 37.1 FHR 107 </s>
+<s> Temperature 95.9 Drug Antibiotic Drug Antibiotic </s>
+<s> BP 116 / 67 Temperature 96.6 BP 138 / 88 </s>
+<s> Dilatation 4 cm Dilatation 4 cm Discharge Green </s>
+<s> BP 146 / 77 Drug Lignocaine BP 121 / 92 </s>
+<s> Pulse 80 Discharge Yellow BP 134 / 78 </s>
+<s> Effacement Mota BP 129 / 137 Dilatation 7 cm </s>
+<s> Pulse 107 Pulse 67 FHR 125 </s>
+<s> BP 138 / 101 Temperature 35.7 Discharge Brown </s>
+<s> Drug Injection Oxytocin Temperature 96.4 FHR 126 </s>
+<s> Pulse 109 Temperature 38.7 Pulse 105 </s>
+<s> Temperature 96.1 Dilatation 9 cm Pulse 76 </s>
+<s> Pulse 60 Pulse 67 Dilatation 5 cm </s>
+<s> Discharge Green FHR 168 Temperature 38.1 </s>
+<s> Drug Injection Oxytocin Temperature 37.5 Dilatation 6 cm </s>
+<s> FHR 137 Temperature 97.8 BP 119 / 83 </s>
+<s> Effacement Patla BP 100 / 60 Effacement Mota </s>
+<s> Discharge White BP 96 / 74 BP 153 / 47 </s>
+<s> Temperature 97.6 Drug Injection Oxytocin Temperature 37.0 </s>
+<s> Dilatation 8 cm Drug Injection Oxytocin Pulse 76 </s>
+<s> Effacement Mota Drug Lignocaine Temperature 96.6 </s>
+<s> Temperature 36.4 BP 97 / 63 Temperature 98.3 </s>
+<s> Temperature 37.1 Effacement Mota Discharge Green </s>
+<s> BP 142 / 96 Dilatation 8 cm FHR 125 </s>
+<s> BP 150 / 45 Temperature 37.0 Dilatation 3 cm </s>
+<s> Temperature 35.8 Temperature 97.9 BP 117 / 101 </s>
+<s> Pulse 102 Temperature 36.6 Discharge Yellow </s>
+<s> Temperature 96.7 Effacement Patla Drug Lignocaine </s>
+<s> BP 109 / 93 Effacement Mota Temperature 96.1 </s>
+<s> FHR 95 Discharge Red BP 97 / 120 </s>
+<s> Dilatation 7 cm Dilatation 6 cm Temperature 96.0 </s>
+<s> Effacement Patla BP 80 / 96 Temperature 96.4 </s>
+<s> Dilatation 7 cm Pulse 93 Temperature 96.0 </s>
+<s> Dilatation 6 cm BP 148 / 63 BP 140 / 100 </s>
+<s> Temperature 97.3 Drug Lignocaine BP 104 / 102 </s>
+<s> Discharge Clear Pulse 86 Pulse 79 </s>
+<s> Temperature 95.9 BP 144 / 75 Effacement Mota </s>
+<s> Temperature 35.6 Drug Antibiotic Dilatation 5 cm </s>
+<s> Discharge Green FHR 110 Temperature 38.0 </s>
+<s> BP 137 / 103 FHR 149 Temperature 96.7 </s>
+<s> Temperature 96.8 Effacement Mota BP 121 / 91 </s>
+<s> BP 174 / 66 BP 111 / 97 Temperature 37.7 </s>
+<s> Discharge Clear Effacement Mota Temperature 97.2 </s>
+<s> Effacement Patla Dilatation 5 cm FHR 178 </s>
+<s> BP 175 / 70 Pulse 50 Dilatation 7 cm </s>
+<s> FHR 111 Pulse 116 Effacement Patla </s>
+<s> Effacement Patla Discharge Brown FHR 130 </s>
+<s> Temperature 96.6 Drug Tablet Misoprostol Pulse 97 </s>
+<s> Drug Tablet Misoprostol Temperature 96.4 Temperature 37.1 </s>
+<s> FHR 162 Pulse 53 Effacement Mota </s>
+<s> Discharge White FHR 118 Temperature 96.2 </s>
+<s> BP 102 / 85 BP 160 / 108 Pulse 71 </s>
+<s> Temperature 38.3 BP 146 / 89 Effacement Mota </s>
+<s> Discharge White FHR 124 BP 101 / 45 </s>
+<s> Effacement Mota Temperature 37.1 Temperature 96.7 </s>
+<s> FHR 116 Temperature 37.3 Temperature 37.2 </s>
+<s> BP 140 / 45 Effacement Patla Temperature 96.4 </s>
+<s> BP 141 / 85 BP 143 / 128 Pulse 65 </s>
+<s> Temperature 37.1 BP 126 / 70 Temperature 96.1 </s>
+<s> Temperature 36.5 Drug Injection Oxytocin Effacement Mota </s>
+<s> Temperature 36.7 Pulse 85 Pulse 118 </s>
+<s> Discharge Yellow Pulse 105 Temperature 36.7 </s>
+<s> BP 151 / 62 BP 107 / 88 Temperature 98.2 </s>
+<s> BP 101 / 78 Temperature 35.4 Dilatation 5 cm </s>
+<s> BP 141 / 104 Temperature 96.4 Dilatation 7 cm </s>
+<s> Drug Tablet Misoprostol FHR 112 Dilatation 6 cm </s>
+<s> Dilatation 7 cm Temperature 96.6 Temperature 96.4 </s>
+<s> Temperature 97.9 Dilatation 10 cm Pulse 106 </s>
+<s> Discharge Yellow Temperature 36.8 BP 141 / 98 </s>
+<s> Pulse 80 BP 153 / 67 Temperature 97.6 </s>
+<s> FHR 153 Temperature 37.3 Pulse 85 </s>
+<s> Effacement Mota Pulse 83 BP 98 / 77 </s>
+<s> BP 147 / 109 Effacement Mota Temperature 97.6 </s>
+<s> FHR 117 Effacement Patla BP 100 / 61 </s>
+<s> FHR 114 Temperature 36.7 Temperature 39.0 </s>
+<s> Temperature 36.0 FHR 170 BP 123 / 127 </s>
+<s> Drug Lignocaine Pulse 103 Temperature 97.8 </s>
+<s> BP 98 / 113 BP 104 / 108 Temperature 97.1 </s>
+<s> Discharge White BP 99 / 64 Dilatation 3 cm </s>
+<s> BP 103 / 53 Effacement Mota Pulse 117 </s>
+<s> Discharge Clear Drug Tablet Misoprostol BP 105 / 90 </s>
+<s> Dilatation 7 cm FHR 112 Pulse 91 </s>
+<s> Discharge Red BP 126 / 82 Temperature 96.2 </s>
+<s> Temperature 36.8 Temperature 96.1 Temperature 36.5 </s>
+<s> BP 157 / 72 FHR 168 Temperature 96.0 </s>
+<s> BP 114 / 72 Temperature 37.2 Temperature 39.0 </s>
+<s> BP 150 / 97 BP 135 / 57 Dilatation 4 cm </s>
+<s> Temperature 98.8 Temperature 36.4 Temperature 99.5 </s>
+<s> Pulse 103 BP 116 / 97 BP 116 / 66 </s>
+<s> BP 125 / 113 Dilatation 3 cm BP 150 / 108 </s>
+<s> BP 128 / 100 FHR 107 Pulse 93 </s>
+<s> Effacement Patla FHR 107 Temperature 98.9 </s>
+<s> Effacement Patla Temperature 96.2 Discharge White </s>
+<s> Dilatation 5 cm Pulse 85 Discharge Brown </s>
+<s> Drug Injection Oxytocin BP 106 / 78 BP 144 / 69 </s>
+<s> Temperature 36.7 BP 80 / 74 Pulse 90 </s>
+<s> FHR 133 BP 93 / 131 FHR 154 </s>
+<s> BP 118 / 76 Pulse 128 Dilatation 5 cm </s>
+<s> Discharge Clear Pulse 66 Discharge Green </s>
+<s> BP 107 / 90 Temperature 96.9 Drug Injection Oxytocin </s>
+<s> Temperature 96.7 FHR 125 BP 135 / 60 </s>
+<s> Temperature 97.0 Drug Tablet Misoprostol Effacement Mota </s>
+<s> FHR 111 FHR 97 Temperature 96.1 </s>
+<s> Temperature 96.2 Temperature 97.6 Effacement Patla </s>
+<s> BP 164 / 105 Temperature 36.1 Effacement Mota </s>
+<s> Temperature 38.7 Pulse 67 Temperature 95.9 </s>
+<s> Dilatation 3 cm FHR 110 Pulse 108 </s>
+<s> Discharge Brown Discharge Brown Dilatation 5 cm </s>
+<s> FHR 129 Temperature 96.5 Effacement Mota </s>
+<s> Temperature 35.7 FHR 115 BP 107 / 105 </s>
+<s> Temperature 98.6 Temperature 97.7 Effacement Patla </s>
+<s> Dilatation 4 cm Pulse 101 Pulse 77 </s>
+<s> Drug Lignocaine Pulse 122 Dilatation 5 cm </s>
+<s> FHR 123 BP 113 / 94 Drug Injection Oxytocin </s>
+<s> BP 133 / 68 Temperature 97.1 Temperature 37.8 </s>
+<s> Pulse 71 Discharge Red Dilatation 4 cm </s>
+<s> Drug Injection Oxytocin BP 112 / 68 Pulse 71 </s>
+<s> Drug Lignocaine Pulse 72 Discharge Green </s>
+<s> Dilatation 8 cm Discharge White Discharge Clear </s>
+<s> Dilatation 7 cm BP 112 / 64 Pulse 78 </s>
+<s> BP 112 / 81 Discharge Red Pulse 84 </s>
+<s> BP 156 / 86 FHR 158 Dilatation 6 cm </s>
+<s> Temperature 95.9 Temperature 97.2 Temperature 96.4 </s>
+<s> BP 100 / 92 BP 94 / 76 Dilatation 3 cm </s>
+<s> Effacement Patla Discharge Yellow Effacement Patla </s>
+<s> Pulse 106 BP 97 / 71 Drug Tablet Misoprostol </s>
+<s> Effacement Mota Temperature 96.9 Drug Tablet Misoprostol </s>
+<s> Temperature 97.3 Discharge Red Temperature 39.1 </s>
+<s> Discharge White Temperature 95.7 FHR 115 </s>
+<s> Drug Antibiotic Dilatation 5 cm BP 83 / 87 </s>
+<s> Effacement Mota Drug Lignocaine Dilatation 4 cm </s>
+<s> Discharge Red Pulse 83 Dilatation 2 cm </s>
+<s> Temperature 38.0 BP 139 / 77 Effacement Patla </s>
+<s> Effacement Mota BP 99 / 88 BP 132 / 115 </s>
+<s> Temperature 36.8 Temperature 38.1 Temperature 97.3 </s>
+<s> BP 116 / 49 Effacement Mota Temperature 37.0 </s>
+<s> Temperature 97.2 Temperature 99.2 BP 92 / 81 </s>
+<s> BP 137 / 60 Temperature 97.7 Dilatation 3 cm </s>
+<s> Pulse 54 Discharge Clear Discharge Green </s>
+<s> Dilatation 7 cm Effacement Patla Temperature 37.4 </s>
+<s> Effacement Patla Pulse 104 Effacement Patla </s>
+<s> Dilatation 5 cm Dilatation 4 cm Dilatation 7 cm </s>
+<s> FHR 124 Dilatation 5 cm FHR 90 </s>
+<s> Temperature 97.6 Temperature 96.9 Temperature 96.0 </s>
+<s> Drug Injection Oxytocin BP 82 / 82 Dilatation 7 cm </s>
+<s> Dilatation 4 cm Discharge White BP 157 / 81 </s>
+<s> Dilatation 7 cm Temperature 36.6 Temperature 36.2 </s>
+<s> Pulse 98 Temperature 37.5 Temperature 99.2 </s>
+<s> Discharge Green Dilatation 10 cm Discharge Brown </s>
+<s> BP 176 / 71 Drug Tablet Misoprostol Pulse 68 </s>
+<s> BP 131 / 81 BP 96 / 94 Effacement Patla </s>
+<s> Dilatation 6 cm FHR 120 Discharge Brown </s>
+<s> Pulse 122 BP 124 / 111 Drug Tablet Misoprostol </s>
+<s> Temperature 95.7 Discharge Brown Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown BP 89 / 55 </s>
+<s> Temperature 37.5 Temperature 37.2 Discharge White </s>
+<s> FHR 130 Discharge Clear BP 86 / 84 </s>
+<s> BP 91 / 83 BP 93 / 120 Discharge Clear </s>
+<s> Effacement Mota Drug Tablet Misoprostol Drug Injection Oxytocin </s>
+<s> BP 142 / 89 Temperature 36.3 BP 102 / 56 </s>
+<s> Dilatation 10 cm Dilatation 8 cm Pulse 60 </s>
+<s> Temperature 38.5 Temperature 36.6 BP 85 / 103 </s>
+<s> FHR 98 BP 115 / 98 Temperature 35.6 </s>
+<s> Temperature 36.8 Temperature 96.1 Dilatation 5 cm </s>
+<s> Temperature 37.7 BP 106 / 41 Dilatation 1 cm </s>
+<s> Dilatation 6 cm BP 116 / 99 BP 131 / 130 </s>
+<s> BP 143 / 59 BP 84 / 92 Drug Tablet Misoprostol </s>
+<s> FHR 153 Pulse 69 Discharge Red </s>
+<s> Pulse 50 Temperature 36.5 Effacement Patla </s>
+<s> Pulse 78 Effacement Patla Discharge Red </s>
+<s> Temperature 36.6 Pulse 84 Drug Injection Oxytocin </s>
+<s> Dilatation 6 cm Effacement Patla BP 87 / 80 </s>
+<s> Effacement Patla Discharge Red Effacement Mota </s>
+<s> Effacement Mota Temperature 38.4 Temperature 37.8 </s>
+<s> Temperature 37.3 Drug Tablet Misoprostol Pulse 113 </s>
+<s> FHR 128 Dilatation 3 cm Drug Injection Oxytocin </s>
+<s> FHR 143 Pulse 104 FHR 130 </s>
+<s> Temperature 38.0 FHR 84 Drug Tablet Misoprostol </s>
+<s> Temperature 37.1 Discharge Red Effacement Patla </s>
+<s> Temperature 36.6 Pulse 67 Drug Injection Oxytocin </s>
+<s> Effacement Patla Effacement Patla Pulse 67 </s>
+<s> Pulse 113 Temperature 38.8 Pulse 80 </s>
+<s> Temperature 38.1 Temperature 38.2 Discharge Red </s>
+<s> Dilatation 5 cm Discharge Yellow Discharge Clear </s>
+<s> Drug Injection Oxytocin Temperature 37.7 FHR 148 </s>
+<s> Temperature 97.9 BP 132 / 105 Temperature 37.5 </s>
+<s> Temperature 37.4 Pulse 71 Temperature 36.6 </s>
+<s> Temperature 97.0 Dilatation 4 cm FHR 137 </s>
+<s> BP 127 / 62 Drug Tablet Misoprostol Temperature 36.8 </s>
+<s> Dilatation 2 cm Drug Injection Oxytocin Dilatation 4 cm </s>
+<s> Pulse 85 Effacement Patla Temperature 36.3 </s>
+<s> Temperature 95.9 Pulse 65 BP 152 / 56 </s>
+<s> Temperature 96.9 Drug Injection Oxytocin Effacement Patla </s>
+<s> FHR 110 BP 135 / 90 BP 98 / 93 </s>
+<s> Discharge Yellow Temperature 38.0 BP 95 / 78 </s>
+<s> Pulse 120 Temperature 37.4 Pulse 93 </s>
+<s> BP 129 / 103 Dilatation 9 cm FHR 120 </s>
+<s> Temperature 36.7 Discharge Brown Effacement Mota </s>
+<s> BP 121 / 86 BP 121 / 78 FHR 127 </s>
+<s> BP 114 / 87 Discharge Green Dilatation 6 cm </s>
+<s> BP 126 / 84 Discharge White FHR 94 </s>
+<s> Effacement Mota Temperature 97.3 Temperature 95.7 </s>
+<s> Dilatation 3 cm BP 149 / 53 Discharge Brown </s>
+<s> Pulse 119 Discharge Red Drug Injection Oxytocin </s>
+<s> Temperature 38.0 Temperature 35.5 Temperature 35.9 </s>
+<s> Pulse 80 BP 114 / 80 Discharge White </s>
+<s> Temperature 38.5 Temperature 97.6 FHR 114 </s>
+<s> Effacement Mota Pulse 90 Dilatation 8 cm </s>
+<s> Temperature 36.4 FHR 133 Pulse 58 </s>
+<s> Pulse 82 Temperature 98.4 BP 108 / 67 </s>
+<s> Temperature 38.6 Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 130 / 72 Temperature 98.6 BP 141 / 55 </s>
+<s> BP 135 / 96 Effacement Patla BP 137 / 59 </s>
+<s> BP 118 / 81 Pulse 80 Temperature 96.9 </s>
+<s> Discharge White Drug Injection Oxytocin FHR 83 </s>
+<s> Dilatation 9 cm Temperature 36.4 Effacement Patla </s>
+<s> FHR 123 Discharge Brown Effacement Patla </s>
+<s> Effacement Patla Drug Tablet Misoprostol BP 137 / 46 </s>
+<s> Discharge Clear Dilatation 6 cm BP 116 / 114 </s>
+<s> Dilatation 5 cm BP 148 / 71 FHR 151 </s>
+<s> Pulse 80 Dilatation 8 cm Pulse 66 </s>
+<s> Temperature 97.2 BP 143 / 109 Pulse 54 </s>
+<s> Temperature 36.9 FHR 149 Effacement Patla </s>
+<s> Temperature 96.3 BP 146 / 64 Temperature 37.8 </s>
+<s> Effacement Patla BP 81 / 52 BP 117 / 70 </s>
+<s> Dilatation 5 cm Temperature 97.5 Dilatation 2 cm </s>
+<s> BP 116 / 94 Discharge Green Temperature 96.8 </s>
+<s> BP 111 / 46 FHR 85 Temperature 36.1 </s>
+<s> Dilatation 7 cm BP 102 / 83 Dilatation 9 cm </s>
+<s> BP 109 / 115 BP 150 / 105 Effacement Mota </s>
+<s> Discharge Red Temperature 35.7 BP 145 / 89 </s>
+<s> FHR 135 Temperature 98.0 Temperature 96.4 </s>
+<s> Effacement Patla Temperature 36.6 Temperature 95.9 </s>
+<s> Temperature 36.0 Temperature 36.3 BP 123 / 110 </s>
+<s> Discharge Brown Effacement Mota BP 109 / 86 </s>
+<s> Drug Lignocaine Drug Injection Oxytocin Temperature 97.8 </s>
+<s> Temperature 96.0 Temperature 36.9 Temperature 38.1 </s>
+<s> Discharge Green Effacement Mota Pulse 65 </s>
+<s> BP 84 / 69 Temperature 98.5 Temperature 35.4 </s>
+<s> Temperature 99.3 Temperature 38.7 Temperature 36.8 </s>
+<s> Dilatation 4 cm Temperature 97.7 Dilatation 6 cm </s>
+<s> Effacement Patla Discharge Brown Temperature 99.5 </s>
+<s> FHR 146 Drug Lignocaine Temperature 99.4 </s>
+<s> Temperature 96.7 Effacement Mota BP 126 / 74 </s>
+<s> Discharge White Temperature 97.0 BP 99 / 71 </s>
+<s> Drug Injection Oxytocin Dilatation 7 cm Effacement Patla </s>
+<s> Temperature 98.8 Discharge Brown BP 89 / 59 </s>
+<s> Drug Injection Oxytocin Discharge White Temperature 37.8 </s>
+<s> Pulse 89 Temperature 36.0 BP 107 / 108 </s>
+<s> Drug Tablet Misoprostol Temperature 36.2 Discharge Green </s>
+<s> Pulse 74 Discharge Brown Dilatation 8 cm </s>
+<s> BP 133 / 56 Drug Lignocaine BP 157 / 135 </s>
+<s> Effacement Mota Pulse 73 Temperature 37.8 </s>
+<s> Effacement Mota Drug Lignocaine Temperature 36.2 </s>
+<s> FHR 140 FHR 152 BP 120 / 68 </s>
+<s> BP 163 / 41 Temperature 95.9 Discharge Yellow </s>
+<s> BP 124 / 84 Drug Tablet Misoprostol Discharge Clear </s>
+<s> Effacement Mota Temperature 96.9 Dilatation 9 cm </s>
+<s> BP 128 / 72 Pulse 95 BP 123 / 139 </s>
+<s> Effacement Patla BP 138 / 103 Effacement Mota </s>
+<s> Drug Lignocaine BP 129 / 81 Discharge White </s>
+<s> FHR 106 BP 132 / 72 Discharge Brown </s>
+<s> FHR 165 Temperature 36.4 Temperature 96.9 </s>
+<s> Discharge Clear Pulse 99 Pulse 87 </s>
+<s> Temperature 97.8 Temperature 97.2 Discharge White </s>
+<s> Discharge White Pulse 72 Temperature 96.8 </s>
+<s> Temperature 36.5 Pulse 94 Pulse 85 </s>
+<s> Temperature 96.8 Discharge Green Drug Lignocaine </s>
+<s> Temperature 35.3 Temperature 37.8 FHR 124 </s>
+<s> Dilatation 6 cm Discharge White Discharge Red </s>
+<s> Drug Tablet Misoprostol BP 128 / 77 Dilatation 5 cm </s>
+<s> FHR 131 Pulse 97 Discharge Yellow </s>
+<s> Drug Injection Oxytocin Temperature 99.8 Temperature 96.3 </s>
+<s> FHR 139 Temperature 36.4 Pulse 98 </s>
+<s> Drug Tablet Misoprostol Temperature 96.8 Temperature 96.9 </s>
+<s> BP 119 / 118 Discharge White BP 167 / 138 </s>
+<s> Drug Injection Oxytocin Discharge Yellow Temperature 97.7 </s>
+<s> Effacement Mota Dilatation 4 cm Drug Injection Oxytocin </s>
+<s> Pulse 85 FHR 100 Discharge Yellow </s>
+<s> Temperature 36.4 Effacement Mota Pulse 76 </s>
+<s> Dilatation 6 cm Discharge Green FHR 126 </s>
+<s> BP 103 / 59 Temperature 36.9 Dilatation 4 cm </s>
+<s> Discharge White FHR 113 BP 101 / 98 </s>
+<s> Effacement Mota Drug Tablet Misoprostol Pulse 54 </s>
+<s> Effacement Mota Temperature 36.9 BP 113 / 102 </s>
+<s> BP 96 / 79 BP 111 / 103 BP 131 / 107 </s>
+<s> FHR 108 Dilatation 3 cm Discharge Clear </s>
+<s> Dilatation 10 cm Effacement Patla Temperature 96.6 </s>
+<s> FHR 101 Dilatation 8 cm Temperature 96.0 </s>
+<s> Pulse 57 FHR 80 Temperature 98.1 </s>
+<s> Drug Lignocaine Discharge Clear Pulse 89 </s>
+<s> Pulse 74 Temperature 37.9 BP 130 / 98 </s>
+<s> Drug Lignocaine Drug Injection Oxytocin Temperature 36.5 </s>
+<s> FHR 137 Dilatation 5 cm FHR 96 </s>
+<s> BP 124 / 88 Drug Injection Oxytocin Temperature 99.3 </s>
+<s> BP 169 / 64 Drug Injection Oxytocin Effacement Patla </s>
+<s> Temperature 95.6 Dilatation 3 cm Effacement Patla </s>
+<s> Effacement Mota Pulse 105 Temperature 96.6 </s>
+<s> Discharge Brown Temperature 98.6 Drug Injection Oxytocin </s>
+<s> Drug Lignocaine Drug Antibiotic Dilatation 5 cm </s>
+<s> Discharge Brown FHR 160 Discharge Yellow </s>
+<s> Pulse 79 Temperature 96.1 BP 95 / 59 </s>
+<s> Temperature 36.1 Temperature 97.0 BP 142 / 92 </s>
+<s> Temperature 36.9 Drug Tablet Misoprostol Dilatation 5 cm </s>
+<s> Drug Injection Oxytocin Temperature 37.6 Effacement Mota </s>
+<s> Discharge Red Effacement Mota BP 131 / 76 </s>
+<s> BP 110 / 84 Temperature 36.3 Temperature 97.4 </s>
+<s> Temperature 98.3 Effacement Patla Discharge Red </s>
+<s> Temperature 95.5 Drug Injection Oxytocin Temperature 37.7 </s>
+<s> Drug Tablet Misoprostol Temperature 96.3 FHR 143 </s>
+<s> BP 149 / 104 Effacement Patla Temperature 95.9 </s>
+<s> Discharge Red BP 168 / 81 Drug Injection Oxytocin </s>
+<s> Dilatation 8 cm Temperature 96.5 Dilatation 5 cm </s>
+<s> BP 93 / 78 FHR 118 Pulse 96 </s>
+<s> Pulse 87 Dilatation 8 cm BP 111 / 89 </s>
+<s> Temperature 97.2 Discharge White FHR 119 </s>
+<s> Drug Lignocaine Pulse 56 BP 96 / 74 </s>
+<s> Drug Lignocaine Discharge Yellow FHR 126 </s>
+<s> Pulse 57 Pulse 59 Temperature 97.6 </s>
+<s> Effacement Mota Pulse 91 Drug Tablet Misoprostol </s>
+<s> Dilatation 6 cm FHR 135 Pulse 103 </s>
+<s> Effacement Mota Pulse 98 BP 93 / 101 </s>
+<s> Temperature 37.6 Temperature 95.6 BP 140 / 43 </s>
+<s> Temperature 36.5 Drug Antibiotic BP 96 / 66 </s>
+<s> Effacement Mota Pulse 80 Pulse 119 </s>
+<s> BP 125 / 73 BP 113 / 64 Temperature 97.9 </s>
+<s> Temperature 35.7 FHR 124 Effacement Mota </s>
+<s> Drug Tablet Misoprostol FHR 142 Pulse 111 </s>
+<s> Dilatation 7 cm FHR 147 Pulse 61 </s>
+<s> BP 90 / 96 Drug Lignocaine FHR 165 </s>
+<s> BP 140 / 52 Temperature 96.4 Drug Injection Oxytocin </s>
+<s> Dilatation 5 cm Drug Tablet Misoprostol Effacement Mota </s>
+<s> Effacement Patla Temperature 97.3 Temperature 40.0 </s>
+<s> Temperature 96.8 BP 144 / 77 Temperature 98.6 </s>
+<s> Effacement Patla Pulse 71 BP 134 / 112 </s>
+<s> Dilatation 9 cm BP 132 / 115 BP 168 / 89 </s>
+<s> BP 114 / 50 Temperature 36.5 BP 123 / 63 </s>
+<s> Dilatation 6 cm Discharge Red Discharge Clear </s>
+<s> BP 151 / 86 BP 109 / 55 Dilatation 4 cm </s>
+<s> BP 92 / 55 Pulse 60 BP 128 / 52 </s>
+<s> FHR 136 Temperature 95.9 Temperature 35.4 </s>
+<s> BP 112 / 116 Temperature 98.1 Temperature 36.7 </s>
+<s> Temperature 36.3 Temperature 96.6 Temperature 99.4 </s>
+<s> BP 107 / 81 FHR 144 Effacement Mota </s>
+<s> Dilatation 6 cm FHR 90 BP 88 / 70 </s>
+<s> Discharge Yellow Dilatation 4 cm BP 125 / 109 </s>
+<s> Temperature 35.9 Dilatation 6 cm BP 143 / 86 </s>
+<s> Temperature 36.3 FHR 139 Discharge White </s>
+<s> Discharge Clear Drug Tablet Misoprostol Discharge White </s>
+<s> Drug Tablet Misoprostol Dilatation 10 cm Discharge Brown </s>
+<s> Drug Tablet Misoprostol Effacement Mota Discharge Red </s>
+<s> Pulse 52 Pulse 70 Discharge Yellow </s>
+<s> Pulse 57 Discharge Red Dilatation 3 cm </s>
+<s> BP 127 / 118 BP 133 / 62 Pulse 58 </s>
+<s> Temperature 96.2 Temperature 96.2 Drug Injection Oxytocin </s>
+<s> Discharge White FHR 135 BP 94 / 57 </s>
+<s> Discharge Green BP 151 / 72 Pulse 115 </s>
+<s> BP 99 / 90 BP 124 / 62 Temperature 96.9 </s>
+<s> Drug Tablet Misoprostol Temperature 95.9 Effacement Patla </s>
+<s> Dilatation 6 cm BP 133 / 91 Effacement Patla </s>
+<s> Discharge Green FHR 126 FHR 121 </s>
+<s> BP 103 / 79 Temperature 96.3 BP 130 / 73 </s>
+<s> Temperature 98.4 Temperature 96.2 Pulse 52 </s>
+<s> FHR 116 Temperature 38.9 Temperature 39.8 </s>
+<s> Dilatation 2 cm BP 151 / 67 Pulse 98 </s>
+<s> Temperature 37.2 Pulse 87 Drug Injection Oxytocin </s>
+<s> Effacement Mota BP 139 / 58 Temperature 98.0 </s>
+<s> BP 134 / 106 Pulse 83 FHR 158 </s>
+<s> Effacement Mota BP 93 / 67 BP 164 / 64 </s>
+<s> Discharge Brown BP 144 / 80 Dilatation 4 cm </s>
+<s> Drug Tablet Misoprostol Pulse 85 BP 116 / 70 </s>
+<s> Temperature 36.5 FHR 121 Effacement Patla </s>
+<s> Temperature 98.4 Drug Injection Oxytocin Temperature 96.7 </s>
+<s> BP 119 / 110 BP 135 / 74 Temperature 97.0 </s>
+<s> Pulse 101 BP 86 / 85 Discharge Brown </s>
+<s> Discharge Red Temperature 97.8 Dilatation 6 cm </s>
+<s> FHR 194 BP 95 / 53 BP 128 / 90 </s>
+<s> Effacement Mota Dilatation 6 cm Temperature 97.1 </s>
+<s> Temperature 97.4 Discharge Red Temperature 38.8 </s>
+<s> FHR 127 Drug Tablet Misoprostol FHR 140 </s>
+<s> BP 116 / 82 Drug Tablet Misoprostol Pulse 115 </s>
+<s> Discharge Red Temperature 96.9 Temperature 36.7 </s>
+<s> Temperature 97.1 Temperature 99.5 Effacement Patla </s>
+<s> Temperature 38.3 BP 109 / 48 FHR 149 </s>
+<s> Pulse 87 BP 100 / 72 BP 110 / 107 </s>
+<s> Dilatation 5 cm Drug Antibiotic Dilatation 6 cm </s>
+<s> Temperature 36.7 Discharge Green Dilatation 1 cm </s>
+<s> Effacement Mota BP 124 / 58 Temperature 38.3 </s>
+<s> FHR 105 Temperature 37.5 BP 81 / 43 </s>
+<s> Effacement Patla Pulse 89 Drug Injection Oxytocin </s>
+<s> Discharge Red Pulse 104 Temperature 97.2 </s>
+<s> Temperature 35.9 Temperature 96.3 BP 82 / 73 </s>
+<s> Temperature 36.7 Dilatation 7 cm Effacement Mota </s>
+<s> BP 113 / 61 Temperature 37.1 Pulse 89 </s>
+<s> Temperature 97.5 Pulse 65 Dilatation 5 cm </s>
+<s> FHR 110 Dilatation 8 cm BP 109 / 69 </s>
+<s> Pulse 117 Drug Lignocaine Effacement Patla </s>
+<s> Temperature 99.3 Temperature 38.2 BP 87 / 68 </s>
+<s> BP 81 / 78 Effacement Patla Discharge Green </s>
+<s> Dilatation 6 cm Pulse 86 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown Pulse 96 </s>
+<s> BP 91 / 54 Dilatation 2 cm Discharge Green </s>
+<s> FHR 112 Temperature 37.1 Dilatation 6 cm </s>
+<s> Effacement Mota Discharge White BP 108 / 80 </s>
+<s> BP 146 / 86 Pulse 81 FHR 104 </s>
+<s> BP 87 / 86 Discharge Green FHR 120 </s>
+<s> BP 125 / 104 Discharge Clear Discharge Yellow </s>
+<s> Temperature 96.0 Dilatation 4 cm Drug Tablet Misoprostol </s>
+<s> Effacement Mota Drug Tablet Misoprostol FHR 133 </s>
+<s> Drug Tablet Misoprostol Pulse 79 Discharge Brown </s>
+<s> Drug Injection Oxytocin Temperature 99.7 Dilatation 2 cm </s>
+<s> BP 140 / 69 Pulse 113 BP 145 / 61 </s>
+<s> Effacement Mota FHR 136 Effacement Mota </s>
+<s> Pulse 64 Discharge Yellow Drug Lignocaine </s>
+<s> BP 93 / 57 BP 168 / 68 Dilatation 3 cm </s>
+<s> FHR 154 BP 123 / 72 Discharge Red </s>
+<s> Discharge Clear BP 100 / 44 FHR 125 </s>
+<s> Dilatation 3 cm Discharge Red Dilatation 7 cm </s>
+<s> Effacement Mota Temperature 95.7 Dilatation 9 cm </s>
+<s> BP 129 / 82 BP 142 / 105 FHR 127 </s>
+<s> Pulse 87 Discharge White FHR 145 </s>
+<s> Temperature 96.4 Discharge Clear Dilatation 5 cm </s>
+<s> Temperature 98.2 Drug Antibiotic Pulse 88 </s>
+<s> Dilatation 9 cm Dilatation 5 cm Temperature 35.9 </s>
+<s> Pulse 67 Effacement Mota Dilatation 7 cm </s>
+<s> Temperature 96.6 Temperature 37.5 Temperature 97.3 </s>
+<s> Pulse 81 BP 127 / 79 Temperature 36.4 </s>
+<s> FHR 129 Temperature 98.5 Effacement Patla </s>
+<s> Discharge Clear Pulse 62 Effacement Patla </s>
+<s> BP 89 / 60 FHR 111 Temperature 96.7 </s>
+<s> Drug Tablet Misoprostol BP 123 / 59 FHR 149 </s>
+<s> BP 108 / 95 Pulse 97 FHR 130 </s>
+<s> Temperature 36.4 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Pulse 101 BP 113 / 81 Temperature 36.3 </s>
+<s> Effacement Mota BP 102 / 80 Effacement Patla </s>
+<s> BP 147 / 72 Drug Lignocaine Dilatation 7 cm </s>
+<s> Temperature 38.1 Temperature 95.7 FHR 139 </s>
+<s> Drug Tablet Misoprostol Temperature 37.1 BP 83 / 100 </s>
+<s> BP 146 / 110 BP 148 / 121 Temperature 39.8 </s>
+<s> Dilatation 5 cm Effacement Patla Temperature 36.2 </s>
+<s> Temperature 95.7 FHR 120 Temperature 96.0 </s>
+<s> Effacement Mota Temperature 37.3 Temperature 38.0 </s>
+<s> Dilatation 6 cm Effacement Patla Discharge Green </s>
+<s> FHR 147 Effacement Patla FHR 131 </s>
+<s> BP 123 / 59 BP 127 / 98 Effacement Mota </s>
+<s> FHR 127 Effacement Patla BP 151 / 112 </s>
+<s> Drug Antibiotic Pulse 97 Dilatation 5 cm </s>
+<s> Temperature 97.9 BP 145 / 69 Temperature 95.8 </s>
+<s> BP 136 / 83 Pulse 102 FHR 135 </s>
+<s> Discharge Clear BP 142 / 89 Discharge Clear </s>
+<s> Dilatation 5 cm Temperature 97.6 FHR 139 </s>
+<s> Pulse 79 Drug Injection Oxytocin BP 90 / 112 </s>
+<s> Discharge White Temperature 96.4 FHR 134 </s>
+<s> Temperature 97.6 Discharge White Temperature 97.7 </s>
+<s> FHR 127 Temperature 97.1 Dilatation 1 cm </s>
+<s> Temperature 37.9 FHR 153 BP 81 / 81 </s>
+<s> FHR 160 Dilatation 4 cm Effacement Mota </s>
+<s> Temperature 36.7 FHR 139 Discharge Green </s>
+<s> Effacement Patla Discharge Red FHR 150 </s>
+<s> FHR 180 FHR 128 BP 101 / 84 </s>
+<s> Drug Tablet Misoprostol Discharge Green Effacement Patla </s>
+<s> Temperature 36.9 Effacement Patla Temperature 98.9 </s>
+<s> Discharge White Effacement Mota Pulse 51 </s>
+<s> Temperature 35.6 BP 118 / 81 Temperature 36.8 </s>
+<s> Discharge Red BP 124 / 56 Dilatation 7 cm </s>
+<s> BP 83 / 44 Effacement Mota Effacement Patla </s>
+<s> Pulse 65 Dilatation 2 cm Temperature 35.5 </s>
+<s> Temperature 36.5 FHR 116 Temperature 38.5 </s>
+<s> Dilatation 6 cm BP 100 / 60 FHR 142 </s>
+<s> FHR 134 Discharge Clear Temperature 98.5 </s>
+<s> Dilatation 3 cm BP 112 / 105 Discharge Yellow </s>
+<s> Temperature 37.6 Pulse 85 Discharge Green </s>
+<s> Drug Tablet Misoprostol Temperature 96.8 BP 129 / 91 </s>
+<s> BP 122 / 103 BP 119 / 83 Drug Injection Oxytocin </s>
+<s> FHR 96 Pulse 97 Pulse 74 </s>
+<s> Discharge Red Discharge Yellow BP 136 / 95 </s>
+<s> FHR 113 Discharge Yellow Discharge White </s>
+<s> BP 111 / 71 Dilatation 9 cm Pulse 92 </s>
+<s> BP 80 / 111 Discharge Clear Effacement Patla </s>
+<s> Dilatation 7 cm Effacement Mota Dilatation 7 cm </s>
+<s> FHR 170 Effacement Mota Temperature 39.5 </s>
+<s> Temperature 37.8 Discharge White BP 134 / 119 </s>
+<s> Discharge Clear BP 145 / 66 Effacement Mota </s>
+<s> Drug Lignocaine FHR 130 BP 130 / 41 </s>
+<s> Discharge Brown Discharge Clear FHR 91 </s>
+<s> Drug Injection Oxytocin Discharge Brown Pulse 109 </s>
+<s> Drug Injection Oxytocin BP 108 / 75 Temperature 95.6 </s>
+<s> BP 118 / 91 Effacement Patla FHR 84 </s>
+<s> FHR 137 Temperature 97.5 Effacement Mota </s>
+<s> Pulse 62 Drug Injection Oxytocin Drug Lignocaine </s>
+<s> Dilatation 9 cm FHR 131 BP 120 / 56 </s>
+<s> Effacement Patla BP 114 / 96 Temperature 97.1 </s>
+<s> BP 146 / 71 Effacement Mota Temperature 96.5 </s>
+<s> Pulse 117 Pulse 93 BP 135 / 46 </s>
+<s> Temperature 37.4 Effacement Mota Discharge Yellow </s>
+<s> BP 130 / 74 Dilatation 8 cm Temperature 38.3 </s>
+<s> Dilatation 3 cm Pulse 77 Temperature 98.5 </s>
+<s> Dilatation 4 cm Effacement Mota Pulse 128 </s>
+<s> FHR 174 Discharge Brown Discharge Green </s>
+<s> Temperature 97.6 Temperature 98.7 Drug Antibiotic </s>
+<s> Dilatation 8 cm BP 113 / 55 Drug Lignocaine </s>
+<s> Temperature 96.5 Discharge Clear BP 129 / 68 </s>
+<s> Discharge Green Effacement Patla Temperature 97.1 </s>
+<s> FHR 97 Temperature 37.1 Discharge Clear </s>
+<s> Pulse 117 Pulse 66 Drug Tablet Misoprostol </s>
+<s> Discharge White Dilatation 3 cm Effacement Mota </s>
+<s> BP 90 / 99 FHR 157 Effacement Mota </s>
+<s> BP 108 / 108 Temperature 36.7 Dilatation 2 cm </s>
+<s> Dilatation 1 cm Effacement Patla Discharge White </s>
+<s> BP 118 / 104 BP 138 / 54 BP 109 / 45 </s>
+<s> Effacement Patla Discharge Yellow Effacement Patla </s>
+<s> Temperature 36.7 Discharge Yellow BP 117 / 114 </s>
+<s> Effacement Mota BP 112 / 115 FHR 147 </s>
+<s> Discharge Red Effacement Patla Temperature 36.4 </s>
+<s> Pulse 104 BP 153 / 59 FHR 94 </s>
+<s> FHR 89 Temperature 96.2 Temperature 97.5 </s>
+<s> Temperature 98.1 Drug Injection Oxytocin Dilatation 6 cm </s>
+<s> Dilatation 5 cm Drug Injection Oxytocin Drug Antibiotic </s>
+<s> Temperature 36.8 Dilatation 5 cm Temperature 36.9 </s>
+<s> FHR 119 Temperature 38.7 Pulse 78 </s>
+<s> Discharge White Temperature 97.3 FHR 124 </s>
+<s> Discharge Red Temperature 96.2 Effacement Mota </s>
+<s> Temperature 38.2 Effacement Mota Temperature 99.0 </s>
+<s> Discharge Brown FHR 130 Drug Injection Oxytocin </s>
+<s> BP 94 / 84 BP 83 / 48 Drug Tablet Misoprostol </s>
+<s> FHR 140 FHR 149 FHR 149 </s>
+<s> Effacement Patla BP 93 / 84 Discharge White </s>
+<s> Temperature 36.0 Temperature 96.7 Dilatation 7 cm </s>
+<s> Temperature 97.8 Temperature 96.7 FHR 139 </s>
+<s> Temperature 97.6 Temperature 36.4 BP 101 / 99 </s>
+<s> Temperature 97.0 BP 145 / 97 Dilatation 5 cm </s>
+<s> Pulse 52 Temperature 98.9 BP 135 / 61 </s>
+<s> Discharge Clear Dilatation 10 cm BP 144 / 99 </s>
+<s> BP 142 / 63 Temperature 37.6 Temperature 97.5 </s>
+<s> Temperature 35.7 BP 112 / 131 BP 171 / 86 </s>
+<s> Dilatation 10 cm Drug Antibiotic BP 151 / 96 </s>
+<s> FHR 109 BP 120 / 53 Temperature 96.7 </s>
+<s> Temperature 36.4 Temperature 96.9 BP 114 / 57 </s>
+<s> BP 138 / 78 Pulse 88 Temperature 36.4 </s>
+<s> FHR 159 Temperature 37.6 BP 137 / 42 </s>
+<s> Temperature 96.2 Temperature 96.4 Effacement Mota </s>
+<s> FHR 147 Temperature 36.3 Effacement Mota </s>
+<s> FHR 180 BP 87 / 77 BP 128 / 46 </s>
+<s> Pulse 104 Discharge Green Pulse 76 </s>
+<s> Discharge Clear FHR 135 Discharge Green </s>
+<s> Effacement Patla BP 108 / 94 Temperature 97.0 </s>
+<s> Temperature 39.3 Temperature 96.4 Drug Lignocaine </s>
+<s> Discharge Green Dilatation 6 cm Temperature 37.9 </s>
+<s> Dilatation 7 cm Effacement Patla Temperature 97.7 </s>
+<s> Effacement Mota Pulse 92 BP 101 / 90 </s>
+<s> BP 126 / 106 Pulse 104 BP 109 / 73 </s>
+<s> BP 148 / 95 Drug Antibiotic Dilatation 5 cm </s>
+<s> Temperature 95.3 Temperature 95.6 Dilatation 4 cm </s>
+<s> Temperature 38.5 Discharge Clear FHR 133 </s>
+<s> Discharge Red Discharge Brown Drug Injection Oxytocin </s>
+<s> Drug Injection Oxytocin Dilatation 3 cm BP 167 / 57 </s>
+<s> FHR 140 Temperature 36.6 Temperature 36.6 </s>
+<s> Pulse 82 Temperature 35.6 Temperature 36.1 </s>
+<s> Temperature 38.2 Discharge Brown BP 131 / 96 </s>
+<s> BP 145 / 96 Dilatation 6 cm Temperature 96.5 </s>
+<s> Temperature 96.6 Temperature 37.4 Pulse 128 </s>
+<s> Temperature 97.6 Pulse 83 Pulse 78 </s>
+<s> Temperature 99.0 Temperature 97.4 Dilatation 2 cm </s>
+<s> Dilatation 6 cm Pulse 61 Temperature 36.2 </s>
+<s> Pulse 93 Discharge White Effacement Patla </s>
+<s> Dilatation 6 cm Drug Tablet Misoprostol Drug Antibiotic </s>
+<s> Drug Tablet Misoprostol FHR 124 Temperature 36.8 </s>
+<s> Drug Injection Oxytocin Effacement Mota BP 127 / 73 </s>
+<s> FHR 137 Pulse 62 FHR 115 </s>
+<s> Temperature 97.0 BP 139 / 60 Effacement Mota </s>
+<s> Discharge Green Dilatation 4 cm Temperature 96.3 </s>
+<s> Temperature 97.9 Temperature 35.4 Dilatation 6 cm </s>
+<s> Dilatation 7 cm BP 91 / 96 Temperature 36.4 </s>
+<s> Pulse 93 FHR 141 Dilatation 7 cm </s>
+<s> Temperature 98.2 Effacement Mota Dilatation 7 cm </s>
+<s> Discharge White BP 133 / 78 Drug Lignocaine </s>
+<s> Drug Injection Oxytocin Dilatation 4 cm Effacement Mota </s>
+<s> BP 173 / 67 Dilatation 6 cm FHR 156 </s>
+<s> Discharge White Temperature 97.2 Effacement Patla </s>
+<s> Pulse 56 Dilatation 5 cm Temperature 36.5 </s>
+<s> Drug Lignocaine Pulse 80 BP 140 / 67 </s>
+<s> FHR 134 FHR 138 Temperature 97.5 </s>
+<s> Temperature 97.5 Discharge Green Pulse 60 </s>
+<s> FHR 171 BP 90 / 64 Pulse 51 </s>
+<s> Pulse 107 Drug Tablet Misoprostol Effacement Patla </s>
+<s> Effacement Mota FHR 131 Pulse 92 </s>
+<s> Drug Injection Oxytocin FHR 150 BP 90 / 90 </s>
+<s> Effacement Patla Discharge White BP 150 / 101 </s>
+<s> Dilatation 7 cm Discharge Red Drug Injection Oxytocin </s>
+<s> BP 94 / 61 Dilatation 5 cm Effacement Mota </s>
+<s> Dilatation 4 cm Temperature 37.1 BP 107 / 70 </s>
+<s> FHR 179 Effacement Mota Discharge Green </s>
+<s> Effacement Patla Pulse 65 Dilatation 6 cm </s>
+<s> Pulse 70 BP 129 / 82 FHR 129 </s>
+<s> FHR 185 BP 111 / 68 BP 109 / 95 </s>
+<s> FHR 159 Effacement Patla Pulse 88 </s>
+<s> Drug Injection Oxytocin Discharge White Effacement Mota </s>
+<s> BP 124 / 49 Effacement Mota Discharge Clear </s>
+<s> BP 128 / 76 BP 118 / 60 Effacement Mota </s>
+<s> BP 107 / 93 Effacement Mota BP 95 / 106 </s>
+<s> Discharge White Discharge Red FHR 161 </s>
+<s> Effacement Mota BP 81 / 85 Drug Tablet Misoprostol </s>
+<s> Effacement Mota FHR 101 Effacement Mota </s>
+<s> BP 101 / 45 Drug Tablet Misoprostol BP 82 / 62 </s>
+<s> Pulse 54 Temperature 97.7 Effacement Patla </s>
+<s> BP 145 / 52 BP 103 / 73 BP 151 / 95 </s>
+<s> Pulse 54 Temperature 37.2 Temperature 99.1 </s>
+<s> Temperature 38.3 Drug Antibiotic Discharge Green </s>
+<s> Pulse 77 Drug Antibiotic Effacement Patla </s>
+<s> FHR 102 FHR 153 Temperature 97.5 </s>
+<s> BP 115 / 82 BP 110 / 89 Drug Injection Oxytocin </s>
+<s> BP 95 / 70 Dilatation 6 cm Temperature 38.3 </s>
+<s> FHR 103 BP 117 / 85 FHR 142 </s>
+<s> BP 82 / 69 Pulse 102 Drug Antibiotic </s>
+<s> Temperature 100.4 Discharge Red Effacement Mota </s>
+<s> Temperature 39.2 Temperature 97.3 Temperature 38.1 </s>
+<s> FHR 126 Effacement Mota Temperature 97.2 </s>
+<s> Effacement Mota BP 114 / 112 BP 109 / 48 </s>
+<s> Pulse 107 BP 155 / 107 Pulse 91 </s>
+<s> Effacement Patla BP 117 / 52 Effacement Mota </s>
+<s> BP 99 / 84 Pulse 101 Temperature 98.6 </s>
+<s> Effacement Mota Temperature 97.0 Dilatation 5 cm </s>
+<s> BP 129 / 105 Effacement Mota Drug Injection Oxytocin </s>
+<s> Discharge Brown Pulse 91 Drug Antibiotic </s>
+<s> Temperature 97.1 Temperature 96.3 Pulse 110 </s>
+<s> Temperature 35.8 FHR 103 Temperature 97.9 </s>
+<s> Dilatation 7 cm Pulse 63 BP 95 / 131 </s>
+<s> Dilatation 7 cm Effacement Patla Effacement Patla </s>
+<s> Temperature 36.8 FHR 144 FHR 115 </s>
+<s> Drug Tablet Misoprostol Temperature 38.6 Pulse 64 </s>
+<s> FHR 148 Temperature 98.8 Effacement Patla </s>
+<s> Effacement Mota BP 143 / 95 Drug Injection Oxytocin </s>
+<s> Discharge Yellow Pulse 58 Discharge Clear </s>
+<s> Temperature 35.5 FHR 84 BP 119 / 100 </s>
+<s> Temperature 36.5 Drug Tablet Misoprostol Temperature 36.2 </s>
+<s> Pulse 127 FHR 142 Drug Lignocaine </s>
+<s> Temperature 37.3 Pulse 54 BP 145 / 77 </s>
+<s> Discharge Yellow Effacement Mota BP 108 / 65 </s>
+<s> Effacement Mota Drug Injection Oxytocin Temperature 36.7 </s>
+<s> BP 135 / 80 FHR 134 BP 108 / 86 </s>
+<s> FHR 140 Drug Tablet Misoprostol Dilatation 3 cm </s>
+<s> Drug Injection Oxytocin Effacement Mota BP 132 / 85 </s>
+<s> BP 160 / 73 Discharge Clear Temperature 96.8 </s>
+<s> Discharge Clear Discharge Red Effacement Mota </s>
+<s> Pulse 57 Temperature 96.8 Effacement Mota </s>
+<s> BP 160 / 56 FHR 93 Drug Antibiotic </s>
+<s> Discharge Yellow Temperature 96.1 Discharge Green </s>
+<s> FHR 127 FHR 124 Effacement Mota </s>
+<s> BP 129 / 87 FHR 125 Discharge Yellow </s>
+<s> Discharge Green Temperature 36.6 Drug Injection Oxytocin </s>
+<s> Temperature 36.2 BP 128 / 63 Dilatation 4 cm </s>
+<s> Effacement Mota Pulse 78 Drug Injection Oxytocin </s>
+<s> Drug Antibiotic Effacement Mota Dilatation 4 cm </s>
+<s> BP 153 / 110 Discharge Clear Discharge White </s>
+<s> Temperature 38.0 Dilatation 5 cm Temperature 96.2 </s>
+<s> Discharge Yellow Pulse 53 Temperature 97.7 </s>
+<s> Effacement Patla Temperature 37.6 BP 107 / 73 </s>
+<s> Pulse 93 Temperature 36.8 Dilatation 5 cm </s>
+<s> Temperature 36.1 FHR 108 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol BP 135 / 68 Discharge Red </s>
+<s> BP 98 / 97 Temperature 97.4 BP 95 / 51 </s>
+<s> BP 103 / 81 Effacement Patla Drug Tablet Misoprostol </s>
+<s> Temperature 36.9 Pulse 81 Discharge Yellow </s>
+<s> Temperature 37.0 FHR 161 FHR 112 </s>
+<s> Effacement Mota Temperature 37.5 Pulse 60 </s>
+<s> Dilatation 6 cm Pulse 52 BP 99 / 69 </s>
+<s> Discharge Clear Pulse 53 Drug Tablet Misoprostol </s>
+<s> FHR 141 Pulse 67 Effacement Patla </s>
+<s> Pulse 77 BP 102 / 60 Temperature 36.3 </s>
+<s> Drug Tablet Misoprostol Temperature 37.8 Effacement Patla </s>
+<s> BP 141 / 76 BP 122 / 105 Pulse 88 </s>
+<s> Dilatation 5 cm Drug Tablet Misoprostol Dilatation 8 cm </s>
+<s> Temperature 36.0 FHR 133 Effacement Mota </s>
+<s> Temperature 98.8 Temperature 36.9 Effacement Patla </s>
+<s> Temperature 35.7 Dilatation 5 cm Dilatation 2 cm </s>
+<s> FHR 101 Pulse 92 Pulse 56 </s>
+<s> Drug Injection Oxytocin Discharge Red Pulse 92 </s>
+<s> Discharge Red Drug Antibiotic Effacement Patla </s>
+<s> Temperature 36.1 Temperature 36.3 Effacement Patla </s>
+<s> Effacement Patla FHR 162 Temperature 38.6 </s>
+<s> BP 146 / 84 Temperature 37.6 BP 83 / 78 </s>
+<s> Pulse 120 Pulse 75 Drug Injection Oxytocin </s>
+<s> Temperature 37.9 Drug Injection Oxytocin BP 158 / 91 </s>
+<s> Effacement Mota BP 107 / 69 Temperature 38.2 </s>
+<s> Effacement Mota Drug Injection Oxytocin Temperature 38.3 </s>
+<s> BP 134 / 42 Drug Antibiotic FHR 120 </s>
+<s> Dilatation 4 cm FHR 122 Discharge Red </s>
+<s> Temperature 96.4 BP 117 / 106 FHR 137 </s>
+<s> Discharge Red FHR 124 Pulse 99 </s>
+<s> BP 130 / 76 FHR 158 Temperature 38.5 </s>
+<s> Discharge White Discharge Brown BP 87 / 103 </s>
+<s> Discharge Brown Discharge Green BP 123 / 75 </s>
+<s> Pulse 64 BP 146 / 64 Temperature 37.0 </s>
+<s> Pulse 110 Temperature 36.5 Dilatation 7 cm </s>
+<s> BP 131 / 104 Discharge Yellow Effacement Mota </s>
+<s> BP 92 / 73 Effacement Mota FHR 108 </s>
+<s> Dilatation 6 cm Effacement Patla Discharge Green </s>
+<s> FHR 81 Temperature 36.2 BP 131 / 72 </s>
+<s> Temperature 36.3 BP 130 / 73 Dilatation 6 cm </s>
+<s> BP 94 / 118 Effacement Patla Discharge Brown </s>
+<s> FHR 152 Effacement Patla FHR 167 </s>
+<s> Pulse 74 Temperature 96.8 Pulse 98 </s>
+<s> Pulse 88 BP 145 / 92 BP 104 / 41 </s>
+<s> Temperature 97.7 FHR 137 BP 123 / 96 </s>
+<s> FHR 125 Effacement Mota Discharge Brown </s>
+<s> Pulse 85 Drug Antibiotic BP 90 / 140 </s>
+<s> Temperature 38.0 Temperature 39.9 Temperature 95.9 </s>
+<s> Dilatation 5 cm Effacement Patla BP 144 / 80 </s>
+<s> Temperature 96.9 Temperature 97.3 Drug Lignocaine </s>
+<s> FHR 119 Dilatation 7 cm Pulse 87 </s>
+<s> Discharge Clear Temperature 36.6 FHR 153 </s>
+<s> Dilatation 3 cm Effacement Patla Pulse 88 </s>
+<s> Dilatation 5 cm BP 126 / 57 Temperature 95.8 </s>
+<s> Drug Injection Oxytocin Dilatation 4 cm BP 111 / 56 </s>
+<s> Temperature 97.0 Pulse 102 Effacement Patla </s>
+<s> Pulse 108 Drug Tablet Misoprostol Pulse 102 </s>
+<s> Drug Tablet Misoprostol Temperature 36.2 BP 90 / 75 </s>
+<s> Temperature 37.4 BP 117 / 88 FHR 116 </s>
+<s> Dilatation 4 cm Dilatation 4 cm Dilatation 6 cm </s>
+<s> Pulse 93 Pulse 91 Effacement Mota </s>
+<s> Drug Lignocaine Discharge Yellow BP 202 / 82 </s>
+<s> Dilatation 6 cm BP 98 / 73 FHR 124 </s>
+<s> Pulse 113 Pulse 79 Temperature 39.8 </s>
+<s> Effacement Mota BP 163 / 84 BP 80 / 54 </s>
+<s> BP 108 / 69 Pulse 107 FHR 114 </s>
+<s> Discharge Brown Effacement Mota Pulse 75 </s>
+<s> Pulse 94 FHR 141 BP 117 / 93 </s>
+<s> BP 136 / 97 Dilatation 5 cm BP 125 / 53 </s>
+<s> Temperature 97.4 BP 136 / 45 Discharge White </s>
+<s> FHR 145 Discharge Yellow Drug Antibiotic </s>
+<s> Temperature 96.8 BP 100 / 74 BP 100 / 60 </s>
+<s> Pulse 109 BP 81 / 73 Drug Injection Oxytocin </s>
+<s> FHR 156 Dilatation 5 cm Temperature 36.4 </s>
+<s> Discharge Brown Discharge Clear Effacement Patla </s>
+<s> FHR 112 BP 132 / 83 Pulse 104 </s>
+<s> Pulse 108 BP 97 / 53 Temperature 36.9 </s>
+<s> BP 108 / 69 BP 92 / 56 Effacement Mota </s>
+<s> Pulse 102 Temperature 37.6 Temperature 37.4 </s>
+<s> Temperature 97.0 Temperature 36.7 Discharge Red </s>
+<s> Effacement Mota Effacement Mota BP 113 / 75 </s>
+<s> Pulse 51 Drug Lignocaine Temperature 98.0 </s>
+<s> Pulse 77 BP 107 / 57 Temperature 97.9 </s>
+<s> Discharge Green Drug Tablet Misoprostol Pulse 75 </s>
+<s> Effacement Mota Effacement Mota Drug Injection Oxytocin </s>
+<s> Effacement Mota BP 120 / 56 BP 124 / 97 </s>
+<s> BP 97 / 92 Temperature 39.6 Discharge Yellow </s>
+<s> BP 113 / 84 FHR 130 Dilatation 7 cm </s>
+<s> BP 142 / 73 Dilatation 5 cm Drug Lignocaine </s>
+<s> Drug Injection Oxytocin BP 125 / 57 Temperature 36.1 </s>
+<s> Effacement Mota Effacement Patla BP 91 / 73 </s>
+<s> BP 120 / 75 Effacement Mota Dilatation 4 cm </s>
+<s> Temperature 96.7 BP 131 / 109 Pulse 61 </s>
+<s> Effacement Patla FHR 97 Discharge Clear </s>
+<s> Temperature 37.4 Discharge Green FHR 108 </s>
+<s> BP 118 / 94 BP 125 / 64 Drug Lignocaine </s>
+<s> Pulse 85 Discharge Clear FHR 137 </s>
+<s> Pulse 110 Discharge Brown Temperature 97.1 </s>
+<s> FHR 152 Drug Tablet Misoprostol Drug Injection Oxytocin </s>
+<s> Temperature 97.0 Effacement Patla Discharge Green </s>
+<s> FHR 152 Pulse 68 Drug Tablet Misoprostol </s>
+<s> FHR 129 Effacement Mota Discharge Brown </s>
+<s> FHR 123 Temperature 96.8 BP 162 / 113 </s>
+<s> BP 109 / 82 Temperature 37.6 BP 122 / 90 </s>
+<s> Discharge Red Discharge Red Temperature 96.8 </s>
+<s> BP 104 / 61 Effacement Mota BP 115 / 66 </s>
+<s> Pulse 53 Effacement Patla BP 137 / 51 </s>
+<s> FHR 112 BP 131 / 106 Discharge Yellow </s>
+<s> Temperature 96.5 Effacement Mota FHR 100 </s>
+<s> Drug Tablet Misoprostol Drug Tablet Misoprostol Temperature 36.4 </s>
+<s> Effacement Mota Temperature 36.2 Effacement Patla </s>
+<s> Temperature 98.2 Temperature 36.3 BP 139 / 45 </s>
+<s> BP 118 / 102 Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 93 / 48 Discharge Green Temperature 97.3 </s>
+<s> BP 91 / 56 Discharge Red FHR 162 </s>
+<s> BP 93 / 85 FHR 148 Discharge White </s>
+<s> Temperature 96.8 Temperature 98.3 FHR 152 </s>
+<s> FHR 92 Dilatation 8 cm Drug Injection Oxytocin </s>
+<s> FHR 169 Drug Injection Oxytocin BP 104 / 61 </s>
+<s> Discharge Brown Temperature 98.4 Dilatation 7 cm </s>
+<s> Dilatation 6 cm FHR 158 Temperature 97.0 </s>
+<s> Effacement Mota Drug Lignocaine Discharge Yellow </s>
+<s> Discharge Brown Temperature 36.8 Temperature 36.9 </s>
+<s> Pulse 53 Temperature 96.5 BP 112 / 77 </s>
+<s> Dilatation 5 cm Discharge White Temperature 36.2 </s>
+<s> BP 146 / 51 Pulse 57 Drug Tablet Misoprostol </s>
+<s> Drug Injection Oxytocin Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 116 / 80 Drug Injection Oxytocin BP 140 / 85 </s>
+<s> Drug Tablet Misoprostol Temperature 96.1 Pulse 54 </s>
+<s> Temperature 96.1 Temperature 97.8 BP 137 / 43 </s>
+<s> Dilatation 2 cm Drug Lignocaine Temperature 38.9 </s>
+<s> FHR 126 Temperature 36.5 Drug Antibiotic </s>
+<s> Effacement Mota FHR 147 Pulse 77 </s>
+<s> FHR 162 FHR 105 Effacement Mota </s>
+<s> Temperature 99.5 Temperature 35.4 Temperature 96.4 </s>
+<s> Discharge Red Pulse 62 FHR 110 </s>
+<s> BP 98 / 111 FHR 136 BP 95 / 72 </s>
+<s> Temperature 37.1 Temperature 36.6 Dilatation 6 cm </s>
+<s> BP 142 / 85 BP 142 / 66 Effacement Patla </s>
+<s> BP 115 / 63 FHR 129 Temperature 97.7 </s>
+<s> FHR 133 Effacement Patla Drug Injection Oxytocin </s>
+<s> Temperature 35.4 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Drug Tablet Misoprostol Dilatation 8 cm Temperature 96.2 </s>
+<s> BP 126 / 46 Effacement Patla FHR 142 </s>
+<s> Temperature 98.6 Drug Injection Oxytocin Temperature 96.9 </s>
+<s> Dilatation 8 cm Temperature 37.2 Dilatation 9 cm </s>
+<s> Temperature 38.1 BP 123 / 50 BP 123 / 61 </s>
+<s> Effacement Patla BP 131 / 84 FHR 138 </s>
+<s> Pulse 86 BP 91 / 59 Pulse 84 </s>
+<s> Drug Tablet Misoprostol Discharge Red Dilatation 5 cm </s>
+<s> FHR 84 BP 109 / 108 Pulse 81 </s>
+<s> FHR 120 Discharge Clear BP 107 / 74 </s>
+<s> FHR 169 Temperature 38.5 Discharge Red </s>
+<s> Drug Tablet Misoprostol BP 120 / 121 FHR 96 </s>
+<s> Pulse 87 Discharge Green Drug Injection Oxytocin </s>
+<s> FHR 154 FHR 108 Dilatation 5 cm </s>
+<s> Drug Tablet Misoprostol Temperature 37.9 Drug Injection Oxytocin </s>
+<s> FHR 89 FHR 152 FHR 123 </s>
+<s> FHR 133 Temperature 98.0 Temperature 97.9 </s>
+<s> Temperature 98.3 Pulse 89 BP 112 / 74 </s>
+<s> Temperature 97.0 BP 167 / 72 BP 118 / 59 </s>
+<s> FHR 126 Effacement Mota Drug Tablet Misoprostol </s>
+<s> FHR 115 BP 166 / 85 BP 100 / 103 </s>
+<s> Discharge White Effacement Mota BP 129 / 116 </s>
+<s> Pulse 93 BP 95 / 68 Drug Tablet Misoprostol </s>
+<s> Temperature 37.2 BP 163 / 73 Discharge Clear </s>
+<s> Temperature 37.5 Dilatation 6 cm Dilatation 5 cm </s>
+<s> Effacement Mota Temperature 39.1 Temperature 36.1 </s>
+<s> Dilatation 6 cm FHR 179 BP 141 / 87 </s>
+<s> Drug Lignocaine BP 144 / 81 Drug Antibiotic </s>
+<s> Temperature 37.2 Temperature 35.9 Temperature 96.1 </s>
+<s> BP 82 / 130 BP 106 / 105 BP 130 / 114 </s>
+<s> Temperature 36.4 Pulse 102 BP 111 / 51 </s>
+<s> Temperature 98.1 Pulse 126 Pulse 68 </s>
+<s> Drug Injection Oxytocin Discharge White Discharge Red </s>
+<s> Drug Injection Oxytocin Discharge Red BP 132 / 59 </s>
+<s> Drug Tablet Misoprostol Pulse 88 Dilatation 5 cm </s>
+<s> FHR 94 Temperature 35.6 Pulse 84 </s>
+<s> FHR 147 BP 87 / 100 Temperature 96.7 </s>
+<s> Temperature 96.7 Discharge Red Drug Lignocaine </s>
+<s> FHR 135 Dilatation 6 cm BP 129 / 63 </s>
+<s> FHR 123 BP 137 / 52 Drug Lignocaine </s>
+<s> Drug Lignocaine FHR 141 Temperature 95.7 </s>
+<s> Pulse 64 Pulse 73 FHR 126 </s>
+<s> Temperature 95.8 BP 131 / 43 Pulse 98 </s>
+<s> Pulse 62 FHR 114 Temperature 99.8 </s>
+<s> Effacement Mota BP 126 / 92 FHR 87 </s>
+<s> Temperature 38.0 Effacement Patla BP 121 / 49 </s>
+<s> BP 130 / 93 Temperature 36.5 FHR 149 </s>
+<s> Drug Tablet Misoprostol BP 109 / 51 Drug Lignocaine </s>
+<s> Dilatation 4 cm Temperature 97.5 Dilatation 4 cm </s>
+<s> Temperature 99.5 BP 109 / 77 BP 111 / 127 </s>
+<s> Discharge Red Dilatation 3 cm BP 100 / 109 </s>
+<s> Drug Tablet Misoprostol BP 117 / 102 BP 117 / 86 </s>
+<s> Temperature 35.7 Temperature 37.5 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown Discharge Yellow </s>
+<s> Effacement Patla Effacement Mota FHR 133 </s>
+<s> Pulse 65 BP 122 / 61 Temperature 97.3 </s>
+<s> Temperature 96.9 BP 95 / 71 Pulse 110 </s>
+<s> Dilatation 5 cm Temperature 37.5 Pulse 65 </s>
+<s> Discharge Green Discharge Clear Pulse 62 </s>
+<s> Dilatation 6 cm FHR 134 FHR 129 </s>
+<s> Drug Injection Oxytocin Temperature 36.8 Temperature 98.3 </s>
+<s> Effacement Mota BP 103 / 132 Effacement Patla </s>
+<s> BP 117 / 76 Discharge Clear Temperature 36.5 </s>
+<s> Temperature 97.4 Effacement Patla Temperature 38.5 </s>
+<s> FHR 150 Effacement Mota BP 98 / 88 </s>
+<s> Pulse 98 BP 129 / 85 BP 144 / 46 </s>
+<s> Pulse 57 Dilatation 5 cm Temperature 37.1 </s>
+<s> Dilatation 5 cm Effacement Patla BP 120 / 111 </s>
+<s> Discharge Clear Temperature 96.6 Temperature 97.9 </s>
+<s> BP 129 / 71 Temperature 97.5 Effacement Mota </s>
+<s> Drug Tablet Misoprostol BP 142 / 85 Pulse 59 </s>
+<s> Pulse 70 Dilatation 2 cm Drug Injection Oxytocin </s>
+<s> Temperature 97.2 Discharge Yellow FHR 149 </s>
+<s> Dilatation 6 cm BP 110 / 91 Temperature 96.6 </s>
+<s> BP 120 / 55 Effacement Patla Temperature 35.7 </s>
+<s> Drug Injection Oxytocin Temperature 36.8 Drug Injection Oxytocin </s>
+<s> BP 133 / 82 FHR 160 BP 112 / 55 </s>
+<s> Temperature 35.8 Drug Lignocaine Pulse 83 </s>
+<s> Drug Lignocaine BP 159 / 102 Temperature 36.0 </s>
+<s> FHR 180 Temperature 96.9 Pulse 94 </s>
+<s> Effacement Mota Discharge Yellow Pulse 68 </s>
+<s> Pulse 99 Discharge Brown Pulse 96 </s>
+<s> Pulse 90 Temperature 37.6 Dilatation 5 cm </s>
+<s> Drug Lignocaine FHR 151 Effacement Mota </s>
+<s> FHR 110 FHR 102 BP 116 / 73 </s>
+<s> BP 144 / 66 Temperature 38.5 BP 165 / 63 </s>
+<s> Discharge Red BP 129 / 60 Drug Lignocaine </s>
+<s> FHR 140 Pulse 84 Discharge Green </s>
+<s> Effacement Patla BP 149 / 120 BP 109 / 92 </s>
+<s> BP 152 / 59 BP 128 / 109 Discharge White </s>
+<s> Effacement Patla Pulse 100 Pulse 100 </s>
+<s> Temperature 97.8 BP 97 / 52 Discharge Brown </s>
+<s> Effacement Mota Pulse 110 BP 156 / 79 </s>
+<s> Dilatation 9 cm Temperature 97.8 Drug Injection Oxytocin </s>
+<s> Discharge Brown BP 123 / 118 Effacement Patla </s>
+<s> Temperature 96.6 Dilatation 7 cm Effacement Patla </s>
+<s> BP 137 / 101 BP 85 / 56 Effacement Patla </s>
+<s> Discharge Yellow BP 135 / 84 Temperature 97.1 </s>
+<s> Temperature 39.1 FHR 132 Discharge Clear </s>
+<s> BP 90 / 114 Temperature 96.0 Temperature 37.6 </s>
+<s> Temperature 97.4 Discharge Red Drug Injection Oxytocin </s>
+<s> Pulse 99 Pulse 71 FHR 117 </s>
+<s> Temperature 100.8 Discharge Clear Drug Tablet Misoprostol </s>
+<s> FHR 118 Discharge Red Effacement Patla </s>
+<s> BP 113 / 104 BP 94 / 109 Drug Injection Oxytocin </s>
+<s> BP 125 / 86 FHR 83 BP 131 / 77 </s>
+<s> Drug Lignocaine BP 115 / 120 Pulse 97 </s>
+<s> FHR 133 BP 88 / 88 Temperature 98.4 </s>
+<s> BP 157 / 40 Drug Tablet Misoprostol Dilatation 5 cm </s>
+<s> Drug Injection Oxytocin Dilatation 6 cm BP 130 / 93 </s>
+<s> Discharge Yellow Temperature 97.9 Dilatation 4 cm </s>
+<s> Effacement Mota Temperature 96.3 Drug Tablet Misoprostol </s>
+<s> Temperature 98.3 Temperature 97.6 BP 117 / 95 </s>
+<s> Dilatation 5 cm BP 130 / 93 FHR 148 </s>
+<s> Dilatation 5 cm Pulse 68 Temperature 37.4 </s>
+<s> Temperature 38.5 Dilatation 3 cm BP 117 / 65 </s>
+<s> Dilatation 3 cm Effacement Patla Discharge Red </s>
+<s> FHR 112 FHR 167 Effacement Patla </s>
+<s> FHR 115 Temperature 98.0 Drug Tablet Misoprostol </s>
+<s> Dilatation 6 cm Temperature 96.4 Effacement Mota </s>
+<s> Temperature 98.4 Temperature 96.4 Temperature 96.3 </s>
+<s> BP 173 / 53 Discharge Yellow Pulse 57 </s>
+<s> Drug Lignocaine Temperature 37.8 Effacement Patla </s>
+<s> BP 148 / 130 FHR 124 Temperature 36.3 </s>
+<s> BP 118 / 48 Temperature 98.8 FHR 129 </s>
+<s> Temperature 96.7 BP 88 / 64 Drug Antibiotic </s>
+<s> Dilatation 4 cm Effacement Patla Drug Injection Oxytocin </s>
+<s> Effacement Patla Temperature 37.6 Pulse 91 </s>
+<s> BP 119 / 78 BP 138 / 115 Pulse 94 </s>
+<s> Dilatation 7 cm Temperature 38.4 Pulse 117 </s>
+<s> Discharge Red BP 135 / 58 Discharge Brown </s>
+<s> Discharge Yellow Drug Tablet Misoprostol BP 80 / 67 </s>
+<s> Effacement Patla Effacement Patla BP 165 / 83 </s>
+<s> FHR 149 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Temperature 37.0 Dilatation 4 cm Effacement Patla </s>
+<s> Dilatation 4 cm BP 111 / 94 Temperature 36.9 </s>
+<s> Dilatation 5 cm FHR 137 BP 108 / 62 </s>
+<s> BP 102 / 115 Drug Tablet Misoprostol Discharge Clear </s>
+<s> Pulse 94 Effacement Patla Effacement Mota </s>
+<s> Effacement Patla Temperature 36.5 BP 125 / 51 </s>
+<s> FHR 104 Discharge Yellow BP 83 / 94 </s>
+<s> Dilatation 5 cm Temperature 99.1 BP 141 / 78 </s>
+<s> BP 125 / 94 Temperature 35.5 Drug Injection Oxytocin </s>
+<s> Temperature 37.0 Temperature 36.4 BP 155 / 85 </s>
+<s> Effacement Patla BP 147 / 41 Discharge Clear </s>
+<s> Effacement Mota BP 129 / 96 Dilatation 4 cm </s>
+<s> BP 131 / 110 Effacement Patla BP 106 / 99 </s>
+<s> Temperature 96.4 Effacement Mota Temperature 38.6 </s>
+<s> BP 107 / 59 Discharge Yellow Pulse 92 </s>
+<s> BP 150 / 77 Dilatation 6 cm Pulse 78 </s>
+<s> Dilatation 4 cm Dilatation 7 cm Temperature 38.3 </s>
+<s> Discharge Green Temperature 36.5 Temperature 96.6 </s>
+<s> BP 102 / 102 Pulse 78 Pulse 115 </s>
+<s> BP 86 / 87 BP 148 / 55 Temperature 37.6 </s>
+<s> FHR 146 Drug Lignocaine Drug Lignocaine </s>
+<s> FHR 153 Temperature 37.3 Temperature 36.7 </s>
+<s> Temperature 35.7 BP 116 / 115 BP 135 / 78 </s>
+<s> Effacement Mota Discharge Red Temperature 97.1 </s>
+<s> Dilatation 6 cm BP 119 / 59 Dilatation 6 cm </s>
+<s> Discharge Red Dilatation 3 cm BP 154 / 85 </s>
+<s> FHR 126 Pulse 114 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Temperature 99.0 Dilatation 7 cm </s>
+<s> BP 137 / 102 Effacement Patla Effacement Mota </s>
+<s> BP 109 / 56 BP 95 / 57 Discharge Yellow </s>
+<s> BP 165 / 54 BP 135 / 56 Pulse 75 </s>
+<s> BP 115 / 79 Discharge Clear Temperature 96.7 </s>
+<s> Discharge White Temperature 37.5 FHR 144 </s>
+<s> Effacement Patla Effacement Patla Discharge Red </s>
+<s> Effacement Patla Temperature 37.2 BP 126 / 105 </s>
+<s> Pulse 90 Pulse 103 Discharge Brown </s>
+<s> Effacement Mota Pulse 88 Drug Injection Oxytocin </s>
+<s> Pulse 63 Discharge Green BP 118 / 58 </s>
+<s> FHR 127 Temperature 95.7 Temperature 98.3 </s>
+<s> BP 150 / 48 Effacement Mota BP 157 / 92 </s>
+<s> Drug Lignocaine Effacement Patla BP 100 / 65 </s>
+<s> Temperature 96.6 FHR 163 FHR 181 </s>
+<s> Effacement Patla BP 110 / 130 BP 122 / 56 </s>
+<s> Dilatation 5 cm FHR 129 Discharge Green </s>
+<s> Temperature 97.3 Discharge Clear Temperature 97.0 </s>
+<s> BP 172 / 59 Drug Lignocaine BP 103 / 74 </s>
+<s> FHR 165 Dilatation 4 cm Discharge Brown </s>
+<s> Effacement Mota BP 98 / 97 Discharge White </s>
+<s> Temperature 38.1 Effacement Patla Effacement Mota </s>
+<s> FHR 159 Temperature 36.4 Effacement Mota </s>
+<s> Pulse 94 Drug Injection Oxytocin Dilatation 5 cm </s>
+<s> FHR 127 Drug Lignocaine Pulse 58 </s>
+<s> FHR 122 Effacement Mota Effacement Patla </s>
+<s> BP 138 / 107 Effacement Patla Discharge White </s>
+<s> Temperature 98.2 Temperature 36.3 FHR 113 </s>
+<s> Temperature 37.2 Drug Injection Oxytocin Drug Tablet Misoprostol </s>
+<s> Temperature 96.8 BP 110 / 86 BP 127 / 46 </s>
+<s> BP 96 / 106 Temperature 98.2 Temperature 36.9 </s>
+<s> Temperature 99.0 Temperature 38.8 Temperature 96.9 </s>
+<s> Drug Tablet Misoprostol BP 122 / 107 Dilatation 6 cm </s>
+<s> Dilatation 5 cm FHR 127 Drug Antibiotic </s>
+<s> Drug Antibiotic Pulse 68 Pulse 57 </s>
+<s> FHR 138 Pulse 91 Effacement Patla </s>
+<s> Discharge Brown Temperature 96.7 Dilatation 5 cm </s>
+<s> Dilatation 7 cm Dilatation 4 cm Effacement Mota </s>
+<s> BP 128 / 96 Temperature 37.1 FHR 107 </s>
+<s> Temperature 95.9 Drug Antibiotic Drug Antibiotic </s>
+<s> BP 116 / 67 Temperature 96.6 BP 138 / 88 </s>
+<s> Dilatation 4 cm Dilatation 4 cm Discharge Green </s>
+<s> BP 146 / 77 Drug Lignocaine BP 121 / 92 </s>
+<s> Pulse 80 Discharge Yellow BP 134 / 78 </s>
+<s> Effacement Mota BP 129 / 137 Dilatation 7 cm </s>
+<s> Pulse 107 Pulse 67 FHR 125 </s>
+<s> BP 138 / 101 Temperature 35.7 Discharge Brown </s>
+<s> Drug Injection Oxytocin Temperature 96.4 FHR 126 </s>
+<s> Pulse 109 Temperature 38.7 Pulse 105 </s>
+<s> Temperature 96.1 Dilatation 9 cm Pulse 76 </s>
+<s> Pulse 60 Pulse 67 Dilatation 5 cm </s>
+<s> Discharge Green FHR 168 Temperature 38.1 </s>
+<s> Drug Injection Oxytocin Temperature 37.5 Dilatation 6 cm </s>
+<s> FHR 137 Temperature 97.8 BP 119 / 83 </s>
+<s> Effacement Patla BP 100 / 60 Effacement Mota </s>
+<s> Discharge White BP 96 / 74 BP 153 / 47 </s>
+<s> Temperature 97.6 Drug Injection Oxytocin Temperature 37.0 </s>
+<s> Dilatation 8 cm Drug Injection Oxytocin Pulse 76 </s>
+<s> Effacement Mota Drug Lignocaine Temperature 96.6 </s>
+<s> Temperature 36.4 BP 97 / 63 Temperature 98.3 </s>
+<s> Temperature 37.1 Effacement Mota Discharge Green </s>
+<s> BP 142 / 96 Dilatation 8 cm FHR 125 </s>
+<s> BP 150 / 45 Temperature 37.0 Dilatation 3 cm </s>
+<s> Temperature 35.8 Temperature 97.9 BP 117 / 101 </s>
+<s> Pulse 102 Temperature 36.6 Discharge Yellow </s>
+<s> Temperature 96.7 Effacement Patla Drug Lignocaine </s>
+<s> BP 109 / 93 Effacement Mota Temperature 96.1 </s>
+<s> FHR 95 Discharge Red BP 97 / 120 </s>
+<s> Dilatation 7 cm Dilatation 6 cm Temperature 96.0 </s>
+<s> Effacement Patla BP 80 / 96 Temperature 96.4 </s>
+<s> Dilatation 7 cm Pulse 93 Temperature 96.0 </s>
+<s> Dilatation 6 cm BP 148 / 63 BP 140 / 100 </s>
+<s> Temperature 97.3 Drug Lignocaine BP 104 / 102 </s>
+<s> Discharge Clear Pulse 86 Pulse 79 </s>
+<s> Temperature 95.9 BP 144 / 75 Effacement Mota </s>
+<s> Temperature 35.6 Drug Antibiotic Dilatation 5 cm </s>
+<s> Discharge Green FHR 110 Temperature 38.0 </s>
+<s> BP 137 / 103 FHR 149 Temperature 96.7 </s>
+<s> Temperature 96.8 Effacement Mota BP 121 / 91 </s>
+<s> BP 174 / 66 BP 111 / 97 Temperature 37.7 </s>
+<s> Discharge Clear Effacement Mota Temperature 97.2 </s>
+<s> Effacement Patla Dilatation 5 cm FHR 178 </s>
+<s> BP 175 / 70 Pulse 50 Dilatation 7 cm </s>
+<s> FHR 111 Pulse 116 Effacement Patla </s>
+<s> Effacement Patla Discharge Brown FHR 130 </s>
+<s> Temperature 96.6 Drug Tablet Misoprostol Pulse 97 </s>
+<s> Drug Tablet Misoprostol Temperature 96.4 Temperature 37.1 </s>
+<s> FHR 162 Pulse 53 Effacement Mota </s>
+<s> Discharge White FHR 118 Temperature 96.2 </s>
+<s> BP 102 / 85 BP 160 / 108 Pulse 71 </s>
+<s> Temperature 38.3 BP 146 / 89 Effacement Mota </s>
+<s> Discharge White FHR 124 BP 101 / 45 </s>
+<s> Effacement Mota Temperature 37.1 Temperature 96.7 </s>
+<s> FHR 116 Temperature 37.3 Temperature 37.2 </s>
+<s> BP 140 / 45 Effacement Patla Temperature 96.4 </s>
+<s> BP 141 / 85 BP 143 / 128 Pulse 65 </s>
+<s> Temperature 37.1 BP 126 / 70 Temperature 96.1 </s>
+<s> Temperature 36.5 Drug Injection Oxytocin Effacement Mota </s>
+<s> Temperature 36.7 Pulse 85 Pulse 118 </s>
+<s> Discharge Yellow Pulse 105 Temperature 36.7 </s>
+<s> BP 151 / 62 BP 107 / 88 Temperature 98.2 </s>
+<s> BP 101 / 78 Temperature 35.4 Dilatation 5 cm </s>
+<s> BP 141 / 104 Temperature 96.4 Dilatation 7 cm </s>
+<s> Drug Tablet Misoprostol FHR 112 Dilatation 6 cm </s>
+<s> Dilatation 7 cm Temperature 96.6 Temperature 96.4 </s>
+<s> Temperature 97.9 Dilatation 10 cm Pulse 106 </s>
+<s> Discharge Yellow Temperature 36.8 BP 141 / 98 </s>
+<s> Pulse 80 BP 153 / 67 Temperature 97.6 </s>
+<s> FHR 153 Temperature 37.3 Pulse 85 </s>
+<s> Effacement Mota Pulse 83 BP 98 / 77 </s>
+<s> BP 147 / 109 Effacement Mota Temperature 97.6 </s>
+<s> FHR 117 Effacement Patla BP 100 / 61 </s>
+<s> FHR 114 Temperature 36.7 Temperature 39.0 </s>
+<s> Temperature 36.0 FHR 170 BP 123 / 127 </s>
+<s> Drug Lignocaine Pulse 103 Temperature 97.8 </s>
+<s> BP 98 / 113 BP 104 / 108 Temperature 97.1 </s>
+<s> Discharge White BP 99 / 64 Dilatation 3 cm </s>
+<s> BP 103 / 53 Effacement Mota Pulse 117 </s>
+<s> Discharge Clear Drug Tablet Misoprostol BP 105 / 90 </s>
+<s> Dilatation 7 cm FHR 112 Pulse 91 </s>
+<s> Discharge Red BP 126 / 82 Temperature 96.2 </s>
+<s> Temperature 36.8 Temperature 96.1 Temperature 36.5 </s>
+<s> BP 157 / 72 FHR 168 Temperature 96.0 </s>
+<s> BP 114 / 72 Temperature 37.2 Temperature 39.0 </s>
+<s> BP 150 / 97 BP 135 / 57 Dilatation 4 cm </s>
+<s> Temperature 98.8 Temperature 36.4 Temperature 99.5 </s>
+<s> Pulse 103 BP 116 / 97 BP 116 / 66 </s>
+<s> BP 125 / 113 Dilatation 3 cm BP 150 / 108 </s>
+<s> BP 128 / 100 FHR 107 Pulse 93 </s>
+<s> Effacement Patla FHR 107 Temperature 98.9 </s>
+<s> Effacement Patla Temperature 96.2 Discharge White </s>
+<s> Dilatation 5 cm Pulse 85 Discharge Brown </s>
+<s> Drug Injection Oxytocin BP 106 / 78 BP 144 / 69 </s>
+<s> Temperature 36.7 BP 80 / 74 Pulse 90 </s>
+<s> FHR 133 BP 93 / 131 FHR 154 </s>
+<s> BP 118 / 76 Pulse 128 Dilatation 5 cm </s>
+<s> Discharge Clear Pulse 66 Discharge Green </s>
+<s> BP 107 / 90 Temperature 96.9 Drug Injection Oxytocin </s>
+<s> Temperature 96.7 FHR 125 BP 135 / 60 </s>
+<s> Temperature 97.0 Drug Tablet Misoprostol Effacement Mota </s>
+<s> FHR 111 FHR 97 Temperature 96.1 </s>
+<s> Temperature 96.2 Temperature 97.6 Effacement Patla </s>
+<s> BP 164 / 105 Temperature 36.1 Effacement Mota </s>
+<s> Temperature 38.7 Pulse 67 Temperature 95.9 </s>
+<s> Dilatation 3 cm FHR 110 Pulse 108 </s>
+<s> Discharge Brown Discharge Brown Dilatation 5 cm </s>
+<s> FHR 129 Temperature 96.5 Effacement Mota </s>
+<s> Temperature 35.7 FHR 115 BP 107 / 105 </s>
+<s> Temperature 98.6 Temperature 97.7 Effacement Patla </s>
+<s> Dilatation 4 cm Pulse 101 Pulse 77 </s>
+<s> Drug Lignocaine Pulse 122 Dilatation 5 cm </s>
+<s> FHR 123 BP 113 / 94 Drug Injection Oxytocin </s>
+<s> BP 133 / 68 Temperature 97.1 Temperature 37.8 </s>
+<s> Pulse 71 Discharge Red Dilatation 4 cm </s>
+<s> Drug Injection Oxytocin BP 112 / 68 Pulse 71 </s>
+<s> Drug Lignocaine Pulse 72 Discharge Green </s>
+<s> Dilatation 8 cm Discharge White Discharge Clear </s>
+<s> Dilatation 7 cm BP 112 / 64 Pulse 78 </s>
+<s> BP 112 / 81 Discharge Red Pulse 84 </s>
+<s> BP 156 / 86 FHR 158 Dilatation 6 cm </s>
+<s> Temperature 95.9 Temperature 97.2 Temperature 96.4 </s>
+<s> BP 100 / 92 BP 94 / 76 Dilatation 3 cm </s>
+<s> Effacement Patla Discharge Yellow Effacement Patla </s>
+<s> Pulse 106 BP 97 / 71 Drug Tablet Misoprostol </s>
+<s> Effacement Mota Temperature 96.9 Drug Tablet Misoprostol </s>
+<s> Temperature 97.3 Discharge Red Temperature 39.1 </s>
+<s> Discharge White Temperature 95.7 FHR 115 </s>
+<s> Drug Antibiotic Dilatation 5 cm BP 83 / 87 </s>
+<s> Effacement Mota Drug Lignocaine Dilatation 4 cm </s>
+<s> Discharge Red Pulse 83 Dilatation 2 cm </s>
+<s> Temperature 38.0 BP 139 / 77 Effacement Patla </s>
+<s> Effacement Mota BP 99 / 88 BP 132 / 115 </s>
+<s> Temperature 36.8 Temperature 38.1 Temperature 97.3 </s>
+<s> BP 116 / 49 Effacement Mota Temperature 37.0 </s>
+<s> Temperature 97.2 Temperature 99.2 BP 92 / 81 </s>
+<s> BP 137 / 60 Temperature 97.7 Dilatation 3 cm </s>
+<s> Pulse 54 Discharge Clear Discharge Green </s>
+<s> Dilatation 7 cm Effacement Patla Temperature 37.4 </s>
+<s> Effacement Patla Pulse 104 Effacement Patla </s>
+<s> Dilatation 5 cm Dilatation 4 cm Dilatation 7 cm </s>
+<s> FHR 124 Dilatation 5 cm FHR 90 </s>
+<s> Temperature 97.6 Temperature 96.9 Temperature 96.0 </s>
+<s> Drug Injection Oxytocin BP 82 / 82 Dilatation 7 cm </s>
+<s> Dilatation 4 cm Discharge White BP 157 / 81 </s>
+<s> Dilatation 7 cm Temperature 36.6 Temperature 36.2 </s>
+<s> Pulse 98 Temperature 37.5 Temperature 99.2 </s>
+<s> Discharge Green Dilatation 10 cm Discharge Brown </s>
+<s> BP 176 / 71 Drug Tablet Misoprostol Pulse 68 </s>
+<s> BP 131 / 81 BP 96 / 94 Effacement Patla </s>
+<s> Dilatation 6 cm FHR 120 Discharge Brown </s>
+<s> Pulse 122 BP 124 / 111 Drug Tablet Misoprostol </s>
+<s> Temperature 95.7 Discharge Brown Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown BP 89 / 55 </s>
+<s> Temperature 37.5 Temperature 37.2 Discharge White </s>
+<s> FHR 130 Discharge Clear BP 86 / 84 </s>
+<s> BP 91 / 83 BP 93 / 120 Discharge Clear </s>
+<s> Effacement Mota Drug Tablet Misoprostol Drug Injection Oxytocin </s>
+<s> BP 142 / 89 Temperature 36.3 BP 102 / 56 </s>
+<s> Dilatation 10 cm Dilatation 8 cm Pulse 60 </s>
+<s> Temperature 38.5 Temperature 36.6 BP 85 / 103 </s>
+<s> FHR 98 BP 115 / 98 Temperature 35.6 </s>
+<s> Temperature 36.8 Temperature 96.1 Dilatation 5 cm </s>
+<s> Temperature 37.7 BP 106 / 41 Dilatation 1 cm </s>
+<s> Dilatation 6 cm BP 116 / 99 BP 131 / 130 </s>
+<s> BP 143 / 59 BP 84 / 92 Drug Tablet Misoprostol </s>
+<s> FHR 153 Pulse 69 Discharge Red </s>
+<s> Pulse 50 Temperature 36.5 Effacement Patla </s>
+<s> Pulse 78 Effacement Patla Discharge Red </s>
+<s> Temperature 36.6 Pulse 84 Drug Injection Oxytocin </s>
+<s> Dilatation 6 cm Effacement Patla BP 87 / 80 </s>
+<s> Effacement Patla Discharge Red Effacement Mota </s>
+<s> Effacement Mota Temperature 38.4 Temperature 37.8 </s>
+<s> Temperature 37.3 Drug Tablet Misoprostol Pulse 113 </s>
+<s> FHR 128 Dilatation 3 cm Drug Injection Oxytocin </s>
+<s> FHR 143 Pulse 104 FHR 130 </s>
+<s> Temperature 38.0 FHR 84 Drug Tablet Misoprostol </s>
+<s> Temperature 37.1 Discharge Red Effacement Patla </s>
+<s> Temperature 36.6 Pulse 67 Drug Injection Oxytocin </s>
+<s> Effacement Patla Effacement Patla Pulse 67 </s>
+<s> Pulse 113 Temperature 38.8 Pulse 80 </s>
+<s> Temperature 38.1 Temperature 38.2 Discharge Red </s>
+<s> Dilatation 5 cm Discharge Yellow Discharge Clear </s>
+<s> Drug Injection Oxytocin Temperature 37.7 FHR 148 </s>
+<s> Temperature 97.9 BP 132 / 105 Temperature 37.5 </s>
+<s> Temperature 37.4 Pulse 71 Temperature 36.6 </s>
+<s> Temperature 97.0 Dilatation 4 cm FHR 137 </s>
+<s> BP 127 / 62 Drug Tablet Misoprostol Temperature 36.8 </s>
+<s> Dilatation 2 cm Drug Injection Oxytocin Dilatation 4 cm </s>
+<s> Pulse 85 Effacement Patla Temperature 36.3 </s>
+<s> Temperature 95.9 Pulse 65 BP 152 / 56 </s>
+<s> Temperature 96.9 Drug Injection Oxytocin Effacement Patla </s>
+<s> FHR 110 BP 135 / 90 BP 98 / 93 </s>
+<s> Discharge Yellow Temperature 38.0 BP 95 / 78 </s>
+<s> Pulse 120 Temperature 37.4 Pulse 93 </s>
+<s> BP 129 / 103 Dilatation 9 cm FHR 120 </s>
+<s> Temperature 36.7 Discharge Brown Effacement Mota </s>
+<s> BP 121 / 86 BP 121 / 78 FHR 127 </s>
+<s> BP 114 / 87 Discharge Green Dilatation 6 cm </s>
+<s> BP 126 / 84 Discharge White FHR 94 </s>
+<s> Effacement Mota Temperature 97.3 Temperature 95.7 </s>
+<s> Dilatation 3 cm BP 149 / 53 Discharge Brown </s>
+<s> Pulse 119 Discharge Red Drug Injection Oxytocin </s>
+<s> Temperature 38.0 Temperature 35.5 Temperature 35.9 </s>
+<s> Pulse 80 BP 114 / 80 Discharge White </s>
+<s> Temperature 38.5 Temperature 97.6 FHR 114 </s>
+<s> Effacement Mota Pulse 90 Dilatation 8 cm </s>
+<s> Temperature 36.4 FHR 133 Pulse 58 </s>
+<s> Pulse 82 Temperature 98.4 BP 108 / 67 </s>
+<s> Temperature 38.6 Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 130 / 72 Temperature 98.6 BP 141 / 55 </s>
+<s> BP 135 / 96 Effacement Patla BP 137 / 59 </s>
+<s> BP 118 / 81 Pulse 80 Temperature 96.9 </s>
+<s> Discharge White Drug Injection Oxytocin FHR 83 </s>
+<s> Dilatation 9 cm Temperature 36.4 Effacement Patla </s>
+<s> FHR 123 Discharge Brown Effacement Patla </s>
+<s> Effacement Patla Drug Tablet Misoprostol BP 137 / 46 </s>
+<s> Discharge Clear Dilatation 6 cm BP 116 / 114 </s>
+<s> Dilatation 5 cm BP 148 / 71 FHR 151 </s>
+<s> Pulse 80 Dilatation 8 cm Pulse 66 </s>
+<s> Temperature 97.2 BP 143 / 109 Pulse 54 </s>
+<s> Temperature 36.9 FHR 149 Effacement Patla </s>
+<s> Temperature 96.3 BP 146 / 64 Temperature 37.8 </s>
+<s> Effacement Patla BP 81 / 52 BP 117 / 70 </s>
+<s> Dilatation 5 cm Temperature 97.5 Dilatation 2 cm </s>
+<s> BP 116 / 94 Discharge Green Temperature 96.8 </s>
+<s> BP 111 / 46 FHR 85 Temperature 36.1 </s>
+<s> Dilatation 7 cm BP 102 / 83 Dilatation 9 cm </s>
+<s> BP 109 / 115 BP 150 / 105 Effacement Mota </s>
+<s> Discharge Red Temperature 35.7 BP 145 / 89 </s>
+<s> FHR 135 Temperature 98.0 Temperature 96.4 </s>
+<s> Effacement Patla Temperature 36.6 Temperature 95.9 </s>
+<s> Temperature 36.0 Temperature 36.3 BP 123 / 110 </s>
+<s> Discharge Brown Effacement Mota BP 109 / 86 </s>
+<s> Drug Lignocaine Drug Injection Oxytocin Temperature 97.8 </s>
+<s> Temperature 96.0 Temperature 36.9 Temperature 38.1 </s>
+<s> Discharge Green Effacement Mota Pulse 65 </s>
+<s> BP 84 / 69 Temperature 98.5 Temperature 35.4 </s>
+<s> Temperature 99.3 Temperature 38.7 Temperature 36.8 </s>
+<s> Dilatation 4 cm Temperature 97.7 Dilatation 6 cm </s>
+<s> Effacement Patla Discharge Brown Temperature 99.5 </s>
+<s> FHR 146 Drug Lignocaine Temperature 99.4 </s>
+<s> Temperature 96.7 Effacement Mota BP 126 / 74 </s>
+<s> Discharge White Temperature 97.0 BP 99 / 71 </s>
+<s> Drug Injection Oxytocin Dilatation 7 cm Effacement Patla </s>
+<s> Temperature 98.8 Discharge Brown BP 89 / 59 </s>
+<s> Drug Injection Oxytocin Discharge White Temperature 37.8 </s>
+<s> Pulse 89 Temperature 36.0 BP 107 / 108 </s>
+<s> Drug Tablet Misoprostol Temperature 36.2 Discharge Green </s>
+<s> Pulse 74 Discharge Brown Dilatation 8 cm </s>
+<s> BP 133 / 56 Drug Lignocaine BP 157 / 135 </s>
+<s> Effacement Mota Pulse 73 Temperature 37.8 </s>
+<s> Effacement Mota Drug Lignocaine Temperature 36.2 </s>
+<s> FHR 140 FHR 152 BP 120 / 68 </s>
+<s> BP 163 / 41 Temperature 95.9 Discharge Yellow </s>
+<s> BP 124 / 84 Drug Tablet Misoprostol Discharge Clear </s>
+<s> Effacement Mota Temperature 96.9 Dilatation 9 cm </s>
+<s> BP 128 / 72 Pulse 95 BP 123 / 139 </s>
+<s> Effacement Patla BP 138 / 103 Effacement Mota </s>
+<s> Drug Lignocaine BP 129 / 81 Discharge White </s>
+<s> FHR 106 BP 132 / 72 Discharge Brown </s>
+<s> FHR 165 Temperature 36.4 Temperature 96.9 </s>
+<s> Discharge Clear Pulse 99 Pulse 87 </s>
+<s> Temperature 97.8 Temperature 97.2 Discharge White </s>
+<s> Discharge White Pulse 72 Temperature 96.8 </s>
+<s> Temperature 36.5 Pulse 94 Pulse 85 </s>
+<s> Temperature 96.8 Discharge Green Drug Lignocaine </s>
+<s> Temperature 35.3 Temperature 37.8 FHR 124 </s>
+<s> Dilatation 6 cm Discharge White Discharge Red </s>
+<s> Drug Tablet Misoprostol BP 128 / 77 Dilatation 5 cm </s>
+<s> FHR 131 Pulse 97 Discharge Yellow </s>
+<s> Drug Injection Oxytocin Temperature 99.8 Temperature 96.3 </s>
+<s> FHR 139 Temperature 36.4 Pulse 98 </s>
+<s> Drug Tablet Misoprostol Temperature 96.8 Temperature 96.9 </s>
+<s> BP 119 / 118 Discharge White BP 167 / 138 </s>
+<s> Drug Injection Oxytocin Discharge Yellow Temperature 97.7 </s>
+<s> Effacement Mota Dilatation 4 cm Drug Injection Oxytocin </s>
+<s> Pulse 85 FHR 100 Discharge Yellow </s>
+<s> Temperature 36.4 Effacement Mota Pulse 76 </s>
+<s> Dilatation 6 cm Discharge Green FHR 126 </s>
+<s> BP 103 / 59 Temperature 36.9 Dilatation 4 cm </s>
+<s> Discharge White FHR 113 BP 101 / 98 </s>
+<s> Effacement Mota Drug Tablet Misoprostol Pulse 54 </s>
+<s> Effacement Mota Temperature 36.9 BP 113 / 102 </s>
+<s> BP 96 / 79 BP 111 / 103 BP 131 / 107 </s>
+<s> FHR 108 Dilatation 3 cm Discharge Clear </s>
+<s> Dilatation 10 cm Effacement Patla Temperature 96.6 </s>
+<s> FHR 101 Dilatation 8 cm Temperature 96.0 </s>
+<s> Pulse 57 FHR 80 Temperature 98.1 </s>
+<s> Drug Lignocaine Discharge Clear Pulse 89 </s>
+<s> Pulse 74 Temperature 37.9 BP 130 / 98 </s>
+<s> Drug Lignocaine Drug Injection Oxytocin Temperature 36.5 </s>
+<s> FHR 137 Dilatation 5 cm FHR 96 </s>
+<s> BP 124 / 88 Drug Injection Oxytocin Temperature 99.3 </s>
+<s> BP 169 / 64 Drug Injection Oxytocin Effacement Patla </s>
+<s> Temperature 95.6 Dilatation 3 cm Effacement Patla </s>
+<s> Effacement Mota Pulse 105 Temperature 96.6 </s>
+<s> Discharge Brown Temperature 98.6 Drug Injection Oxytocin </s>
+<s> Drug Lignocaine Drug Antibiotic Dilatation 5 cm </s>
+<s> Discharge Brown FHR 160 Discharge Yellow </s>
+<s> Pulse 79 Temperature 96.1 BP 95 / 59 </s>
+<s> Temperature 36.1 Temperature 97.0 BP 142 / 92 </s>
+<s> Temperature 36.9 Drug Tablet Misoprostol Dilatation 5 cm </s>
+<s> Drug Injection Oxytocin Temperature 37.6 Effacement Mota </s>
+<s> Discharge Red Effacement Mota BP 131 / 76 </s>
+<s> BP 110 / 84 Temperature 36.3 Temperature 97.4 </s>
+<s> Temperature 98.3 Effacement Patla Discharge Red </s>
+<s> Temperature 95.5 Drug Injection Oxytocin Temperature 37.7 </s>
+<s> Drug Tablet Misoprostol Temperature 96.3 FHR 143 </s>
+<s> BP 149 / 104 Effacement Patla Temperature 95.9 </s>
+<s> Discharge Red BP 168 / 81 Drug Injection Oxytocin </s>
+<s> Dilatation 8 cm Temperature 96.5 Dilatation 5 cm </s>
+<s> BP 93 / 78 FHR 118 Pulse 96 </s>
+<s> Pulse 87 Dilatation 8 cm BP 111 / 89 </s>
+<s> Temperature 97.2 Discharge White FHR 119 </s>
+<s> Drug Lignocaine Pulse 56 BP 96 / 74 </s>
+<s> Drug Lignocaine Discharge Yellow FHR 126 </s>
+<s> Pulse 57 Pulse 59 Temperature 97.6 </s>
+<s> Effacement Mota Pulse 91 Drug Tablet Misoprostol </s>
+<s> Dilatation 6 cm FHR 135 Pulse 103 </s>
+<s> Effacement Mota Pulse 98 BP 93 / 101 </s>
+<s> Temperature 37.6 Temperature 95.6 BP 140 / 43 </s>
+<s> Temperature 36.5 Drug Antibiotic BP 96 / 66 </s>
+<s> Effacement Mota Pulse 80 Pulse 119 </s>
+<s> BP 125 / 73 BP 113 / 64 Temperature 97.9 </s>
+<s> Temperature 35.7 FHR 124 Effacement Mota </s>
+<s> Drug Tablet Misoprostol FHR 142 Pulse 111 </s>
+<s> Dilatation 7 cm FHR 147 Pulse 61 </s>
+<s> BP 90 / 96 Drug Lignocaine FHR 165 </s>
+<s> BP 140 / 52 Temperature 96.4 Drug Injection Oxytocin </s>
+<s> Dilatation 5 cm Drug Tablet Misoprostol Effacement Mota </s>
+<s> Effacement Patla Temperature 97.3 Temperature 40.0 </s>
+<s> Temperature 96.8 BP 144 / 77 Temperature 98.6 </s>
+<s> Effacement Patla Pulse 71 BP 134 / 112 </s>
+<s> Dilatation 9 cm BP 132 / 115 BP 168 / 89 </s>
+<s> BP 114 / 50 Temperature 36.5 BP 123 / 63 </s>
+<s> Dilatation 6 cm Discharge Red Discharge Clear </s>
+<s> BP 151 / 86 BP 109 / 55 Dilatation 4 cm </s>
+<s> BP 92 / 55 Pulse 60 BP 128 / 52 </s>
+<s> FHR 136 Temperature 95.9 Temperature 35.4 </s>
+<s> BP 112 / 116 Temperature 98.1 Temperature 36.7 </s>
+<s> Temperature 36.3 Temperature 96.6 Temperature 99.4 </s>
+<s> BP 107 / 81 FHR 144 Effacement Mota </s>
+<s> Dilatation 6 cm FHR 90 BP 88 / 70 </s>
+<s> Discharge Yellow Dilatation 4 cm BP 125 / 109 </s>
+<s> Temperature 35.9 Dilatation 6 cm BP 143 / 86 </s>
+<s> Temperature 36.3 FHR 139 Discharge White </s>
+<s> Discharge Clear Drug Tablet Misoprostol Discharge White </s>
+<s> Drug Tablet Misoprostol Dilatation 10 cm Discharge Brown </s>
+<s> Drug Tablet Misoprostol Effacement Mota Discharge Red </s>
+<s> Pulse 52 Pulse 70 Discharge Yellow </s>
+<s> Pulse 57 Discharge Red Dilatation 3 cm </s>
+<s> BP 127 / 118 BP 133 / 62 Pulse 58 </s>
+<s> Temperature 96.2 Temperature 96.2 Drug Injection Oxytocin </s>
+<s> Discharge White FHR 135 BP 94 / 57 </s>
+<s> Discharge Green BP 151 / 72 Pulse 115 </s>
+<s> BP 99 / 90 BP 124 / 62 Temperature 96.9 </s>
+<s> Drug Tablet Misoprostol Temperature 95.9 Effacement Patla </s>
+<s> Dilatation 6 cm BP 133 / 91 Effacement Patla </s>
+<s> Discharge Green FHR 126 FHR 121 </s>
+<s> BP 103 / 79 Temperature 96.3 BP 130 / 73 </s>
+<s> Temperature 98.4 Temperature 96.2 Pulse 52 </s>
+<s> FHR 116 Temperature 38.9 Temperature 39.8 </s>
+<s> Dilatation 2 cm BP 151 / 67 Pulse 98 </s>
+<s> Temperature 37.2 Pulse 87 Drug Injection Oxytocin </s>
+<s> Effacement Mota BP 139 / 58 Temperature 98.0 </s>
+<s> BP 134 / 106 Pulse 83 FHR 158 </s>
+<s> Effacement Mota BP 93 / 67 BP 164 / 64 </s>
+<s> Discharge Brown BP 144 / 80 Dilatation 4 cm </s>
+<s> Drug Tablet Misoprostol Pulse 85 BP 116 / 70 </s>
+<s> Temperature 36.5 FHR 121 Effacement Patla </s>
+<s> Temperature 98.4 Drug Injection Oxytocin Temperature 96.7 </s>
+<s> BP 119 / 110 BP 135 / 74 Temperature 97.0 </s>
+<s> Pulse 101 BP 86 / 85 Discharge Brown </s>
+<s> Discharge Red Temperature 97.8 Dilatation 6 cm </s>
+<s> FHR 194 BP 95 / 53 BP 128 / 90 </s>
+<s> Effacement Mota Dilatation 6 cm Temperature 97.1 </s>
+<s> Temperature 97.4 Discharge Red Temperature 38.8 </s>
+<s> FHR 127 Drug Tablet Misoprostol FHR 140 </s>
+<s> BP 116 / 82 Drug Tablet Misoprostol Pulse 115 </s>
+<s> Discharge Red Temperature 96.9 Temperature 36.7 </s>
+<s> Temperature 97.1 Temperature 99.5 Effacement Patla </s>
+<s> Temperature 38.3 BP 109 / 48 FHR 149 </s>
+<s> Pulse 87 BP 100 / 72 BP 110 / 107 </s>
+<s> Dilatation 5 cm Drug Antibiotic Dilatation 6 cm </s>
+<s> Temperature 36.7 Discharge Green Dilatation 1 cm </s>
+<s> Effacement Mota BP 124 / 58 Temperature 38.3 </s>
+<s> FHR 105 Temperature 37.5 BP 81 / 43 </s>
+<s> Effacement Patla Pulse 89 Drug Injection Oxytocin </s>
+<s> Discharge Red Pulse 104 Temperature 97.2 </s>
+<s> Temperature 35.9 Temperature 96.3 BP 82 / 73 </s>
+<s> Temperature 36.7 Dilatation 7 cm Effacement Mota </s>
+<s> BP 113 / 61 Temperature 37.1 Pulse 89 </s>
+<s> Temperature 97.5 Pulse 65 Dilatation 5 cm </s>
+<s> FHR 110 Dilatation 8 cm BP 109 / 69 </s>
+<s> Pulse 117 Drug Lignocaine Effacement Patla </s>
+<s> Temperature 99.3 Temperature 38.2 BP 87 / 68 </s>
+<s> BP 81 / 78 Effacement Patla Discharge Green </s>
+<s> Dilatation 6 cm Pulse 86 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown Pulse 96 </s>
+<s> BP 91 / 54 Dilatation 2 cm Discharge Green </s>
+<s> FHR 112 Temperature 37.1 Dilatation 6 cm </s>
+<s> Effacement Mota Discharge White BP 108 / 80 </s>
+<s> BP 146 / 86 Pulse 81 FHR 104 </s>
+<s> BP 87 / 86 Discharge Green FHR 120 </s>
+<s> BP 125 / 104 Discharge Clear Discharge Yellow </s>
+<s> Temperature 96.0 Dilatation 4 cm Drug Tablet Misoprostol </s>
+<s> Effacement Mota Drug Tablet Misoprostol FHR 133 </s>
+<s> Drug Tablet Misoprostol Pulse 79 Discharge Brown </s>
+<s> Drug Injection Oxytocin Temperature 99.7 Dilatation 2 cm </s>
+<s> BP 140 / 69 Pulse 113 BP 145 / 61 </s>
+<s> Effacement Mota FHR 136 Effacement Mota </s>
+<s> Pulse 64 Discharge Yellow Drug Lignocaine </s>
+<s> BP 93 / 57 BP 168 / 68 Dilatation 3 cm </s>
+<s> FHR 154 BP 123 / 72 Discharge Red </s>
+<s> Discharge Clear BP 100 / 44 FHR 125 </s>
+<s> Dilatation 3 cm Discharge Red Dilatation 7 cm </s>
+<s> Effacement Mota Temperature 95.7 Dilatation 9 cm </s>
+<s> BP 129 / 82 BP 142 / 105 FHR 127 </s>
+<s> Pulse 87 Discharge White FHR 145 </s>
+<s> Temperature 96.4 Discharge Clear Dilatation 5 cm </s>
+<s> Temperature 98.2 Drug Antibiotic Pulse 88 </s>
+<s> Dilatation 9 cm Dilatation 5 cm Temperature 35.9 </s>
+<s> Pulse 67 Effacement Mota Dilatation 7 cm </s>
+<s> Temperature 96.6 Temperature 37.5 Temperature 97.3 </s>
+<s> Pulse 81 BP 127 / 79 Temperature 36.4 </s>
+<s> FHR 129 Temperature 98.5 Effacement Patla </s>
+<s> Discharge Clear Pulse 62 Effacement Patla </s>
+<s> BP 89 / 60 FHR 111 Temperature 96.7 </s>
+<s> Drug Tablet Misoprostol BP 123 / 59 FHR 149 </s>
+<s> BP 108 / 95 Pulse 97 FHR 130 </s>
+<s> Temperature 36.4 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Pulse 101 BP 113 / 81 Temperature 36.3 </s>
+<s> Effacement Mota BP 102 / 80 Effacement Patla </s>
+<s> BP 147 / 72 Drug Lignocaine Dilatation 7 cm </s>
+<s> Temperature 38.1 Temperature 95.7 FHR 139 </s>
+<s> Drug Tablet Misoprostol Temperature 37.1 BP 83 / 100 </s>
+<s> BP 146 / 110 BP 148 / 121 Temperature 39.8 </s>
+<s> Dilatation 5 cm Effacement Patla Temperature 36.2 </s>
+<s> Temperature 95.7 FHR 120 Temperature 96.0 </s>
+<s> Effacement Mota Temperature 37.3 Temperature 38.0 </s>
+<s> Dilatation 6 cm Effacement Patla Discharge Green </s>
+<s> FHR 147 Effacement Patla FHR 131 </s>
+<s> BP 123 / 59 BP 127 / 98 Effacement Mota </s>
+<s> FHR 127 Effacement Patla BP 151 / 112 </s>
+<s> Drug Antibiotic Pulse 97 Dilatation 5 cm </s>
+<s> Temperature 97.9 BP 145 / 69 Temperature 95.8 </s>
+<s> BP 136 / 83 Pulse 102 FHR 135 </s>
+<s> Discharge Clear BP 142 / 89 Discharge Clear </s>
+<s> Dilatation 5 cm Temperature 97.6 FHR 139 </s>
+<s> Pulse 79 Drug Injection Oxytocin BP 90 / 112 </s>
+<s> Discharge White Temperature 96.4 FHR 134 </s>
+<s> Temperature 97.6 Discharge White Temperature 97.7 </s>
+<s> FHR 127 Temperature 97.1 Dilatation 1 cm </s>
+<s> Temperature 37.9 FHR 153 BP 81 / 81 </s>
+<s> FHR 160 Dilatation 4 cm Effacement Mota </s>
+<s> Temperature 36.7 FHR 139 Discharge Green </s>
+<s> Effacement Patla Discharge Red FHR 150 </s>
+<s> FHR 180 FHR 128 BP 101 / 84 </s>
+<s> Drug Tablet Misoprostol Discharge Green Effacement Patla </s>
+<s> Temperature 36.9 Effacement Patla Temperature 98.9 </s>
+<s> Discharge White Effacement Mota Pulse 51 </s>
+<s> Temperature 35.6 BP 118 / 81 Temperature 36.8 </s>
+<s> Discharge Red BP 124 / 56 Dilatation 7 cm </s>
+<s> BP 83 / 44 Effacement Mota Effacement Patla </s>
+<s> Pulse 65 Dilatation 2 cm Temperature 35.5 </s>
+<s> Temperature 36.5 FHR 116 Temperature 38.5 </s>
+<s> Dilatation 6 cm BP 100 / 60 FHR 142 </s>
+<s> FHR 134 Discharge Clear Temperature 98.5 </s>
+<s> Dilatation 3 cm BP 112 / 105 Discharge Yellow </s>
+<s> Temperature 37.6 Pulse 85 Discharge Green </s>
+<s> Drug Tablet Misoprostol Temperature 96.8 BP 129 / 91 </s>
+<s> BP 122 / 103 BP 119 / 83 Drug Injection Oxytocin </s>
+<s> FHR 96 Pulse 97 Pulse 74 </s>
+<s> Discharge Red Discharge Yellow BP 136 / 95 </s>
+<s> FHR 113 Discharge Yellow Discharge White </s>
+<s> BP 111 / 71 Dilatation 9 cm Pulse 92 </s>
+<s> BP 80 / 111 Discharge Clear Effacement Patla </s>
+<s> Dilatation 7 cm Effacement Mota Dilatation 7 cm </s>
+<s> FHR 170 Effacement Mota Temperature 39.5 </s>
+<s> Temperature 37.8 Discharge White BP 134 / 119 </s>
+<s> Discharge Clear BP 145 / 66 Effacement Mota </s>
+<s> Drug Lignocaine FHR 130 BP 130 / 41 </s>
+<s> Discharge Brown Discharge Clear FHR 91 </s>
+<s> Drug Injection Oxytocin Discharge Brown Pulse 109 </s>
+<s> Drug Injection Oxytocin BP 108 / 75 Temperature 95.6 </s>
+<s> BP 118 / 91 Effacement Patla FHR 84 </s>
+<s> FHR 137 Temperature 97.5 Effacement Mota </s>
+<s> Pulse 62 Drug Injection Oxytocin Drug Lignocaine </s>
+<s> Dilatation 9 cm FHR 131 BP 120 / 56 </s>
+<s> Effacement Patla BP 114 / 96 Temperature 97.1 </s>
+<s> BP 146 / 71 Effacement Mota Temperature 96.5 </s>
+<s> Pulse 117 Pulse 93 BP 135 / 46 </s>
+<s> Temperature 37.4 Effacement Mota Discharge Yellow </s>
+<s> BP 130 / 74 Dilatation 8 cm Temperature 38.3 </s>
+<s> Dilatation 3 cm Pulse 77 Temperature 98.5 </s>
+<s> Dilatation 4 cm Effacement Mota Pulse 128 </s>
+<s> FHR 174 Discharge Brown Discharge Green </s>
+<s> Temperature 97.6 Temperature 98.7 Drug Antibiotic </s>
+<s> Dilatation 8 cm BP 113 / 55 Drug Lignocaine </s>
+<s> Temperature 96.5 Discharge Clear BP 129 / 68 </s>
+<s> Discharge Green Effacement Patla Temperature 97.1 </s>
+<s> FHR 97 Temperature 37.1 Discharge Clear </s>
+<s> Pulse 117 Pulse 66 Drug Tablet Misoprostol </s>
+<s> Discharge White Dilatation 3 cm Effacement Mota </s>
+<s> BP 90 / 99 FHR 157 Effacement Mota </s>
+<s> BP 108 / 108 Temperature 36.7 Dilatation 2 cm </s>
+<s> Dilatation 1 cm Effacement Patla Discharge White </s>
+<s> BP 118 / 104 BP 138 / 54 BP 109 / 45 </s>
+<s> Effacement Patla Discharge Yellow Effacement Patla </s>
+<s> Temperature 36.7 Discharge Yellow BP 117 / 114 </s>
+<s> Effacement Mota BP 112 / 115 FHR 147 </s>
+<s> Discharge Red Effacement Patla Temperature 36.4 </s>
+<s> Pulse 104 BP 153 / 59 FHR 94 </s>
+<s> FHR 89 Temperature 96.2 Temperature 97.5 </s>
+<s> Temperature 98.1 Drug Injection Oxytocin Dilatation 6 cm </s>
+<s> Dilatation 5 cm Drug Injection Oxytocin Drug Antibiotic </s>
+<s> Temperature 36.8 Dilatation 5 cm Temperature 36.9 </s>
+<s> FHR 119 Temperature 38.7 Pulse 78 </s>
+<s> Discharge White Temperature 97.3 FHR 124 </s>
+<s> Discharge Red Temperature 96.2 Effacement Mota </s>
+<s> Temperature 38.2 Effacement Mota Temperature 99.0 </s>
+<s> Discharge Brown FHR 130 Drug Injection Oxytocin </s>
+<s> BP 94 / 84 BP 83 / 48 Drug Tablet Misoprostol </s>
+<s> FHR 140 FHR 149 FHR 149 </s>
+<s> Effacement Patla BP 93 / 84 Discharge White </s>
+<s> Temperature 36.0 Temperature 96.7 Dilatation 7 cm </s>
+<s> Temperature 97.8 Temperature 96.7 FHR 139 </s>
+<s> Temperature 97.6 Temperature 36.4 BP 101 / 99 </s>
+<s> Temperature 97.0 BP 145 / 97 Dilatation 5 cm </s>
+<s> Pulse 52 Temperature 98.9 BP 135 / 61 </s>
+<s> Discharge Clear Dilatation 10 cm BP 144 / 99 </s>
+<s> BP 142 / 63 Temperature 37.6 Temperature 97.5 </s>
+<s> Temperature 35.7 BP 112 / 131 BP 171 / 86 </s>
+<s> Dilatation 10 cm Drug Antibiotic BP 151 / 96 </s>
+<s> FHR 109 BP 120 / 53 Temperature 96.7 </s>
+<s> Temperature 36.4 Temperature 96.9 BP 114 / 57 </s>
+<s> BP 138 / 78 Pulse 88 Temperature 36.4 </s>
+<s> FHR 159 Temperature 37.6 BP 137 / 42 </s>
+<s> Temperature 96.2 Temperature 96.4 Effacement Mota </s>
+<s> FHR 147 Temperature 36.3 Effacement Mota </s>
+<s> FHR 180 BP 87 / 77 BP 128 / 46 </s>
+<s> Pulse 104 Discharge Green Pulse 76 </s>
+<s> Discharge Clear FHR 135 Discharge Green </s>
+<s> Effacement Patla BP 108 / 94 Temperature 97.0 </s>
+<s> Temperature 39.3 Temperature 96.4 Drug Lignocaine </s>
+<s> Discharge Green Dilatation 6 cm Temperature 37.9 </s>
+<s> Dilatation 7 cm Effacement Patla Temperature 97.7 </s>
+<s> Effacement Mota Pulse 92 BP 101 / 90 </s>
+<s> BP 126 / 106 Pulse 104 BP 109 / 73 </s>
+<s> BP 148 / 95 Drug Antibiotic Dilatation 5 cm </s>
+<s> Temperature 95.3 Temperature 95.6 Dilatation 4 cm </s>
+<s> Temperature 38.5 Discharge Clear FHR 133 </s>
+<s> Discharge Red Discharge Brown Drug Injection Oxytocin </s>
+<s> Drug Injection Oxytocin Dilatation 3 cm BP 167 / 57 </s>
+<s> FHR 140 Temperature 36.6 Temperature 36.6 </s>
+<s> Pulse 82 Temperature 35.6 Temperature 36.1 </s>
+<s> Temperature 38.2 Discharge Brown BP 131 / 96 </s>
+<s> BP 145 / 96 Dilatation 6 cm Temperature 96.5 </s>
+<s> Temperature 96.6 Temperature 37.4 Pulse 128 </s>
+<s> Temperature 97.6 Pulse 83 Pulse 78 </s>
+<s> Temperature 99.0 Temperature 97.4 Dilatation 2 cm </s>
+<s> Dilatation 6 cm Pulse 61 Temperature 36.2 </s>
+<s> Pulse 93 Discharge White Effacement Patla </s>
+<s> Dilatation 6 cm Drug Tablet Misoprostol Drug Antibiotic </s>
+<s> Drug Tablet Misoprostol FHR 124 Temperature 36.8 </s>
+<s> Drug Injection Oxytocin Effacement Mota BP 127 / 73 </s>
+<s> FHR 137 Pulse 62 FHR 115 </s>
+<s> Temperature 97.0 BP 139 / 60 Effacement Mota </s>
+<s> Discharge Green Dilatation 4 cm Temperature 96.3 </s>
+<s> Temperature 97.9 Temperature 35.4 Dilatation 6 cm </s>
+<s> Dilatation 7 cm BP 91 / 96 Temperature 36.4 </s>
+<s> Pulse 93 FHR 141 Dilatation 7 cm </s>
+<s> Temperature 98.2 Effacement Mota Dilatation 7 cm </s>
+<s> Discharge White BP 133 / 78 Drug Lignocaine </s>
+<s> Drug Injection Oxytocin Dilatation 4 cm Effacement Mota </s>
+<s> BP 173 / 67 Dilatation 6 cm FHR 156 </s>
+<s> Discharge White Temperature 97.2 Effacement Patla </s>
+<s> Pulse 56 Dilatation 5 cm Temperature 36.5 </s>
+<s> Drug Lignocaine Pulse 80 BP 140 / 67 </s>
+<s> FHR 134 FHR 138 Temperature 97.5 </s>
+<s> Temperature 97.5 Discharge Green Pulse 60 </s>
+<s> FHR 171 BP 90 / 64 Pulse 51 </s>
+<s> Pulse 107 Drug Tablet Misoprostol Effacement Patla </s>
+<s> Effacement Mota FHR 131 Pulse 92 </s>
+<s> Drug Injection Oxytocin FHR 150 BP 90 / 90 </s>
+<s> Effacement Patla Discharge White BP 150 / 101 </s>
+<s> Dilatation 7 cm Discharge Red Drug Injection Oxytocin </s>
+<s> BP 94 / 61 Dilatation 5 cm Effacement Mota </s>
+<s> Dilatation 4 cm Temperature 37.1 BP 107 / 70 </s>
+<s> FHR 179 Effacement Mota Discharge Green </s>
+<s> Effacement Patla Pulse 65 Dilatation 6 cm </s>
+<s> Pulse 70 BP 129 / 82 FHR 129 </s>
+<s> FHR 185 BP 111 / 68 BP 109 / 95 </s>
+<s> FHR 159 Effacement Patla Pulse 88 </s>
+<s> Drug Injection Oxytocin Discharge White Effacement Mota </s>
+<s> BP 124 / 49 Effacement Mota Discharge Clear </s>
+<s> BP 128 / 76 BP 118 / 60 Effacement Mota </s>
+<s> BP 107 / 93 Effacement Mota BP 95 / 106 </s>
+<s> Discharge White Discharge Red FHR 161 </s>
+<s> Effacement Mota BP 81 / 85 Drug Tablet Misoprostol </s>
+<s> Effacement Mota FHR 101 Effacement Mota </s>
+<s> BP 101 / 45 Drug Tablet Misoprostol BP 82 / 62 </s>
+<s> Pulse 54 Temperature 97.7 Effacement Patla </s>
+<s> BP 145 / 52 BP 103 / 73 BP 151 / 95 </s>
+<s> Pulse 54 Temperature 37.2 Temperature 99.1 </s>
+<s> Temperature 38.3 Drug Antibiotic Discharge Green </s>
+<s> Pulse 77 Drug Antibiotic Effacement Patla </s>
+<s> FHR 102 FHR 153 Temperature 97.5 </s>
+<s> BP 115 / 82 BP 110 / 89 Drug Injection Oxytocin </s>
+<s> BP 95 / 70 Dilatation 6 cm Temperature 38.3 </s>
+<s> FHR 103 BP 117 / 85 FHR 142 </s>
+<s> BP 82 / 69 Pulse 102 Drug Antibiotic </s>
+<s> Temperature 100.4 Discharge Red Effacement Mota </s>
+<s> Temperature 39.2 Temperature 97.3 Temperature 38.1 </s>
+<s> FHR 126 Effacement Mota Temperature 97.2 </s>
+<s> Effacement Mota BP 114 / 112 BP 109 / 48 </s>
+<s> Pulse 107 BP 155 / 107 Pulse 91 </s>
+<s> Effacement Patla BP 117 / 52 Effacement Mota </s>
+<s> BP 99 / 84 Pulse 101 Temperature 98.6 </s>
+<s> Effacement Mota Temperature 97.0 Dilatation 5 cm </s>
+<s> BP 129 / 105 Effacement Mota Drug Injection Oxytocin </s>
+<s> Discharge Brown Pulse 91 Drug Antibiotic </s>
+<s> Temperature 97.1 Temperature 96.3 Pulse 110 </s>
+<s> Temperature 35.8 FHR 103 Temperature 97.9 </s>
+<s> Dilatation 7 cm Pulse 63 BP 95 / 131 </s>
+<s> Dilatation 7 cm Effacement Patla Effacement Patla </s>
+<s> Temperature 36.8 FHR 144 FHR 115 </s>
+<s> Drug Tablet Misoprostol Temperature 38.6 Pulse 64 </s>
+<s> FHR 148 Temperature 98.8 Effacement Patla </s>
+<s> Effacement Mota BP 143 / 95 Drug Injection Oxytocin </s>
+<s> Discharge Yellow Pulse 58 Discharge Clear </s>
+<s> Temperature 35.5 FHR 84 BP 119 / 100 </s>
+<s> Temperature 36.5 Drug Tablet Misoprostol Temperature 36.2 </s>
+<s> Pulse 127 FHR 142 Drug Lignocaine </s>
+<s> Temperature 37.3 Pulse 54 BP 145 / 77 </s>
+<s> Discharge Yellow Effacement Mota BP 108 / 65 </s>
+<s> Effacement Mota Drug Injection Oxytocin Temperature 36.7 </s>
+<s> BP 135 / 80 FHR 134 BP 108 / 86 </s>
+<s> FHR 140 Drug Tablet Misoprostol Dilatation 3 cm </s>
+<s> Drug Injection Oxytocin Effacement Mota BP 132 / 85 </s>
+<s> BP 160 / 73 Discharge Clear Temperature 96.8 </s>
+<s> Discharge Clear Discharge Red Effacement Mota </s>
+<s> Pulse 57 Temperature 96.8 Effacement Mota </s>
+<s> BP 160 / 56 FHR 93 Drug Antibiotic </s>
+<s> Discharge Yellow Temperature 96.1 Discharge Green </s>
+<s> FHR 127 FHR 124 Effacement Mota </s>
+<s> BP 129 / 87 FHR 125 Discharge Yellow </s>
+<s> Discharge Green Temperature 36.6 Drug Injection Oxytocin </s>
+<s> Temperature 36.2 BP 128 / 63 Dilatation 4 cm </s>
+<s> Effacement Mota Pulse 78 Drug Injection Oxytocin </s>
+<s> Drug Antibiotic Effacement Mota Dilatation 4 cm </s>
+<s> BP 153 / 110 Discharge Clear Discharge White </s>
+<s> Temperature 38.0 Dilatation 5 cm Temperature 96.2 </s>
+<s> Discharge Yellow Pulse 53 Temperature 97.7 </s>
+<s> Effacement Patla Temperature 37.6 BP 107 / 73 </s>
+<s> Pulse 93 Temperature 36.8 Dilatation 5 cm </s>
+<s> Temperature 36.1 FHR 108 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol BP 135 / 68 Discharge Red </s>
+<s> BP 98 / 97 Temperature 97.4 BP 95 / 51 </s>
+<s> BP 103 / 81 Effacement Patla Drug Tablet Misoprostol </s>
+<s> Temperature 36.9 Pulse 81 Discharge Yellow </s>
+<s> Temperature 37.0 FHR 161 FHR 112 </s>
+<s> Effacement Mota Temperature 37.5 Pulse 60 </s>
+<s> Dilatation 6 cm Pulse 52 BP 99 / 69 </s>
+<s> Discharge Clear Pulse 53 Drug Tablet Misoprostol </s>
+<s> FHR 141 Pulse 67 Effacement Patla </s>
+<s> Pulse 77 BP 102 / 60 Temperature 36.3 </s>
+<s> Drug Tablet Misoprostol Temperature 37.8 Effacement Patla </s>
+<s> BP 141 / 76 BP 122 / 105 Pulse 88 </s>
+<s> Dilatation 5 cm Drug Tablet Misoprostol Dilatation 8 cm </s>
+<s> Temperature 36.0 FHR 133 Effacement Mota </s>
+<s> Temperature 98.8 Temperature 36.9 Effacement Patla </s>
+<s> Temperature 35.7 Dilatation 5 cm Dilatation 2 cm </s>
+<s> FHR 101 Pulse 92 Pulse 56 </s>
+<s> Drug Injection Oxytocin Discharge Red Pulse 92 </s>
+<s> Discharge Red Drug Antibiotic Effacement Patla </s>
+<s> Temperature 36.1 Temperature 36.3 Effacement Patla </s>
+<s> Effacement Patla FHR 162 Temperature 38.6 </s>
+<s> BP 146 / 84 Temperature 37.6 BP 83 / 78 </s>
+<s> Pulse 120 Pulse 75 Drug Injection Oxytocin </s>
+<s> Temperature 37.9 Drug Injection Oxytocin BP 158 / 91 </s>
+<s> Effacement Mota BP 107 / 69 Temperature 38.2 </s>
+<s> Effacement Mota Drug Injection Oxytocin Temperature 38.3 </s>
+<s> BP 134 / 42 Drug Antibiotic FHR 120 </s>
+<s> Dilatation 4 cm FHR 122 Discharge Red </s>
+<s> Temperature 96.4 BP 117 / 106 FHR 137 </s>
+<s> Discharge Red FHR 124 Pulse 99 </s>
+<s> BP 130 / 76 FHR 158 Temperature 38.5 </s>
+<s> Discharge White Discharge Brown BP 87 / 103 </s>
+<s> Discharge Brown Discharge Green BP 123 / 75 </s>
+<s> Pulse 64 BP 146 / 64 Temperature 37.0 </s>
+<s> Pulse 110 Temperature 36.5 Dilatation 7 cm </s>
+<s> BP 131 / 104 Discharge Yellow Effacement Mota </s>
+<s> BP 92 / 73 Effacement Mota FHR 108 </s>
+<s> Dilatation 6 cm Effacement Patla Discharge Green </s>
+<s> FHR 81 Temperature 36.2 BP 131 / 72 </s>
+<s> Temperature 36.3 BP 130 / 73 Dilatation 6 cm </s>
+<s> BP 94 / 118 Effacement Patla Discharge Brown </s>
+<s> FHR 152 Effacement Patla FHR 167 </s>
+<s> Pulse 74 Temperature 96.8 Pulse 98 </s>
+<s> Pulse 88 BP 145 / 92 BP 104 / 41 </s>
+<s> Temperature 97.7 FHR 137 BP 123 / 96 </s>
+<s> FHR 125 Effacement Mota Discharge Brown </s>
+<s> Pulse 85 Drug Antibiotic BP 90 / 140 </s>
+<s> Temperature 38.0 Temperature 39.9 Temperature 95.9 </s>
+<s> Dilatation 5 cm Effacement Patla BP 144 / 80 </s>
+<s> Temperature 96.9 Temperature 97.3 Drug Lignocaine </s>
+<s> FHR 119 Dilatation 7 cm Pulse 87 </s>
+<s> Discharge Clear Temperature 36.6 FHR 153 </s>
+<s> Dilatation 3 cm Effacement Patla Pulse 88 </s>
+<s> Dilatation 5 cm BP 126 / 57 Temperature 95.8 </s>
+<s> Drug Injection Oxytocin Dilatation 4 cm BP 111 / 56 </s>
+<s> Temperature 97.0 Pulse 102 Effacement Patla </s>
+<s> Pulse 108 Drug Tablet Misoprostol Pulse 102 </s>
+<s> Drug Tablet Misoprostol Temperature 36.2 BP 90 / 75 </s>
+<s> Temperature 37.4 BP 117 / 88 FHR 116 </s>
+<s> Dilatation 4 cm Dilatation 4 cm Dilatation 6 cm </s>
+<s> Pulse 93 Pulse 91 Effacement Mota </s>
+<s> Drug Lignocaine Discharge Yellow BP 202 / 82 </s>
+<s> Dilatation 6 cm BP 98 / 73 FHR 124 </s>
+<s> Pulse 113 Pulse 79 Temperature 39.8 </s>
+<s> Effacement Mota BP 163 / 84 BP 80 / 54 </s>
+<s> BP 108 / 69 Pulse 107 FHR 114 </s>
+<s> Discharge Brown Effacement Mota Pulse 75 </s>
+<s> Pulse 94 FHR 141 BP 117 / 93 </s>
+<s> BP 136 / 97 Dilatation 5 cm BP 125 / 53 </s>
+<s> Temperature 97.4 BP 136 / 45 Discharge White </s>
+<s> FHR 145 Discharge Yellow Drug Antibiotic </s>
+<s> Temperature 96.8 BP 100 / 74 BP 100 / 60 </s>
+<s> Pulse 109 BP 81 / 73 Drug Injection Oxytocin </s>
+<s> FHR 156 Dilatation 5 cm Temperature 36.4 </s>
+<s> Discharge Brown Discharge Clear Effacement Patla </s>
+<s> FHR 112 BP 132 / 83 Pulse 104 </s>
+<s> Pulse 108 BP 97 / 53 Temperature 36.9 </s>
+<s> BP 108 / 69 BP 92 / 56 Effacement Mota </s>
+<s> Pulse 102 Temperature 37.6 Temperature 37.4 </s>
+<s> Temperature 97.0 Temperature 36.7 Discharge Red </s>
+<s> Effacement Mota Effacement Mota BP 113 / 75 </s>
+<s> Pulse 51 Drug Lignocaine Temperature 98.0 </s>
+<s> Pulse 77 BP 107 / 57 Temperature 97.9 </s>
+<s> Discharge Green Drug Tablet Misoprostol Pulse 75 </s>
+<s> Effacement Mota Effacement Mota Drug Injection Oxytocin </s>
+<s> Effacement Mota BP 120 / 56 BP 124 / 97 </s>
+<s> BP 97 / 92 Temperature 39.6 Discharge Yellow </s>
+<s> BP 113 / 84 FHR 130 Dilatation 7 cm </s>
+<s> BP 142 / 73 Dilatation 5 cm Drug Lignocaine </s>
+<s> Drug Injection Oxytocin BP 125 / 57 Temperature 36.1 </s>
+<s> Effacement Mota Effacement Patla BP 91 / 73 </s>
+<s> BP 120 / 75 Effacement Mota Dilatation 4 cm </s>
+<s> Temperature 96.7 BP 131 / 109 Pulse 61 </s>
+<s> Effacement Patla FHR 97 Discharge Clear </s>
+<s> Temperature 37.4 Discharge Green FHR 108 </s>
+<s> BP 118 / 94 BP 125 / 64 Drug Lignocaine </s>
+<s> Pulse 85 Discharge Clear FHR 137 </s>
+<s> Pulse 110 Discharge Brown Temperature 97.1 </s>
+<s> FHR 152 Drug Tablet Misoprostol Drug Injection Oxytocin </s>
+<s> Temperature 97.0 Effacement Patla Discharge Green </s>
+<s> FHR 152 Pulse 68 Drug Tablet Misoprostol </s>
+<s> FHR 129 Effacement Mota Discharge Brown </s>
+<s> FHR 123 Temperature 96.8 BP 162 / 113 </s>
+<s> BP 109 / 82 Temperature 37.6 BP 122 / 90 </s>
+<s> Discharge Red Discharge Red Temperature 96.8 </s>
+<s> BP 104 / 61 Effacement Mota BP 115 / 66 </s>
+<s> Pulse 53 Effacement Patla BP 137 / 51 </s>
+<s> FHR 112 BP 131 / 106 Discharge Yellow </s>
+<s> Temperature 96.5 Effacement Mota FHR 100 </s>
+<s> Drug Tablet Misoprostol Drug Tablet Misoprostol Temperature 36.4 </s>
+<s> Effacement Mota Temperature 36.2 Effacement Patla </s>
+<s> Temperature 98.2 Temperature 36.3 BP 139 / 45 </s>
+<s> BP 118 / 102 Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 93 / 48 Discharge Green Temperature 97.3 </s>
+<s> BP 91 / 56 Discharge Red FHR 162 </s>
+<s> BP 93 / 85 FHR 148 Discharge White </s>
+<s> Temperature 96.8 Temperature 98.3 FHR 152 </s>
+<s> FHR 92 Dilatation 8 cm Drug Injection Oxytocin </s>
+<s> FHR 169 Drug Injection Oxytocin BP 104 / 61 </s>
+<s> Discharge Brown Temperature 98.4 Dilatation 7 cm </s>
+<s> Dilatation 6 cm FHR 158 Temperature 97.0 </s>
+<s> Effacement Mota Drug Lignocaine Discharge Yellow </s>
+<s> Discharge Brown Temperature 36.8 Temperature 36.9 </s>
+<s> Pulse 53 Temperature 96.5 BP 112 / 77 </s>
+<s> Dilatation 5 cm Discharge White Temperature 36.2 </s>
+<s> BP 146 / 51 Pulse 57 Drug Tablet Misoprostol </s>
+<s> Drug Injection Oxytocin Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 116 / 80 Drug Injection Oxytocin BP 140 / 85 </s>
+<s> Drug Tablet Misoprostol Temperature 96.1 Pulse 54 </s>
+<s> Temperature 96.1 Temperature 97.8 BP 137 / 43 </s>
+<s> Dilatation 2 cm Drug Lignocaine Temperature 38.9 </s>
+<s> FHR 126 Temperature 36.5 Drug Antibiotic </s>
+<s> Effacement Mota FHR 147 Pulse 77 </s>
+<s> FHR 162 FHR 105 Effacement Mota </s>
+<s> Temperature 99.5 Temperature 35.4 Temperature 96.4 </s>
+<s> Discharge Red Pulse 62 FHR 110 </s>
+<s> BP 98 / 111 FHR 136 BP 95 / 72 </s>
+<s> Temperature 37.1 Temperature 36.6 Dilatation 6 cm </s>
+<s> BP 142 / 85 BP 142 / 66 Effacement Patla </s>
+<s> BP 115 / 63 FHR 129 Temperature 97.7 </s>
+<s> FHR 133 Effacement Patla Drug Injection Oxytocin </s>
+<s> Temperature 35.4 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Drug Tablet Misoprostol Dilatation 8 cm Temperature 96.2 </s>
+<s> BP 126 / 46 Effacement Patla FHR 142 </s>
+<s> Temperature 98.6 Drug Injection Oxytocin Temperature 96.9 </s>
+<s> Dilatation 8 cm Temperature 37.2 Dilatation 9 cm </s>
+<s> Temperature 38.1 BP 123 / 50 BP 123 / 61 </s>
+<s> Effacement Patla BP 131 / 84 FHR 138 </s>
+<s> Pulse 86 BP 91 / 59 Pulse 84 </s>
+<s> Drug Tablet Misoprostol Discharge Red Dilatation 5 cm </s>
+<s> FHR 84 BP 109 / 108 Pulse 81 </s>
+<s> FHR 120 Discharge Clear BP 107 / 74 </s>
+<s> FHR 169 Temperature 38.5 Discharge Red </s>
+<s> Drug Tablet Misoprostol BP 120 / 121 FHR 96 </s>
+<s> Pulse 87 Discharge Green Drug Injection Oxytocin </s>
+<s> FHR 154 FHR 108 Dilatation 5 cm </s>
+<s> Drug Tablet Misoprostol Temperature 37.9 Drug Injection Oxytocin </s>
+<s> FHR 89 FHR 152 FHR 123 </s>
+<s> FHR 133 Temperature 98.0 Temperature 97.9 </s>
+<s> Temperature 98.3 Pulse 89 BP 112 / 74 </s>
+<s> Temperature 97.0 BP 167 / 72 BP 118 / 59 </s>
+<s> FHR 126 Effacement Mota Drug Tablet Misoprostol </s>
+<s> FHR 115 BP 166 / 85 BP 100 / 103 </s>
+<s> Discharge White Effacement Mota BP 129 / 116 </s>
+<s> Pulse 93 BP 95 / 68 Drug Tablet Misoprostol </s>
+<s> Temperature 37.2 BP 163 / 73 Discharge Clear </s>
+<s> Temperature 37.5 Dilatation 6 cm Dilatation 5 cm </s>
+<s> Effacement Mota Temperature 39.1 Temperature 36.1 </s>
+<s> Dilatation 6 cm FHR 179 BP 141 / 87 </s>
+<s> Drug Lignocaine BP 144 / 81 Drug Antibiotic </s>
+<s> Temperature 37.2 Temperature 35.9 Temperature 96.1 </s>
+<s> BP 82 / 130 BP 106 / 105 BP 130 / 114 </s>
+<s> Temperature 36.4 Pulse 102 BP 111 / 51 </s>
+<s> Temperature 98.1 Pulse 126 Pulse 68 </s>
+<s> Drug Injection Oxytocin Discharge White Discharge Red </s>
+<s> Drug Injection Oxytocin Discharge Red BP 132 / 59 </s>
+<s> Drug Tablet Misoprostol Pulse 88 Dilatation 5 cm </s>
+<s> FHR 94 Temperature 35.6 Pulse 84 </s>
+<s> FHR 147 BP 87 / 100 Temperature 96.7 </s>
+<s> Temperature 96.7 Discharge Red Drug Lignocaine </s>
+<s> FHR 135 Dilatation 6 cm BP 129 / 63 </s>
+<s> FHR 123 BP 137 / 52 Drug Lignocaine </s>
+<s> Drug Lignocaine FHR 141 Temperature 95.7 </s>
+<s> Pulse 64 Pulse 73 FHR 126 </s>
+<s> Temperature 95.8 BP 131 / 43 Pulse 98 </s>
+<s> Pulse 62 FHR 114 Temperature 99.8 </s>
+<s> Effacement Mota BP 126 / 92 FHR 87 </s>
+<s> Temperature 38.0 Effacement Patla BP 121 / 49 </s>
+<s> BP 130 / 93 Temperature 36.5 FHR 149 </s>
+<s> Drug Tablet Misoprostol BP 109 / 51 Drug Lignocaine </s>
+<s> Dilatation 4 cm Temperature 97.5 Dilatation 4 cm </s>
+<s> Temperature 99.5 BP 109 / 77 BP 111 / 127 </s>
+<s> Discharge Red Dilatation 3 cm BP 100 / 109 </s>
+<s> Drug Tablet Misoprostol BP 117 / 102 BP 117 / 86 </s>
+<s> Temperature 35.7 Temperature 37.5 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown Discharge Yellow </s>
+<s> Effacement Patla Effacement Mota FHR 133 </s>
+<s> Pulse 65 BP 122 / 61 Temperature 97.3 </s>
+<s> Temperature 96.9 BP 95 / 71 Pulse 110 </s>
+<s> Dilatation 5 cm Temperature 37.5 Pulse 65 </s>
+<s> Discharge Green Discharge Clear Pulse 62 </s>
+<s> Dilatation 6 cm FHR 134 FHR 129 </s>
+<s> Drug Injection Oxytocin Temperature 36.8 Temperature 98.3 </s>
+<s> Effacement Mota BP 103 / 132 Effacement Patla </s>
+<s> BP 117 / 76 Discharge Clear Temperature 36.5 </s>
+<s> Temperature 97.4 Effacement Patla Temperature 38.5 </s>
+<s> FHR 150 Effacement Mota BP 98 / 88 </s>
+<s> Pulse 98 BP 129 / 85 BP 144 / 46 </s>
+<s> Pulse 57 Dilatation 5 cm Temperature 37.1 </s>
+<s> Dilatation 5 cm Effacement Patla BP 120 / 111 </s>
+<s> Discharge Clear Temperature 96.6 Temperature 97.9 </s>
+<s> BP 129 / 71 Temperature 97.5 Effacement Mota </s>
+<s> Drug Tablet Misoprostol BP 142 / 85 Pulse 59 </s>
+<s> Pulse 70 Dilatation 2 cm Drug Injection Oxytocin </s>
+<s> Temperature 97.2 Discharge Yellow FHR 149 </s>
+<s> Dilatation 6 cm BP 110 / 91 Temperature 96.6 </s>
+<s> BP 120 / 55 Effacement Patla Temperature 35.7 </s>
+<s> Drug Injection Oxytocin Temperature 36.8 Drug Injection Oxytocin </s>
+<s> BP 133 / 82 FHR 160 BP 112 / 55 </s>
+<s> Temperature 35.8 Drug Lignocaine Pulse 83 </s>
+<s> Drug Lignocaine BP 159 / 102 Temperature 36.0 </s>
+<s> FHR 180 Temperature 96.9 Pulse 94 </s>
+<s> Effacement Mota Discharge Yellow Pulse 68 </s>
+<s> Pulse 99 Discharge Brown Pulse 96 </s>
+<s> Pulse 90 Temperature 37.6 Dilatation 5 cm </s>
+<s> Drug Lignocaine FHR 151 Effacement Mota </s>
+<s> FHR 110 FHR 102 BP 116 / 73 </s>
+<s> BP 144 / 66 Temperature 38.5 BP 165 / 63 </s>
+<s> Discharge Red BP 129 / 60 Drug Lignocaine </s>
+<s> FHR 140 Pulse 84 Discharge Green </s>
+<s> Effacement Patla BP 149 / 120 BP 109 / 92 </s>
+<s> BP 152 / 59 BP 128 / 109 Discharge White </s>
+<s> Effacement Patla Pulse 100 Pulse 100 </s>
+<s> Temperature 97.8 BP 97 / 52 Discharge Brown </s>
+<s> Effacement Mota Pulse 110 BP 156 / 79 </s>
+<s> Dilatation 9 cm Temperature 97.8 Drug Injection Oxytocin </s>
+<s> Discharge Brown BP 123 / 118 Effacement Patla </s>
+<s> Temperature 96.6 Dilatation 7 cm Effacement Patla </s>
+<s> BP 137 / 101 BP 85 / 56 Effacement Patla </s>
+<s> Discharge Yellow BP 135 / 84 Temperature 97.1 </s>
+<s> Temperature 39.1 FHR 132 Discharge Clear </s>
+<s> BP 90 / 114 Temperature 96.0 Temperature 37.6 </s>
+<s> Temperature 97.4 Discharge Red Drug Injection Oxytocin </s>
+<s> Pulse 99 Pulse 71 FHR 117 </s>
+<s> Temperature 100.8 Discharge Clear Drug Tablet Misoprostol </s>
+<s> FHR 118 Discharge Red Effacement Patla </s>
+<s> BP 113 / 104 BP 94 / 109 Drug Injection Oxytocin </s>
+<s> BP 125 / 86 FHR 83 BP 131 / 77 </s>
+<s> Drug Lignocaine BP 115 / 120 Pulse 97 </s>
+<s> FHR 133 BP 88 / 88 Temperature 98.4 </s>
+<s> BP 157 / 40 Drug Tablet Misoprostol Dilatation 5 cm </s>
+<s> Drug Injection Oxytocin Dilatation 6 cm BP 130 / 93 </s>
+<s> Discharge Yellow Temperature 97.9 Dilatation 4 cm </s>
+<s> Effacement Mota Temperature 96.3 Drug Tablet Misoprostol </s>
+<s> Temperature 98.3 Temperature 97.6 BP 117 / 95 </s>
+<s> Dilatation 5 cm BP 130 / 93 FHR 148 </s>
+<s> Dilatation 5 cm Pulse 68 Temperature 37.4 </s>
+<s> Temperature 38.5 Dilatation 3 cm BP 117 / 65 </s>
+<s> Dilatation 3 cm Effacement Patla Discharge Red </s>
+<s> FHR 112 FHR 167 Effacement Patla </s>
+<s> FHR 115 Temperature 98.0 Drug Tablet Misoprostol </s>
+<s> Dilatation 6 cm Temperature 96.4 Effacement Mota </s>
+<s> Temperature 98.4 Temperature 96.4 Temperature 96.3 </s>
+<s> BP 173 / 53 Discharge Yellow Pulse 57 </s>
+<s> Drug Lignocaine Temperature 37.8 Effacement Patla </s>
+<s> BP 148 / 130 FHR 124 Temperature 36.3 </s>
+<s> BP 118 / 48 Temperature 98.8 FHR 129 </s>
+<s> Temperature 96.7 BP 88 / 64 Drug Antibiotic </s>
+<s> Dilatation 4 cm Effacement Patla Drug Injection Oxytocin </s>
+<s> Effacement Patla Temperature 37.6 Pulse 91 </s>
+<s> BP 119 / 78 BP 138 / 115 Pulse 94 </s>
+<s> Dilatation 7 cm Temperature 38.4 Pulse 117 </s>
+<s> Discharge Red BP 135 / 58 Discharge Brown </s>
+<s> Discharge Yellow Drug Tablet Misoprostol BP 80 / 67 </s>
+<s> Effacement Patla Effacement Patla BP 165 / 83 </s>
+<s> FHR 149 Drug Tablet Misoprostol Effacement Mota </s>
+<s> Temperature 37.0 Dilatation 4 cm Effacement Patla </s>
+<s> Dilatation 4 cm BP 111 / 94 Temperature 36.9 </s>
+<s> Dilatation 5 cm FHR 137 BP 108 / 62 </s>
+<s> BP 102 / 115 Drug Tablet Misoprostol Discharge Clear </s>
+<s> Pulse 94 Effacement Patla Effacement Mota </s>
+<s> Effacement Patla Temperature 36.5 BP 125 / 51 </s>
+<s> FHR 104 Discharge Yellow BP 83 / 94 </s>
+<s> Dilatation 5 cm Temperature 99.1 BP 141 / 78 </s>
+<s> BP 125 / 94 Temperature 35.5 Drug Injection Oxytocin </s>
+<s> Temperature 37.0 Temperature 36.4 BP 155 / 85 </s>
+<s> Effacement Patla BP 147 / 41 Discharge Clear </s>
+<s> Effacement Mota BP 129 / 96 Dilatation 4 cm </s>
+<s> BP 131 / 110 Effacement Patla BP 106 / 99 </s>
+<s> Temperature 96.4 Effacement Mota Temperature 38.6 </s>
+<s> BP 107 / 59 Discharge Yellow Pulse 92 </s>
+<s> BP 150 / 77 Dilatation 6 cm Pulse 78 </s>
+<s> Dilatation 4 cm Dilatation 7 cm Temperature 38.3 </s>
+<s> Discharge Green Temperature 36.5 Temperature 96.6 </s>
+<s> BP 102 / 102 Pulse 78 Pulse 115 </s>
+<s> BP 86 / 87 BP 148 / 55 Temperature 37.6 </s>
+<s> FHR 146 Drug Lignocaine Drug Lignocaine </s>
+<s> FHR 153 Temperature 37.3 Temperature 36.7 </s>
+<s> Temperature 35.7 BP 116 / 115 BP 135 / 78 </s>
+<s> Effacement Mota Discharge Red Temperature 97.1 </s>
+<s> Dilatation 6 cm BP 119 / 59 Dilatation 6 cm </s>
+<s> Discharge Red Dilatation 3 cm BP 154 / 85 </s>
+<s> FHR 126 Pulse 114 Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Temperature 99.0 Dilatation 7 cm </s>
+<s> BP 137 / 102 Effacement Patla Effacement Mota </s>
+<s> BP 109 / 56 BP 95 / 57 Discharge Yellow </s>
+<s> BP 165 / 54 BP 135 / 56 Pulse 75 </s>
+<s> BP 115 / 79 Discharge Clear Temperature 96.7 </s>
+<s> Discharge White Temperature 37.5 FHR 144 </s>
+<s> Effacement Patla Effacement Patla Discharge Red </s>
+<s> Effacement Patla Temperature 37.2 BP 126 / 105 </s>
+<s> Pulse 90 Pulse 103 Discharge Brown </s>
+<s> Effacement Mota Pulse 88 Drug Injection Oxytocin </s>
+<s> Pulse 63 Discharge Green BP 118 / 58 </s>
+<s> FHR 127 Temperature 95.7 Temperature 98.3 </s>
+<s> BP 150 / 48 Effacement Mota BP 157 / 92 </s>
+<s> Drug Lignocaine Effacement Patla BP 100 / 65 </s>
+<s> Temperature 96.6 FHR 163 FHR 181 </s>
+<s> Effacement Patla BP 110 / 130 BP 122 / 56 </s>
+<s> Dilatation 5 cm FHR 129 Discharge Green </s>
+<s> Temperature 97.3 Discharge Clear Temperature 97.0 </s>
+<s> BP 172 / 59 Drug Lignocaine BP 103 / 74 </s>
+<s> FHR 165 Dilatation 4 cm Discharge Brown </s>
+<s> Effacement Mota BP 98 / 97 Discharge White </s>
+<s> Temperature 38.1 Effacement Patla Effacement Mota </s>
+<s> FHR 159 Temperature 36.4 Effacement Mota </s>
+<s> Pulse 94 Drug Injection Oxytocin Dilatation 5 cm </s>
+<s> FHR 127 Drug Lignocaine Pulse 58 </s>
+<s> FHR 122 Effacement Mota Effacement Patla </s>
+<s> BP 138 / 107 Effacement Patla Discharge White </s>
+<s> Temperature 98.2 Temperature 36.3 FHR 113 </s>
+<s> Temperature 37.2 Drug Injection Oxytocin Drug Tablet Misoprostol </s>
+<s> Temperature 96.8 BP 110 / 86 BP 127 / 46 </s>
+<s> BP 96 / 106 Temperature 98.2 Temperature 36.9 </s>
+<s> Temperature 99.0 Temperature 38.8 Temperature 96.9 </s>
+<s> Drug Tablet Misoprostol BP 122 / 107 Dilatation 6 cm </s>
+<s> Dilatation 5 cm FHR 127 Drug Antibiotic </s>
+<s> Drug Antibiotic Pulse 68 Pulse 57 </s>
+<s> FHR 138 Pulse 91 Effacement Patla </s>
+<s> Discharge Brown Temperature 96.7 Dilatation 5 cm </s>
+<s> Dilatation 7 cm Dilatation 4 cm Effacement Mota </s>
+<s> BP 128 / 96 Temperature 37.1 FHR 107 </s>
+<s> Temperature 95.9 Drug Antibiotic Drug Antibiotic </s>
+<s> BP 116 / 67 Temperature 96.6 BP 138 / 88 </s>
+<s> Dilatation 4 cm Dilatation 4 cm Discharge Green </s>
+<s> BP 146 / 77 Drug Lignocaine BP 121 / 92 </s>
+<s> Pulse 80 Discharge Yellow BP 134 / 78 </s>
+<s> Effacement Mota BP 129 / 137 Dilatation 7 cm </s>
+<s> Pulse 107 Pulse 67 FHR 125 </s>
+<s> BP 138 / 101 Temperature 35.7 Discharge Brown </s>
+<s> Drug Injection Oxytocin Temperature 96.4 FHR 126 </s>
+<s> Pulse 109 Temperature 38.7 Pulse 105 </s>
+<s> Temperature 96.1 Dilatation 9 cm Pulse 76 </s>
+<s> Pulse 60 Pulse 67 Dilatation 5 cm </s>
+<s> Discharge Green FHR 168 Temperature 38.1 </s>
+<s> Drug Injection Oxytocin Temperature 37.5 Dilatation 6 cm </s>
+<s> FHR 137 Temperature 97.8 BP 119 / 83 </s>
+<s> Effacement Patla BP 100 / 60 Effacement Mota </s>
+<s> Discharge White BP 96 / 74 BP 153 / 47 </s>
+<s> Temperature 97.6 Drug Injection Oxytocin Temperature 37.0 </s>
+<s> Dilatation 8 cm Drug Injection Oxytocin Pulse 76 </s>
+<s> Effacement Mota Drug Lignocaine Temperature 96.6 </s>
+<s> Temperature 36.4 BP 97 / 63 Temperature 98.3 </s>
+<s> Temperature 37.1 Effacement Mota Discharge Green </s>
+<s> BP 142 / 96 Dilatation 8 cm FHR 125 </s>
+<s> BP 150 / 45 Temperature 37.0 Dilatation 3 cm </s>
+<s> Temperature 35.8 Temperature 97.9 BP 117 / 101 </s>
+<s> Pulse 102 Temperature 36.6 Discharge Yellow </s>
+<s> Temperature 96.7 Effacement Patla Drug Lignocaine </s>
+<s> BP 109 / 93 Effacement Mota Temperature 96.1 </s>
+<s> FHR 95 Discharge Red BP 97 / 120 </s>
+<s> Dilatation 7 cm Dilatation 6 cm Temperature 96.0 </s>
+<s> Effacement Patla BP 80 / 96 Temperature 96.4 </s>
+<s> Dilatation 7 cm Pulse 93 Temperature 96.0 </s>
+<s> Dilatation 6 cm BP 148 / 63 BP 140 / 100 </s>
+<s> Temperature 97.3 Drug Lignocaine BP 104 / 102 </s>
+<s> Discharge Clear Pulse 86 Pulse 79 </s>
+<s> Temperature 95.9 BP 144 / 75 Effacement Mota </s>
+<s> Temperature 35.6 Drug Antibiotic Dilatation 5 cm </s>
+<s> Discharge Green FHR 110 Temperature 38.0 </s>
+<s> BP 137 / 103 FHR 149 Temperature 96.7 </s>
+<s> Temperature 96.8 Effacement Mota BP 121 / 91 </s>
+<s> BP 174 / 66 BP 111 / 97 Temperature 37.7 </s>
+<s> Discharge Clear Effacement Mota Temperature 97.2 </s>
+<s> Effacement Patla Dilatation 5 cm FHR 178 </s>
+<s> BP 175 / 70 Pulse 50 Dilatation 7 cm </s>
+<s> FHR 111 Pulse 116 Effacement Patla </s>
+<s> Effacement Patla Discharge Brown FHR 130 </s>
+<s> Temperature 96.6 Drug Tablet Misoprostol Pulse 97 </s>
+<s> Drug Tablet Misoprostol Temperature 96.4 Temperature 37.1 </s>
+<s> FHR 162 Pulse 53 Effacement Mota </s>
+<s> Discharge White FHR 118 Temperature 96.2 </s>
+<s> BP 102 / 85 BP 160 / 108 Pulse 71 </s>
+<s> Temperature 38.3 BP 146 / 89 Effacement Mota </s>
+<s> Discharge White FHR 124 BP 101 / 45 </s>
+<s> Effacement Mota Temperature 37.1 Temperature 96.7 </s>
+<s> FHR 116 Temperature 37.3 Temperature 37.2 </s>
+<s> BP 140 / 45 Effacement Patla Temperature 96.4 </s>
+<s> BP 141 / 85 BP 143 / 128 Pulse 65 </s>
+<s> Temperature 37.1 BP 126 / 70 Temperature 96.1 </s>
+<s> Temperature 36.5 Drug Injection Oxytocin Effacement Mota </s>
+<s> Temperature 36.7 Pulse 85 Pulse 118 </s>
+<s> Discharge Yellow Pulse 105 Temperature 36.7 </s>
+<s> BP 151 / 62 BP 107 / 88 Temperature 98.2 </s>
+<s> BP 101 / 78 Temperature 35.4 Dilatation 5 cm </s>
+<s> BP 141 / 104 Temperature 96.4 Dilatation 7 cm </s>
+<s> Drug Tablet Misoprostol FHR 112 Dilatation 6 cm </s>
+<s> Dilatation 7 cm Temperature 96.6 Temperature 96.4 </s>
+<s> Temperature 97.9 Dilatation 10 cm Pulse 106 </s>
+<s> Discharge Yellow Temperature 36.8 BP 141 / 98 </s>
+<s> Pulse 80 BP 153 / 67 Temperature 97.6 </s>
+<s> FHR 153 Temperature 37.3 Pulse 85 </s>
+<s> Effacement Mota Pulse 83 BP 98 / 77 </s>
+<s> BP 147 / 109 Effacement Mota Temperature 97.6 </s>
+<s> FHR 117 Effacement Patla BP 100 / 61 </s>
+<s> FHR 114 Temperature 36.7 Temperature 39.0 </s>
+<s> Temperature 36.0 FHR 170 BP 123 / 127 </s>
+<s> Drug Lignocaine Pulse 103 Temperature 97.8 </s>
+<s> BP 98 / 113 BP 104 / 108 Temperature 97.1 </s>
+<s> Discharge White BP 99 / 64 Dilatation 3 cm </s>
+<s> BP 103 / 53 Effacement Mota Pulse 117 </s>
+<s> Discharge Clear Drug Tablet Misoprostol BP 105 / 90 </s>
+<s> Dilatation 7 cm FHR 112 Pulse 91 </s>
+<s> Discharge Red BP 126 / 82 Temperature 96.2 </s>
+<s> Temperature 36.8 Temperature 96.1 Temperature 36.5 </s>
+<s> BP 157 / 72 FHR 168 Temperature 96.0 </s>
+<s> BP 114 / 72 Temperature 37.2 Temperature 39.0 </s>
+<s> BP 150 / 97 BP 135 / 57 Dilatation 4 cm </s>
+<s> Temperature 98.8 Temperature 36.4 Temperature 99.5 </s>
+<s> Pulse 103 BP 116 / 97 BP 116 / 66 </s>
+<s> BP 125 / 113 Dilatation 3 cm BP 150 / 108 </s>
+<s> BP 128 / 100 FHR 107 Pulse 93 </s>
+<s> Effacement Patla FHR 107 Temperature 98.9 </s>
+<s> Effacement Patla Temperature 96.2 Discharge White </s>
+<s> Dilatation 5 cm Pulse 85 Discharge Brown </s>
+<s> Drug Injection Oxytocin BP 106 / 78 BP 144 / 69 </s>
+<s> Temperature 36.7 BP 80 / 74 Pulse 90 </s>
+<s> FHR 133 BP 93 / 131 FHR 154 </s>
+<s> BP 118 / 76 Pulse 128 Dilatation 5 cm </s>
+<s> Discharge Clear Pulse 66 Discharge Green </s>
+<s> BP 107 / 90 Temperature 96.9 Drug Injection Oxytocin </s>
+<s> Temperature 96.7 FHR 125 BP 135 / 60 </s>
+<s> Temperature 97.0 Drug Tablet Misoprostol Effacement Mota </s>
+<s> FHR 111 FHR 97 Temperature 96.1 </s>
+<s> Temperature 96.2 Temperature 97.6 Effacement Patla </s>
+<s> BP 164 / 105 Temperature 36.1 Effacement Mota </s>
+<s> Temperature 38.7 Pulse 67 Temperature 95.9 </s>
+<s> Dilatation 3 cm FHR 110 Pulse 108 </s>
+<s> Discharge Brown Discharge Brown Dilatation 5 cm </s>
+<s> FHR 129 Temperature 96.5 Effacement Mota </s>
+<s> Temperature 35.7 FHR 115 BP 107 / 105 </s>
+<s> Temperature 98.6 Temperature 97.7 Effacement Patla </s>
+<s> Dilatation 4 cm Pulse 101 Pulse 77 </s>
+<s> Drug Lignocaine Pulse 122 Dilatation 5 cm </s>
+<s> FHR 123 BP 113 / 94 Drug Injection Oxytocin </s>
+<s> BP 133 / 68 Temperature 97.1 Temperature 37.8 </s>
+<s> Pulse 71 Discharge Red Dilatation 4 cm </s>
+<s> Drug Injection Oxytocin BP 112 / 68 Pulse 71 </s>
+<s> Drug Lignocaine Pulse 72 Discharge Green </s>
+<s> Dilatation 8 cm Discharge White Discharge Clear </s>
+<s> Dilatation 7 cm BP 112 / 64 Pulse 78 </s>
+<s> BP 112 / 81 Discharge Red Pulse 84 </s>
+<s> BP 156 / 86 FHR 158 Dilatation 6 cm </s>
+<s> Temperature 95.9 Temperature 97.2 Temperature 96.4 </s>
+<s> BP 100 / 92 BP 94 / 76 Dilatation 3 cm </s>
+<s> Effacement Patla Discharge Yellow Effacement Patla </s>
+<s> Pulse 106 BP 97 / 71 Drug Tablet Misoprostol </s>
+<s> Effacement Mota Temperature 96.9 Drug Tablet Misoprostol </s>
+<s> Temperature 97.3 Discharge Red Temperature 39.1 </s>
+<s> Discharge White Temperature 95.7 FHR 115 </s>
+<s> Drug Antibiotic Dilatation 5 cm BP 83 / 87 </s>
+<s> Effacement Mota Drug Lignocaine Dilatation 4 cm </s>
+<s> Discharge Red Pulse 83 Dilatation 2 cm </s>
+<s> Temperature 38.0 BP 139 / 77 Effacement Patla </s>
+<s> Effacement Mota BP 99 / 88 BP 132 / 115 </s>
+<s> Temperature 36.8 Temperature 38.1 Temperature 97.3 </s>
+<s> BP 116 / 49 Effacement Mota Temperature 37.0 </s>
+<s> Temperature 97.2 Temperature 99.2 BP 92 / 81 </s>
+<s> BP 137 / 60 Temperature 97.7 Dilatation 3 cm </s>
+<s> Pulse 54 Discharge Clear Discharge Green </s>
+<s> Dilatation 7 cm Effacement Patla Temperature 37.4 </s>
+<s> Effacement Patla Pulse 104 Effacement Patla </s>
+<s> Dilatation 5 cm Dilatation 4 cm Dilatation 7 cm </s>
+<s> FHR 124 Dilatation 5 cm FHR 90 </s>
+<s> Temperature 97.6 Temperature 96.9 Temperature 96.0 </s>
+<s> Drug Injection Oxytocin BP 82 / 82 Dilatation 7 cm </s>
+<s> Dilatation 4 cm Discharge White BP 157 / 81 </s>
+<s> Dilatation 7 cm Temperature 36.6 Temperature 36.2 </s>
+<s> Pulse 98 Temperature 37.5 Temperature 99.2 </s>
+<s> Discharge Green Dilatation 10 cm Discharge Brown </s>
+<s> BP 176 / 71 Drug Tablet Misoprostol Pulse 68 </s>
+<s> BP 131 / 81 BP 96 / 94 Effacement Patla </s>
+<s> Dilatation 6 cm FHR 120 Discharge Brown </s>
+<s> Pulse 122 BP 124 / 111 Drug Tablet Misoprostol </s>
+<s> Temperature 95.7 Discharge Brown Drug Tablet Misoprostol </s>
+<s> Drug Tablet Misoprostol Discharge Brown BP 89 / 55 </s>
+<s> Temperature 37.5 Temperature 37.2 Discharge White </s>
+<s> FHR 130 Discharge Clear BP 86 / 84 </s>
+<s> BP 91 / 83 BP 93 / 120 Discharge Clear </s>
+<s> Effacement Mota Drug Tablet Misoprostol Drug Injection Oxytocin </s>
+<s> BP 142 / 89 Temperature 36.3 BP 102 / 56 </s>
+<s> Dilatation 10 cm Dilatation 8 cm Pulse 60 </s>
+<s> Temperature 38.5 Temperature 36.6 BP 85 / 103 </s>
+<s> FHR 98 BP 115 / 98 Temperature 35.6 </s>
+<s> Temperature 36.8 Temperature 96.1 Dilatation 5 cm </s>
+<s> Temperature 37.7 BP 106 / 41 Dilatation 1 cm </s>
+<s> Dilatation 6 cm BP 116 / 99 BP 131 / 130 </s>
+<s> BP 143 / 59 BP 84 / 92 Drug Tablet Misoprostol </s>
+<s> FHR 153 Pulse 69 Discharge Red </s>
+<s> Pulse 50 Temperature 36.5 Effacement Patla </s>
+<s> Pulse 78 Effacement Patla Discharge Red </s>
+<s> Temperature 36.6 Pulse 84 Drug Injection Oxytocin </s>
+<s> Dilatation 6 cm Effacement Patla BP 87 / 80 </s>
+<s> Effacement Patla Discharge Red Effacement Mota </s>
+<s> Effacement Mota Temperature 38.4 Temperature 37.8 </s>
+<s> Temperature 37.3 Drug Tablet Misoprostol Pulse 113 </s>
+<s> FHR 128 Dilatation 3 cm Drug Injection Oxytocin </s>
+<s> FHR 143 Pulse 104 FHR 130 </s>
+<s> Temperature 38.0 FHR 84 Drug Tablet Misoprostol </s>
+<s> Temperature 37.1 Discharge Red Effacement Patla </s>
+<s> Temperature 36.6 Pulse 67 Drug Injection Oxytocin </s>
+<s> Effacement Patla Effacement Patla Pulse 67 </s>
+<s> Pulse 113 Temperature 38.8 Pulse 80 </s>
+<s> Temperature 38.1 Temperature 38.2 Discharge Red </s>
+<s> Dilatation 5 cm Discharge Yellow Discharge Clear </s>
+<s> Drug Injection Oxytocin Temperature 37.7 FHR 148 </s>
+<s> Temperature 97.9 BP 132 / 105 Temperature 37.5 </s>
+<s> Temperature 37.4 Pulse 71 Temperature 36.6 </s>
+<s> Temperature 97.0 Dilatation 4 cm FHR 137 </s>
+<s> BP 127 / 62 Drug Tablet Misoprostol Temperature 36.8 </s>
+<s> Dilatation 2 cm Drug Injection Oxytocin Dilatation 4 cm </s>
+<s> Pulse 85 Effacement Patla Temperature 36.3 </s>
+<s> Temperature 95.9 Pulse 65 BP 152 / 56 </s>
+<s> Temperature 96.9 Drug Injection Oxytocin Effacement Patla </s>
+<s> FHR 110 BP 135 / 90 BP 98 / 93 </s>
+<s> Discharge Yellow Temperature 38.0 BP 95 / 78 </s>
+<s> Pulse 120 Temperature 37.4 Pulse 93 </s>
+<s> BP 129 / 103 Dilatation 9 cm FHR 120 </s>
+<s> Temperature 36.7 Discharge Brown Effacement Mota </s>
+<s> BP 121 / 86 BP 121 / 78 FHR 127 </s>
+<s> BP 114 / 87 Discharge Green Dilatation 6 cm </s>
+<s> BP 126 / 84 Discharge White FHR 94 </s>
+<s> Effacement Mota Temperature 97.3 Temperature 95.7 </s>
+<s> Dilatation 3 cm BP 149 / 53 Discharge Brown </s>
+<s> Pulse 119 Discharge Red Drug Injection Oxytocin </s>
+<s> Temperature 38.0 Temperature 35.5 Temperature 35.9 </s>
+<s> Pulse 80 BP 114 / 80 Discharge White </s>
+<s> Temperature 38.5 Temperature 97.6 FHR 114 </s>
+<s> Effacement Mota Pulse 90 Dilatation 8 cm </s>
+<s> Temperature 36.4 FHR 133 Pulse 58 </s>
+<s> Pulse 82 Temperature 98.4 BP 108 / 67 </s>
+<s> Temperature 38.6 Effacement Patla Drug Injection Oxytocin </s>
+<s> BP 130 / 72 Temperature 98.6 BP 141 / 55 </s>
+<s> BP 135 / 96 Effacement Patla BP 137 / 59 </s>
+<s> BP 118 / 81 Pulse 80 Temperature 96.9 </s>
+<s> Discharge White Drug Injection Oxytocin FHR 83 </s>
+<s> Dilatation 9 cm Temperature 36.4 Effacement Patla </s>
+<s> FHR 123 Discharge Brown Effacement Patla </s>
+<s> Effacement Patla Drug Tablet Misoprostol BP 137 / 46 </s>
+<s> Discharge Clear Dilatation 6 cm BP 116 / 114 </s>
+<s> Dilatation 5 cm BP 148 / 71 FHR 151 </s>
+<s> Pulse 80 Dilatation 8 cm Pulse 66 </s>
+<s> Temperature 97.2 BP 143 / 109 Pulse 54 </s>
+<s> Temperature 36.9 FHR 149 Effacement Patla </s>
+<s> Temperature 96.3 BP 146 / 64 Temperature 37.8 </s>
+<s> Effacement Patla BP 81 / 52 BP 117 / 70 </s>
+<s> Dilatation 5 cm Temperature 97.5 Dilatation 2 cm </s>
+<s> BP 116 / 94 Discharge Green Temperature 96.8 </s>
+<s> BP 111 / 46 FHR 85 Temperature 36.1 </s>
+<s> Dilatation 7 cm BP 102 / 83 Dilatation 9 cm </s>
+<s> BP 109 / 115 BP 150 / 105 Effacement Mota </s>
+<s> Discharge Red Temperature 35.7 BP 145 / 89 </s>
+<s> FHR 135 Temperature 98.0 Temperature 96.4 </s>
+<s> Effacement Patla Temperature 36.6 Temperature 95.9 </s>
+<s> Temperature 36.0 Temperature 36.3 BP 123 / 110 </s>
+<s> Discharge Brown Effacement Mota BP 109 / 86 </s>
+<s> Drug Lignocaine Drug Injection Oxytocin Temperature 97.8 </s>
+<s> Temperature 96.0 Temperature 36.9 Temperature 38.1 </s>
+<s> Discharge Green Effacement Mota Pulse 65 </s>
+<s> BP 84 / 69 Temperature 98.5 Temperature 35.4 </s>
+<s> Temperature 99.3 Temperature 38.7 Temperature 36.8 </s>
+<s> Dilatation 4 cm Temperature 97.7 Dilatation 6 cm </s>
+<s> Effacement Patla Discharge Brown Temperature 99.5 </s>
+<s> FHR 146 Drug Lignocaine Temperature 99.4 </s>
+<s> Temperature 96.7 Effacement Mota BP 126 / 74 </s>
+<s> Discharge White Temperature 97.0 BP 99 / 71 </s>
+<s> Drug Injection Oxytocin Dilatation 7 cm Effacement Patla </s>
+<s> Temperature 98.8 Discharge Brown BP 89 / 59 </s>
+<s> Drug Injection Oxytocin Discharge White Temperature 37.8 </s>
+<s> Pulse 89 Temperature 36.0 BP 107 / 108 </s>
+<s> Drug Tablet Misoprostol Temperature 36.2 Discharge Green </s>
+<s> Pulse 74 Discharge Brown Dilatation 8 cm </s>
+<s> BP 133 / 56 Drug Lignocaine BP 157 / 135 </s>
+<s> Effacement Mota Pulse 73 Temperature 37.8 </s>
+<s> Effacement Mota Drug Lignocaine Temperature 36.2 </s>
+<s> FHR 140 FHR 152 BP 120 / 68 </s>
+<s> BP 163 / 41 Temperature 95.9 Discharge Yellow </s>
+<s> BP 124 / 84 Drug Tablet Misoprostol Discharge Clear </s>
+<s> Effacement Mota Temperature 96.9 Dilatation 9 cm </s>
+<s> BP 128 / 72 Pulse 95 BP 123 / 139 </s>
+<s> Effacement Patla BP 138 / 103 Effacement Mota </s>
+<s> Drug Lignocaine BP 129 / 81 Discharge White </s>
+<s> FHR 106 BP 132 / 72 Discharge Brown </s>
+<s> FHR 165 Temperature 36.4 Temperature 96.9 </s>
+<s> Discharge Clear Pulse 99 Pulse 87 </s>
+<s> Temperature 97.8 Temperature 97.2 Discharge White </s>
+<s> Discharge White Pulse 72 Temperature 96.8 </s>
+<s> Temperature 36.5 Pulse 94 Pulse 85 </s>
+<s> Temperature 96.8 Discharge Green Drug Lignocaine </s>
+<s> Temperature 35.3 Temperature 37.8 FHR 124 </s>
+<s> Dilatation 6 cm Discharge White Discharge Red </s>
+<s> Drug Tablet Misoprostol BP 128 / 77 Dilatation 5 cm </s>
+<s> FHR 131 Pulse 97 Discharge Yellow </s>
+<s> Drug Injection Oxytocin Temperature 99.8 Temperature 96.3 </s>
+<s> FHR 139 Temperature 36.4 Pulse 98 </s>
+<s> Drug Tablet Misoprostol Temperature 96.8 Temperature 96.9 </s>
+<s> BP 119 / 118 Discharge White BP 167 / 138 </s>
+<s> Drug Injection Oxytocin Discharge Yellow Temperature 97.7 </s>
+<s> Effacement Mota Dilatation 4 cm Drug Injection Oxytocin </s>
+<s> Pulse 85 FHR 100 Discharge Yellow </s>
+<s> Temperature 36.4 Effacement Mota Pulse 76 </s>
+<s> Dilatation 6 cm Discharge Green FHR 126 </s>
+<s> BP 103 / 59 Temperature 36.9 Dilatation 4 cm </s>
+<s> Discharge White FHR 113 BP 101 / 98 </s>
+<s> Effacement Mota Drug Tablet Misoprostol Pulse 54 </s>
+<s> Effacement Mota Temperature 36.9 BP 113 / 102 </s>
+<s> BP 96 / 79 BP 111 / 103 BP 131 / 107 </s>
+<s> FHR 108 Dilatation 3 cm Discharge Clear </s>
+<s> Dilatation 10 cm Effacement Patla Temperature 96.6 </s>
+<s> FHR 101 Dilatation 8 cm Temperature 96.0 </s>
+<s> Pulse 57 FHR 80 Temperature 98.1 </s>
+<s> Drug Lignocaine Discharge Clear Pulse 89 </s>
+<s> Pulse 74 Temperature 37.9 BP 130 / 98 </s>
+<s> Drug Lignocaine Drug Injection Oxytocin Temperature 36.5 </s>
+<s> FHR 137 Dilatation 5 cm FHR 96 </s>
+<s> BP 124 / 88 Drug Injection Oxytocin Temperature 99.3 </s>
+<s> BP 169 / 64 Drug Injection Oxytocin Effacement Patla </s>
+<s> Temperature 95.6 Dilatation 3 cm Effacement Patla </s>
+<s> Effacement Mota Pulse 105 Temperature 96.6 </s>
+<s> Discharge Brown Temperature 98.6 Drug Injection Oxytocin </s>
+<s> Drug Lignocaine Drug Antibiotic Dilatation 5 cm </s>
+<s> Discharge Brown FHR 160 Discharge Yellow </s>
+<s> Pulse 79 Temperature 96.1 BP 95 / 59 </s>
+<s> Temperature 36.1 Temperature 97.0 BP 142 / 92 </s>
+<s> Temperature 36.9 Drug Tablet Misoprostol Dilatation 5 cm </s>
+<s> Drug Injection Oxytocin Temperature 37.6 Effacement Mota </s>
+<s> Discharge Red Effacement Mota BP 131 / 76 </s>
+<s> BP 110 / 84 Temperature 36.3 Temperature 97.4 </s>
+<s> Temperature 98.3 Effacement Patla Discharge Red </s>
+<s> Temperature 95.5 Drug Injection Oxytocin Temperature 37.7 </s>
+<s> Drug Tablet Misoprostol Temperature 96.3 FHR 143 </s>
+<s> BP 149 / 104 Effacement Patla Temperature 95.9 </s>
+<s> Discharge Red BP 168 / 81 Drug Injection Oxytocin </s>
+<s> Dilatation 8 cm Temperature 96.5 Dilatation 5 cm </s>
+<s> BP 93 / 78 FHR 118 Pulse 96 </s>
+<s> Pulse 87 Dilatation 8 cm BP 111 / 89 </s>
+<s> Temperature 97.2 Discharge White FHR 119 </s>
+<s> Drug Lignocaine Pulse 56 BP 96 / 74 </s>
+<s> Drug Lignocaine Discharge Yellow FHR 126 </s>
+<s> Pulse 57 Pulse 59 Temperature 97.6 </s>
+<s> Effacement Mota Pulse 91 Drug Tablet Misoprostol </s>
+<s> Dilatation 6 cm FHR 135 Pulse 103 </s>
+<s> Effacement Mota Pulse 98 BP 93 / 101 </s>
+<s> Temperature 37.6 Temperature 95.6 BP 140 / 43 </s>
+<s> Temperature 36.5 Drug Antibiotic BP 96 / 66 </s>
+<s> Effacement Mota Pulse 80 Pulse 119 </s>
+<s> BP 125 / 73 BP 113 / 64 Temperature 97.9 </s>
+<s> Temperature 35.7 FHR 124 Effacement Mota </s>
+<s> Drug Tablet Misoprostol FHR 142 Pulse 111 </s>
+<s> Dilatation 7 cm FHR 147 Pulse 61 </s>
+<s> BP 90 / 96 Drug Lignocaine FHR 165 </s>
+<s> BP 140 / 52 Temperature 96.4 Drug Injection Oxytocin </s>
+<s> Dilatation 5 cm Drug Tablet Misoprostol Effacement Mota </s>
+<s> Effacement Patla Temperature 97.3 Temperature 40.0 </s>
+<s> Temperature 96.8 BP 144 / 77 Temperature 98.6 </s>
+<s> Effacement Patla Pulse 71 BP 134 / 112 </s>
+<s> Dilatation 9 cm BP 132 / 115 BP 168 / 89 </s>
+<s> BP 114 / 50 Temperature 36.5 BP 123 / 63 </s>
+<s> Dilatation 6 cm Discharge Red Discharge Clear </s>
+<s> BP 151 / 86 BP 109 / 55 Dilatation 4 cm </s>
+<s> BP 92 / 55 Pulse 60 BP 128 / 52 </s>
+<s> FHR 136 Temperature 95.9 Temperature 35.4 </s>
+<s> BP 112 / 116 Temperature 98.1 Temperature 36.7 </s>
+<s> Temperature 36.3 Temperature 96.6 Temperature 99.4 </s>
+<s> BP 107 / 81 FHR 144 Effacement Mota </s>
+<s> Dilatation 6 cm FHR 90 BP 88 / 70 </s>
+<s> Discharge Yellow Dilatation 4 cm BP 125 / 109 </s>
+<s> Temperature 35.9 Dilatation 6 cm BP 143 / 86 </s>
+<s> Temperature 36.3 FHR 139 Discharge White </s>
+<s> Discharge Clear Drug Tablet Misoprostol Discharge White </s>
+<s> Drug Tablet Misoprostol Dilatation 10 cm Discharge Brown </s>
+<s> Drug Tablet Misoprostol Effacement Mota Discharge Red </s>
+<s> Pulse 52 Pulse 70 Discharge Yellow </s>
+<s> Pulse 57 Discharge Red Dilatation 3 cm </s>
+<s> BP 127 / 118 BP 133 / 62 Pulse 58 </s>
+<s> Temperature 96.2 Temperature 96.2 Drug Injection Oxytocin </s>
+<s> Discharge White FHR 135 BP 94 / 57 </s>
+<s> Discharge Green BP 151 / 72 Pulse 115 </s>
+<s> BP 99 / 90 BP 124 / 62 Temperature 96.9 </s>
+<s> Drug Tablet Misoprostol Temperature 95.9 Effacement Patla </s>
+<s> Dilatation 6 cm BP 133 / 91 Effacement Patla </s>
+<s> Discharge Green FHR 126 FHR 121 </s>
+<s> BP 103 / 79 Temperature 96.3 BP 130 / 73 </s>
+<s> Temperature 98.4 Temperature 96.2 Pulse 52 </s>
+<s> FHR 116 Temperature 38.9 Temperature 39.8 </s>
+<s> Dilatation 2 cm BP 151 / 67 Pulse 98 </s>
+<s> Temperature 37.2 Pulse 87 Drug Injection Oxytocin </s>
+<s> Effacement Mota BP 139 / 58 Temperature 98.0 </s>
+<s> BP 134 / 106 Pulse 83 FHR 158 </s>
+<s> Effacement Mota BP 93 / 67 BP 164 / 64 </s>
+<s> Discharge Brown BP 144 / 80 Dilatation 4 cm </s>
+<s> Drug Tablet Misoprostol Pulse 85 BP 116 / 70 </s>
+<s> Temperature 36.5 FHR 121 Effacement Patla </s>
+<s> Temperature 98.4 Drug Injection Oxytocin Temperature 96.7 </s>
+<s> BP 119 / 110 BP 135 / 74 Temperature 97.0 </s>
+<s> Pulse 101 BP 86 / 85 Discharge Brown </s>
+<s> Discharge Red Temperature 97.8 Dilatation 6 cm </s>
+<s> FHR 194 BP 95 / 53 BP 128 / 90 </s>
+<s> Effacement Mota Dilatation 6 cm Temperature 97.1 </s>
